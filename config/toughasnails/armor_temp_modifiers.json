@@ -1,0 +1,110 @@
+[
+  {
+    "names": [
+      "toughasnails:jelled_slime_helmet",
+      "toughasnails:jelled_slime_chestplate",
+      "toughasnails:jelled_slime_leggings",
+      "toughasnails:jelled_slime_boots"
+    ],
+    "modifier": -2
+  },
+  {
+    "names": [
+      "toughasnails:wool_helmet",
+      "toughasnails:wool_chestplate",
+      "toughasnails:wool_leggings",
+      "toughasnails:wool_boots"
+    ],
+    "modifier": 2
+  },
+  {
+    "names": [
+      "minecraft:leather_helmet",
+      "minecraft:leather_chestplate",
+      "minecraft:leather_leggings",
+      "minecraft:leather_boots"
+    ],
+    "modifier": 1
+  },
+  {
+    "names": [
+      "dungeontactics:bone_helmet",
+      "dungeontactics:bone_chestplate",
+      "dungeontactics:bone_leggings",
+      "dungeontactics:bone_boots"
+    ],
+    "modifier": 1
+  },
+  {
+    "names": [
+      "minecraft:golden_helmet",
+      "minecraft:golden_chestplate",
+      "minecraft:golden_leggings",
+      "minecraft:golden_boots"
+    ],
+    "modifier": 1
+  },
+  {
+    "names": [
+      "dungeontactics:silver_helmet",
+      "dungeontactics:silver_chestplate",
+      "dungeontactics:silver_leggings",
+      "dungeontactics:silver_boots"
+    ],
+    "modifier": 1
+  },
+  {
+    "names": [
+      "minecraft:iron_helmet",
+      "minecraft:iron_chestplate",
+      "minecraft:iron_leggings",
+      "minecraft:iron_boots"
+    ],
+    "modifier": 1
+  },
+  {
+    "names": [
+      "dungeontactics:steel_helmet",
+      "dungeontactics:steel_chestplate",
+      "dungeontactics:steel_leggings",
+      "dungeontactics:steel_boots"
+    ],
+    "modifier": 1
+  },
+  {
+    "names": [
+      "minecraft:diamond_helmet",
+      "minecraft:diamond_chestplate",
+      "minecraft:diamond_leggings",
+      "minecraft:diamond_boots"
+    ],
+    "modifier": 1
+  },
+  {
+    "names": [
+      "dungeontactics:mithril_helmet",
+      "dungeontactics:mithril_chestplate",
+      "dungeontactics:mithril_leggings",
+      "dungeontactics:mithril_boots"
+    ],
+    "modifier": 1
+  },
+  {
+    "names": [
+      "cyclicmagic:emerald_helmet",
+      "cyclicmagic:emerald_chestplate",
+      "cyclicmagic:emerald_leggings",
+      "cyclicmagic:emerald_boots"
+    ],
+    "modifier": 1
+  },
+  {
+    "names": [
+      "cyclicmagic:purple_helmet",
+      "cyclicmagic:purple_chestplate",
+      "cyclicmagic:purple_leggings",
+      "cyclicmagic:purple_boots"
+    ],
+    "modifier": 1
+  }
+]

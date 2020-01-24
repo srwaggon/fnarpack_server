@@ -1,0 +1,13 @@
+{
+  "name": "critter",
+  "loadDefault": true,
+  "hunt": [],
+  "pack": [],
+  "wary": [],
+  "flee": [
+    "predator",
+    "boss"
+  ],
+  "ignore": [],
+  "default": "wary"
+}

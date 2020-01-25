@@ -1,0 +1,16 @@
+{
+  "type": "crafting_shapeless",
+  "activ": "true",
+  "ingredients": [
+    {
+      "item": "minecraft:arrow"
+    },
+    {
+      "item": "realistictorches:torch_lit"
+    }
+  ],
+  "result": {
+    "item": "switchbow:arrowtorch",
+    "count": 1
+  }
+}

@@ -136,9 +136,6 @@ recipes.remove(<waystones:waystone>);
 recipes.remove(<waystones:warp_stone>);
 recipes.remove(<firstaid:plaster>);
 recipes.remove(<firstaid:bandage>);
-recipes.remove(<roughtweaks:salve>);
-recipes.remove(<roughtweaks:plaster>);
-recipes.remove(<roughtweaks:bandage>);
 
 recipes.remove(<xat:weightless_stone>);
 recipes.remove(<xat:fairy_ring>);
@@ -379,16 +376,19 @@ furnace.addRecipe(<iceandfire:sapphire_gem> * 1, <iceandfire:sapphire_ore:*>, 99
 brewing.addBrew(<minecraft:potion>.withTag({Potion: "minecraft:awkward"}), <waystones:warp_scroll>, <bountifulbaubles:potionrecall>);
 brewing.addBrew(<bountifulbaubles:potionrecall>, <minecraft:ender_eye>, <bountifulbaubles:potionwormhole>);
 
+
+recipes.remove(<antiqueatlas:empty_antique_atlas>);
 recipes.addShapeless("lolarecipe1",<antiqueatlas:empty_antique_atlas>,[<minecraft:writable_book>,<minecraft:compass>]);
 
+recipes.remove(<roughtweaks:salve>);
 recipes.addShapeless("lolarecipe2",<roughtweaks:salve>,[<minecraft:bowl>,<minecraft:red_flower:*>,<minecraft:yellow_flower>]);
-
 recipes.addShapeless("lolarecipe3",<roughtweaks:salve>,[<minecraft:bowl>,<minecraft:cactus>]);
-
 recipes.addShapeless("lolarecipe4",<roughtweaks:salve>,[<minecraft:bowl>,<minecraft:wheat_seeds>,<minecraft:vine>]);
 
+recipes.remove(<roughtweaks:plaster>);
 recipes.addShapeless("lolarecipe5",<roughtweaks:plaster>,[<roughtweaks:salve>,<ore:string>,<minecraft:paper>]);
 
+recipes.remove(<roughtweaks:bandage>);
 recipes.addShaped("lolarecipe6",<roughtweaks:bandage>,
  [[null,null,null],
   [<ore:string>,<minecraft:wool:*>,<ore:string>],

@@ -4,6 +4,6 @@
 	"amplifier": 0,
 	"minimum": 0,
 	"maximum": 20,
-	"detect": "average",
+	"detect": "cumulative",
 	"enabled": true
 }

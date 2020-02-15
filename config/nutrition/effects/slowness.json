@@ -1,9 +1,9 @@
 {
-	"name": "weakness",
-	"potion": "minecraft:weakness",
+	"name": "slowness",
+	"potion": "minecraft:slowness",
 	"amplifier": 0,
 	"minimum": 0,
-	"maximum": 10,
-	"detect": "average",
+	"maximum": 20,
+	"detect": "cumulative",
 	"enabled": true
 }

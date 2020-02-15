@@ -3,7 +3,7 @@
 	"potion": "minecraft:weakness",
 	"amplifier": 0,
 	"minimum": 0,
-	"maximum": 25,
+	"maximum": 15,
 	"detect": "cumulative",
 	"enabled": true
 }

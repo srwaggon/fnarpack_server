@@ -129,9 +129,9 @@ recipes.remove(<variedcommodities:mana>);
 
 recipes.remove(<qualitytools:emerald_ring>);
 recipes.remove(<qualitytools:emerald_amulet>);
-recipes.remove(<antiqueatlas:empty_antique_atlas>);
-recipes.remove(<lycanitesmobs:throwingscythe>);
-recipes.remove(<lycanitesmobs:purelava>);
+
+// recipes.remove(<lycanitesmobs:throwingscythe>);
+// recipes.remove(<lycanitesmobs:purelava>);
 recipes.remove(<waystones:waystone>);
 recipes.remove(<waystones:warp_stone>);
 recipes.remove(<firstaid:plaster>);

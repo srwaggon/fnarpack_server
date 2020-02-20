@@ -3,7 +3,7 @@
   "icon": "minecraft:cooked_beef",
   "color": "db6c23",
   "enabled": true,
-  "decay": 4.0,
+  "decay": 3.0,
   "food": {
     "oredict": [
       "cropChestnut",

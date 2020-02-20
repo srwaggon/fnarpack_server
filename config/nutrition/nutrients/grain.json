@@ -3,7 +3,7 @@
   "icon": "minecraft:wheat",
   "color": "f4d92e",
   "enabled": true,
-  "decay": 5.0,
+  "decay": 4.0,
   "food": {
     "oredict": [
       "bread",

@@ -1,134 +1,5 @@
-print("Script starting!");
-
 <ore:toolAxe>.add(<iceandfire:silver_axe:*>);
 <ore:toolAxe>.add(<iceandfire:dragonbone_axe:*>);
-
-recipes.remove(<variedcommodities:diamond_gun>);
-recipes.remove(<variedcommodities:emerald_gun>);
-recipes.remove(<variedcommodities:iron_gun>);
-recipes.remove(<variedcommodities:golden_gun>);
-recipes.remove(<variedcommodities:stone_gun>);
-recipes.remove(<variedcommodities:wooden_gun>);
-recipes.remove(<variedcommodities:bronze_gun>);
-recipes.remove(<variedcommodities:diamond_trident>);
-recipes.remove(<variedcommodities:emerald_trident>);
-recipes.remove(<variedcommodities:iron_trident>);
-recipes.remove(<variedcommodities:golden_trident>);
-recipes.remove(<variedcommodities:stone_trident>);
-recipes.remove(<variedcommodities:wooden_trident>);
-recipes.remove(<variedcommodities:frost_trident>);
-recipes.remove(<variedcommodities:bronze_trident>);
-recipes.remove(<variedcommodities:diamond_glaive>);
-recipes.remove(<variedcommodities:emerald_glaive>);
-recipes.remove(<variedcommodities:iron_glaive>);
-recipes.remove(<variedcommodities:golden_glaive>);
-recipes.remove(<variedcommodities:stone_glaive>);
-recipes.remove(<variedcommodities:wooden_glaive>);
-recipes.remove(<variedcommodities:frost_glaive>);
-recipes.remove(<variedcommodities:bronze_glaive>);
-recipes.remove(<variedcommodities:diamond_spear>);
-recipes.remove(<variedcommodities:emerald_spear>);
-recipes.remove(<variedcommodities:iron_spear>);
-recipes.remove(<variedcommodities:golden_spear>);
-recipes.remove(<variedcommodities:stone_spear>);
-recipes.remove(<variedcommodities:wooden_spear>);
-recipes.remove(<variedcommodities:frost_spear>);
-recipes.remove(<variedcommodities:bronze_spear>);
-recipes.remove(<variedcommodities:diamond_broadsword>);
-recipes.remove(<variedcommodities:emerald_broadsword>);
-recipes.remove(<variedcommodities:iron_broadsword>);
-recipes.remove(<variedcommodities:golden_broadsword>);
-recipes.remove(<variedcommodities:stone_broadsword>);
-recipes.remove(<variedcommodities:wooden_broadsword>);
-recipes.remove(<variedcommodities:frost_broadsword>);
-recipes.remove(<variedcommodities:bronze_broadsword>);
-recipes.remove(<variedcommodities:diamond_scythe>);
-recipes.remove(<variedcommodities:emerald_scythe>);
-recipes.remove(<variedcommodities:iron_scythe>);
-recipes.remove(<variedcommodities:golden_scythe>);
-recipes.remove(<variedcommodities:stone_scythe>);
-recipes.remove(<variedcommodities:wooden_scythe>);
-recipes.remove(<variedcommodities:frost_scythe>);
-recipes.remove(<variedcommodities:bronze_scythe>);
-recipes.remove(<variedcommodities:diamond_warhammer>);
-recipes.remove(<variedcommodities:emerald_warhammer>);
-recipes.remove(<variedcommodities:iron_warhammer>);
-recipes.remove(<variedcommodities:golden_warhammer>);
-recipes.remove(<variedcommodities:stone_warhammer>);
-recipes.remove(<variedcommodities:wooden_warhammer>);
-recipes.remove(<variedcommodities:frost_warhammer>);
-recipes.remove(<variedcommodities:bronze_warhammer>);
-recipes.remove(<variedcommodities:diamond_halberd>);
-recipes.remove(<variedcommodities:emerald_halberd>);
-recipes.remove(<variedcommodities:iron_halberd>);
-recipes.remove(<variedcommodities:golden_halberd>);
-recipes.remove(<variedcommodities:stone_halberd>);
-recipes.remove(<variedcommodities:wooden_halberd>);
-recipes.remove(<variedcommodities:frost_halberd>);
-recipes.remove(<variedcommodities:bronze_halberd>);
-recipes.remove(<variedcommodities:diamond_battleaxe>);
-recipes.remove(<variedcommodities:emerald_battleaxe>);
-recipes.remove(<variedcommodities:iron_battleaxe>);
-recipes.remove(<variedcommodities:golden_battleaxe>);
-recipes.remove(<variedcommodities:stone_battleaxe>);
-recipes.remove(<variedcommodities:wooden_battleaxe>);
-recipes.remove(<variedcommodities:frost_battleaxe>);
-recipes.remove(<variedcommodities:bronze_battleaxe>);
-recipes.remove(<variedcommodities:diamond_shield>);
-recipes.remove(<variedcommodities:emerald_shield>);
-recipes.remove(<variedcommodities:iron_shield>);
-recipes.remove(<variedcommodities:golden_shield>);
-recipes.remove(<variedcommodities:stone_shield>);
-recipes.remove(<variedcommodities:wooden_shield>);
-recipes.remove(<variedcommodities:frost_shield>);
-recipes.remove(<variedcommodities:bronze_shield>);
-recipes.remove(<variedcommodities:diamond_shield_round>);
-recipes.remove(<variedcommodities:emerald_shield_round>);
-recipes.remove(<variedcommodities:iron_shield_round>);
-recipes.remove(<variedcommodities:golden_shield_round>);
-recipes.remove(<variedcommodities:stone_shield_round>);
-recipes.remove(<variedcommodities:wooden_shield_round>);
-recipes.remove(<variedcommodities:bronze_shield_round>);
-recipes.remove(<variedcommodities:diamond_skirt>);
-recipes.remove(<variedcommodities:emerald_skirt>);
-recipes.remove(<variedcommodities:iron_skirt>);
-recipes.remove(<variedcommodities:golden_skirt>);
-recipes.remove(<variedcommodities:leather_skirt>);
-recipes.remove(<variedcommodities:bronze_skirt>);
-recipes.remove(<variedcommodities:full_diamond_head>);
-recipes.remove(<variedcommodities:full_emerald_head>);
-recipes.remove(<variedcommodities:full_iron_head>);
-recipes.remove(<variedcommodities:full_golden_head>);
-recipes.remove(<variedcommodities:full_leather_head>);
-recipes.remove(<variedcommodities:full_wooden_head>);
-recipes.remove(<variedcommodities:full_diamond_chest>);
-recipes.remove(<variedcommodities:full_emerald_chest>);
-recipes.remove(<variedcommodities:full_iron_chest>);
-recipes.remove(<variedcommodities:full_golden_chest>);
-recipes.remove(<variedcommodities:full_leather_chest>);
-recipes.remove(<variedcommodities:full_wooden_chest>);
-recipes.remove(<variedcommodities:full_emerald_legs>);
-recipes.remove(<variedcommodities:full_wooden_legs>);
-recipes.remove(<variedcommodities:full_emerald_boots>);
-recipes.remove(<variedcommodities:full_wooden_boots>);
-recipes.remove(<variedcommodities:full_bronze_head>);
-recipes.remove(<variedcommodities:full_bronze_chest>);
-recipes.remove(<variedcommodities:full_bronze_legs>);
-recipes.remove(<variedcommodities:full_bronze_boots>);
-recipes.remove(<variedcommodities:diamond_dagger>);
-recipes.remove(<variedcommodities:emerald_dagger>);
-recipes.remove(<variedcommodities:iron_dagger>);
-recipes.remove(<variedcommodities:golden_dagger>);
-recipes.remove(<variedcommodities:stone_dagger>);
-recipes.remove(<variedcommodities:wooden_dagger>);
-recipes.remove(<variedcommodities:frost_dagger>);
-recipes.remove(<variedcommodities:bullet>);
-recipes.remove(<variedcommodities:frost_sword>);
-recipes.remove(<variedcommodities:emerald_sword>);
-recipes.remove(<variedcommodities:mana>);
-
-recipes.remove(<qualitytools:emerald_ring>);
-recipes.remove(<qualitytools:emerald_amulet>);
 
 // recipes.remove(<lycanitesmobs:throwingscythe>);
 // recipes.remove(<lycanitesmobs:purelava>);
@@ -155,11 +26,7 @@ recipes.removeByRecipeName("bountifulbaubles:ringflywheeladvanced");
 recipes.removeByRecipeName("bountifulbaubles:ringiron");
 recipes.removeByRecipeName("bountifulbaubles:spectralsilt_sinpendantempty");
 
-recipes.remove(<campfire:campfire>);
-
 recipes.remove(<potionfingers:ring:1>);
-
-recipes.remove(<xat:glowing_ingot>);
 
 recipes.remove(<minecraft:snow_layer>);
 
@@ -180,9 +47,6 @@ recipes.remove(<grapplemod:swingupgradeitem>);
 recipes.remove(<grapplemod:throwupgradeitem>);
 recipes.remove(<grapplemod:limitsupgradeitem>);
 recipes.remove(<grapplemod:longfallboots>);
-
-recipes.remove(<minecraft:web>);
-recipes.remove(<sereneseasons:greenhouse_glass>);
 
 recipes.remove(<mujmajnkraftsbettersurvival:itemwooddagger>);
 recipes.remove(<mujmajnkraftsbettersurvival:itemstonedagger>);
@@ -210,168 +74,11 @@ recipes.removeByRecipeName("grapplemod:longfallboots");
 
 recipes.removeByRecipeName("notreepunching:tools/fire_starter");
 
-furnace.remove(<notreepunching:ceramic_small_vessel>);
-
-furnace.remove(<minecraft:gold_nugget>);
-furnace.remove(<minecraft:iron_nugget>);
-furnace.remove(<defiledlands:umbrium_nugget>);
-furnace.remove(<variedcommodities:ingot_steel>);
-
-furnace.remove(<iceandfire:silver_ingot>);
+// furnace.remove(<notreepunching:ceramic_small_vessel>);
 
 recipes.remove(<wolfarmor:chainmail_wolf_armor>);
 
 recipes.remove(<firstaid:bandage>);
-
-furnace.addRecipe(<minecraft:diamond> * 2, <minecraft:diamond_helmet:*>, 99999);
-furnace.addRecipe(<minecraft:diamond> * 4, <minecraft:diamond_chestplate:*>, 99999);
-furnace.addRecipe(<minecraft:diamond> * 3, <minecraft:diamond_leggings:*>, 99999);
-furnace.addRecipe(<minecraft:diamond> * 1, <minecraft:diamond_boots:*>, 99999);
-furnace.addRecipe(<minecraft:iron_ingot> * 2, <minecraft:iron_helmet:*>, 99999);
-furnace.addRecipe(<minecraft:iron_ingot> * 4, <minecraft:iron_chestplate:*>, 99999);
-furnace.addRecipe(<minecraft:iron_ingot> * 3, <minecraft:iron_leggings:*>, 99999);
-furnace.addRecipe(<minecraft:iron_ingot> * 1, <minecraft:iron_boots:*>, 99999);
-furnace.addRecipe(<minecraft:gold_ingot> * 2, <minecraft:golden_helmet:*>, 99999);
-furnace.addRecipe(<minecraft:gold_ingot> * 4, <minecraft:golden_chestplate:*>, 99999);
-furnace.addRecipe(<minecraft:gold_ingot> * 3, <minecraft:golden_leggings:*>, 99999);
-furnace.addRecipe(<minecraft:gold_ingot> * 1, <minecraft:golden_boots:*>, 99999);
-furnace.addRecipe(<minecraft:diamond> * 1, <minecraft:diamond_sword:*>, 99999);
-furnace.addRecipe(<minecraft:diamond> * 1, <minecraft:diamond_pickaxe:*>, 99999);
-furnace.addRecipe(<minecraft:diamond> * 1, <minecraft:diamond_axe:*>, 99999);
-furnace.addRecipe(<minecraft:diamond> * 1, <minecraft:diamond_hoe:*>, 99999);
-furnace.addRecipe(<variedcommodities:coin_diamond> * 4, <minecraft:diamond_shovel:*>, 99999);
-furnace.addRecipe(<minecraft:iron_ingot> * 1, <minecraft:iron_sword:*>, 99999);
-furnace.addRecipe(<minecraft:iron_ingot> * 1, <minecraft:iron_pickaxe:*>, 99999);
-furnace.addRecipe(<minecraft:iron_ingot> * 1, <minecraft:iron_axe:*>, 99999);
-furnace.addRecipe(<minecraft:iron_ingot> * 1, <minecraft:iron_hoe:*>, 99999);
-furnace.addRecipe(<minecraft:iron_nugget> * 4, <minecraft:iron_shovel:*>, 99999);
-furnace.addRecipe(<minecraft:gold_ingot> * 1, <minecraft:golden_sword:*>, 99999);
-furnace.addRecipe(<minecraft:gold_ingot> * 1, <minecraft:golden_pickaxe:*>, 99999);
-furnace.addRecipe(<minecraft:gold_ingot> * 1, <minecraft:golden_axe:*>, 99999);
-furnace.addRecipe(<minecraft:gold_ingot> * 1, <minecraft:golden_hoe:*>, 99999);
-furnace.addRecipe(<minecraft:gold_nugget> * 4, <minecraft:golden_shovel:*>, 99999);
-furnace.addRecipe(<minecraft:diamond> * 8, <minecraft:diamond_horse_armor:*>, 99999);
-furnace.addRecipe(<minecraft:iron_ingot> * 8, <minecraft:iron_horse_armor:*>, 99999);
-furnace.addRecipe(<minecraft:gold_ingot> * 8, <minecraft:golden_horse_armor:*>, 99999);
-furnace.addRecipe(<minecraft:iron_nugget> * 11, <minecraft:chainmail_helmet:*>, 99999);
-furnace.addRecipe(<minecraft:iron_nugget> * 18, <minecraft:chainmail_chestplate:*>, 99999);
-furnace.addRecipe(<minecraft:iron_nugget> * 15, <minecraft:chainmail_leggings:*>, 99999);
-furnace.addRecipe(<minecraft:iron_nugget> * 9, <minecraft:chainmail_boots:*>, 99999);
-
-furnace.addRecipe(<minecraft:diamond> * 3, <mujmajnkraftsbettersurvival:itemdiamondhammer:*>, 99999);
-furnace.addRecipe(<minecraft:diamond> * 2, <mujmajnkraftsbettersurvival:itemdiamondbattleaxe:*>, 99999);
-furnace.addRecipe(<variedcommodities:coin_diamond> * 4, <mujmajnkraftsbettersurvival:itemdiamonddagger:*>, 99999);
-furnace.addRecipe(<minecraft:diamond> * 1, <mujmajnkraftsbettersurvival:itemdiamondnunchaku:*>, 99999);
-furnace.addRecipe(<minecraft:iron_ingot> * 3, <mujmajnkraftsbettersurvival:itemironhammer:*>, 99999);
-furnace.addRecipe(<minecraft:iron_ingot> * 2, <mujmajnkraftsbettersurvival:itemironbattleaxe:*>, 99999);
-furnace.addRecipe(<minecraft:iron_nugget> * 4, <mujmajnkraftsbettersurvival:itemirondagger:*>, 99999);
-furnace.addRecipe(<minecraft:iron_ingot> * 1, <mujmajnkraftsbettersurvival:itemironnunchaku:*>, 99999);
-furnace.addRecipe(<minecraft:gold_ingot> * 3, <mujmajnkraftsbettersurvival:itemgoldhammer:*>, 99999);
-furnace.addRecipe(<minecraft:gold_ingot> * 2, <mujmajnkraftsbettersurvival:itemgoldbattleaxe:*>, 99999);
-furnace.addRecipe(<minecraft:gold_nugget> * 4, <mujmajnkraftsbettersurvival:itemgolddagger:*>, 99999);
-furnace.addRecipe(<minecraft:gold_ingot> * 1, <mujmajnkraftsbettersurvival:itemgoldnunchaku:*>, 99999);
-furnace.addRecipe(<iceandfire:silver_ingot> * 3, <mujmajnkraftsbettersurvival:itemsilverhammer:*>, 99999);
-furnace.addRecipe(<iceandfire:silver_ingot> * 2, <mujmajnkraftsbettersurvival:itemsilverbattleaxe:*>, 99999);
-furnace.addRecipe(<iceandfire:silver_nugget> * 4, <mujmajnkraftsbettersurvival:itemsilverdagger:*>, 99999);
-furnace.addRecipe(<iceandfire:silver_ingot> * 1, <mujmajnkraftsbettersurvival:itemsilvernunchaku:*>, 99999);
-furnace.addRecipe(<variedcommodities:ingot_bronze> * 3, <mujmajnkraftsbettersurvival:itembronzehammer:*>, 99999);
-furnace.addRecipe(<variedcommodities:ingot_bronze> * 2, <mujmajnkraftsbettersurvival:itembronzebattleaxe:*>, 99999);
-furnace.addRecipe(<variedcommodities:coin_bronze> * 4, <mujmajnkraftsbettersurvival:itembronzedagger:*>, 99999);
-furnace.addRecipe(<variedcommodities:ingot_bronze> * 1, <mujmajnkraftsbettersurvival:itembronzenunchaku:*>, 99999);
-
-furnace.addRecipe(<minecraft:diamond> * 2, <spartanweaponry:longsword_diamond:*>, 99999);
-furnace.addRecipe(<minecraft:diamond> * 1, <spartanweaponry:katana_diamond:*>, 99999);
-furnace.addRecipe(<minecraft:diamond> * 1, <spartanweaponry:saber_diamond:*>, 99999);
-furnace.addRecipe(<minecraft:diamond> * 2, <spartanweaponry:rapier_diamond:*>, 99999);
-furnace.addRecipe(<minecraft:diamond> * 3, <spartanweaponry:greatsword_diamond:*>, 99999);
-furnace.addRecipe(<minecraft:diamond> * 3, <spartanweaponry:hammer_diamond:*>, 99999);
-furnace.addRecipe(<minecraft:diamond> * 1, <spartanweaponry:warhammer_diamond:*>, 99999);
-furnace.addRecipe(<minecraft:diamond> * 2, <spartanweaponry:halberd_diamond:*>, 99999);
-furnace.addRecipe(<minecraft:diamond> * 1, <spartanweaponry:throwing_axe_diamond:*>, 99999);
-furnace.addRecipe(<minecraft:diamond> * 2, <spartanweaponry:battleaxe_diamond:*>, 99999);
-furnace.addRecipe(<minecraft:diamond> * 1, <spartanweaponry:mace_diamond:*>, 99999);
-furnace.addRecipe(<minecraft:diamond> * 1, <spartanweaponry:glaive_diamond:*>, 99999);
-furnace.addRecipe(<minecraft:diamond> * 1, <spartanweaponry:staff_diamond:*>, 99999);
-furnace.addRecipe(<minecraft:iron_ingot> * 2, <spartanweaponry:longsword_iron:*>, 99999);
-furnace.addRecipe(<minecraft:iron_ingot> * 1, <spartanweaponry:katana_iron:*>, 99999);
-furnace.addRecipe(<minecraft:iron_ingot> * 1, <spartanweaponry:saber_iron:*>, 99999);
-furnace.addRecipe(<minecraft:iron_ingot> * 2, <spartanweaponry:rapier_iron:*>, 99999);
-furnace.addRecipe(<minecraft:iron_ingot> * 3, <spartanweaponry:greatsword_iron:*>, 99999);
-furnace.addRecipe(<minecraft:iron_ingot> * 3, <spartanweaponry:hammer_iron:*>, 99999);
-furnace.addRecipe(<minecraft:iron_ingot> * 1, <spartanweaponry:warhammer_iron:*>, 99999);
-furnace.addRecipe(<minecraft:iron_ingot> * 2, <spartanweaponry:halberd_iron:*>, 99999);
-furnace.addRecipe(<minecraft:iron_ingot> * 1, <spartanweaponry:throwing_axe_iron:*>, 99999);
-furnace.addRecipe(<minecraft:iron_ingot> * 2, <spartanweaponry:battleaxe_iron:*>, 99999);
-furnace.addRecipe(<minecraft:iron_ingot> * 1, <spartanweaponry:mace_iron:*>, 99999);
-furnace.addRecipe(<minecraft:iron_ingot> * 1, <spartanweaponry:glaive_iron:*>, 99999);
-furnace.addRecipe(<minecraft:iron_ingot> * 1, <spartanweaponry:staff_iron:*>, 99999);
-furnace.addRecipe(<minecraft:gold_ingot> * 2, <spartanweaponry:longsword_gold:*>, 99999);
-furnace.addRecipe(<minecraft:gold_ingot> * 1, <spartanweaponry:katana_gold:*>, 99999);
-furnace.addRecipe(<minecraft:gold_ingot> * 1, <spartanweaponry:saber_gold:*>, 99999);
-furnace.addRecipe(<minecraft:gold_ingot> * 2, <spartanweaponry:rapier_gold:*>, 99999);
-furnace.addRecipe(<minecraft:gold_ingot> * 3, <spartanweaponry:greatsword_gold:*>, 99999);
-furnace.addRecipe(<minecraft:gold_ingot> * 3, <spartanweaponry:hammer_gold:*>, 99999);
-furnace.addRecipe(<minecraft:gold_ingot> * 1, <spartanweaponry:warhammer_gold:*>, 99999);
-furnace.addRecipe(<minecraft:gold_ingot> * 2, <spartanweaponry:halberd_gold:*>, 99999);
-furnace.addRecipe(<minecraft:gold_ingot> * 1, <spartanweaponry:throwing_axe_gold:*>, 99999);
-furnace.addRecipe(<minecraft:gold_ingot> * 2, <spartanweaponry:battleaxe_gold:*>, 99999);
-furnace.addRecipe(<minecraft:gold_ingot> * 1, <spartanweaponry:mace_gold:*>, 99999);
-furnace.addRecipe(<minecraft:gold_ingot> * 1, <spartanweaponry:glaive_gold:*>, 99999);
-furnace.addRecipe(<minecraft:gold_ingot> * 1, <spartanweaponry:staff_gold:*>, 99999);
-furnace.addRecipe(<iceandfire:silver_ingot> * 2, <spartanweaponry:longsword_silver:*>, 99999);
-furnace.addRecipe(<iceandfire:silver_ingot> * 1, <spartanweaponry:katana_silver:*>, 99999);
-furnace.addRecipe(<iceandfire:silver_ingot> * 1, <spartanweaponry:saber_silver:*>, 99999);
-furnace.addRecipe(<iceandfire:silver_ingot> * 2, <spartanweaponry:rapier_silver:*>, 99999);
-furnace.addRecipe(<iceandfire:silver_ingot> * 3, <spartanweaponry:greatsword_silver:*>, 99999);
-furnace.addRecipe(<iceandfire:silver_ingot> * 3, <spartanweaponry:hammer_silver:*>, 99999);
-furnace.addRecipe(<iceandfire:silver_ingot> * 1, <spartanweaponry:warhammer_silver:*>, 99999);
-furnace.addRecipe(<iceandfire:silver_ingot> * 2, <spartanweaponry:halberd_silver:*>, 99999);
-furnace.addRecipe(<iceandfire:silver_ingot> * 1, <spartanweaponry:throwing_axe_silver:*>, 99999);
-furnace.addRecipe(<iceandfire:silver_ingot> * 2, <spartanweaponry:battleaxe_silver:*>, 99999);
-furnace.addRecipe(<iceandfire:silver_ingot> * 1, <spartanweaponry:mace_silver:*>, 99999);
-furnace.addRecipe(<iceandfire:silver_ingot> * 1, <spartanweaponry:glaive_silver:*>, 99999);
-furnace.addRecipe(<iceandfire:silver_ingot> * 1, <spartanweaponry:staff_silver:*>, 99999);
-furnace.addRecipe(<variedcommodities:ingot_bronze> * 2, <spartanweaponry:longsword_bronze:*>, 99999);
-furnace.addRecipe(<variedcommodities:ingot_bronze> * 1, <spartanweaponry:katana_bronze:*>, 99999);
-furnace.addRecipe(<variedcommodities:ingot_bronze> * 1, <spartanweaponry:saber_bronze:*>, 99999);
-furnace.addRecipe(<variedcommodities:ingot_bronze> * 2, <spartanweaponry:rapier_bronze:*>, 99999);
-furnace.addRecipe(<variedcommodities:ingot_bronze> * 3, <spartanweaponry:greatsword_bronze:*>, 99999);
-furnace.addRecipe(<variedcommodities:ingot_bronze> * 3, <spartanweaponry:hammer_bronze:*>, 99999);
-furnace.addRecipe(<variedcommodities:ingot_bronze> * 1, <spartanweaponry:warhammer_bronze:*>, 99999);
-furnace.addRecipe(<variedcommodities:ingot_bronze> * 2, <spartanweaponry:halberd_bronze:*>, 99999);
-furnace.addRecipe(<variedcommodities:ingot_bronze> * 1, <spartanweaponry:throwing_axe_bronze:*>, 99999);
-furnace.addRecipe(<variedcommodities:ingot_bronze> * 2, <spartanweaponry:battleaxe_bronze:*>, 99999);
-furnace.addRecipe(<variedcommodities:ingot_bronze> * 1, <spartanweaponry:mace_bronze:*>, 99999);
-furnace.addRecipe(<variedcommodities:ingot_bronze> * 1, <spartanweaponry:glaive_bronze:*>, 99999);
-furnace.addRecipe(<variedcommodities:ingot_bronze> * 1, <spartanweaponry:staff_bronze:*>, 99999);
-
-furnace.addRecipe(<defiledlands:umbrium_ingot> * 1, <defiledlands:umbrium_sword:*>, 99999);
-furnace.addRecipe(<defiledlands:umbrium_ingot> * 1, <defiledlands:umbrium_axe:*>, 99999);
-furnace.addRecipe(<defiledlands:umbrium_ingot> * 1, <defiledlands:umbrium_pickaxe:*>, 99999);
-furnace.addRecipe(<defiledlands:umbrium_ingot> * 1, <defiledlands:umbrium_hoe:*>, 99999);
-furnace.addRecipe(<defiledlands:umbrium_nugget> * 4, <defiledlands:umbrium_shovel:*>, 99999);
-furnace.addRecipe(<defiledlands:umbrium_ingot> * 2, <defiledlands:umbrium_helmet:*>, 99999);
-furnace.addRecipe(<defiledlands:umbrium_ingot> * 4, <defiledlands:umbrium_chestplate:*>, 99999);
-furnace.addRecipe(<defiledlands:umbrium_ingot> * 3, <defiledlands:umbrium_leggings:*>, 99999);
-furnace.addRecipe(<defiledlands:umbrium_ingot> * 2, <defiledlands:umbrium_boots:*>, 99999);
-
-furnace.addRecipe(<iceandfire:silver_ingot> * 2, <iceandfire:armor_silver_metal_helmet:*>, 99999);
-furnace.addRecipe(<iceandfire:silver_ingot> * 4, <iceandfire:armor_silver_metal_chestplate:*>, 99999);
-furnace.addRecipe(<iceandfire:silver_ingot> * 3, <iceandfire:armor_silver_metal_leggings:*>, 99999);
-furnace.addRecipe(<iceandfire:silver_ingot> * 2, <iceandfire:armor_silver_metal_boots:*>, 99999);
-furnace.addRecipe(<iceandfire:silver_ingot> * 1, <iceandfire:silver_sword:*>, 99999);
-furnace.addRecipe(<iceandfire:silver_ingot> * 1, <iceandfire:silver_axe:*>, 99999);
-furnace.addRecipe(<iceandfire:silver_ingot> * 1, <iceandfire:silver_pickaxe:*>, 99999);
-furnace.addRecipe(<iceandfire:silver_ingot> * 1, <iceandfire:silver_hoe:*>, 99999);
-furnace.addRecipe(<iceandfire:silver_nugget> * 4, <iceandfire:silver_shovel:*>, 99999);
-
-furnace.addRecipe(<minecraft:iron_nugget> * 12, <wolfarmor:chainmail_wolf_armor:*>, 99999);
-furnace.addRecipe(<minecraft:iron_ingot> * 3, <wolfarmor:iron_wolf_armor:*>, 99999);
-furnace.addRecipe(<minecraft:gold_ingot> * 3, <wolfarmor:gold_wolf_armor:*>, 99999);
-furnace.addRecipe(<minecraft:diamond> * 3, <wolfarmor:diamond_wolf_armor:*>, 99999);
-
-furnace.addRecipe(<iceandfire:silver_ingot> * 1, <iceandfire:silver_ore:*>, 99999);
-furnace.addRecipe(<iceandfire:sapphire_gem> * 1, <iceandfire:sapphire_ore:*>, 99999);
 
 brewing.addBrew(<minecraft:potion>.withTag({Potion: "minecraft:awkward"}), <waystones:warp_scroll>, <bountifulbaubles:potionrecall>);
 brewing.addBrew(<bountifulbaubles:potionrecall>, <minecraft:ender_eye>, <bountifulbaubles:potionwormhole>);
@@ -459,19 +166,22 @@ recipes.addShaped("lolarecipe20",<mujmajnkraftsbettersurvival:itemstonehammer>,
   [<minecraft:stick>,<ore:cobblestone>,<ore:cobblestone>],
   [null,<ore:cobblestone>,<ore:cobblestone>]]);
 
-//recipes.addShapeless("lolarecipe21",<minecraft:paper>*3,[<minecraft:log:2>]);
+// recipes.addShapeless("lolarecipe21",<minecraft:paper>*3,[<minecraft:log:2>]);
 
 recipes.addShapeless("lolarecipe21test",<minecraft:paper>*4,[<minecraft:log:2>,<minecraft:log:2>]);
 
-recipes.addShaped("lolarecipe22",<qualitytools:emerald_ring>,
- [[null,<minecraft:emerald>,null],
-  [<minecraft:gold_ingot>,null,<minecraft:gold_ingot>],
-  [null,<minecraft:gold_ingot>,null]]);
-  
-recipes.addShaped("lolarecipe23",<qualitytools:emerald_amulet>,
- [[<minecraft:gold_ingot>,<minecraft:gold_ingot>,<minecraft:gold_ingot>],
-  [<minecraft:gold_ingot>,null,<minecraft:gold_ingot>],
-  [null,<minecraft:emerald>,null]]);
+
+// recipes.remove(<qualitytools:emerald_ring>);
+// recipes.addShaped("lolarecipe22",<qualitytools:emerald_ring>,
+//  [[null,<minecraft:emerald>,null],
+//   [<minecraft:gold_ingot>,null,<minecraft:gold_ingot>],
+//   [null,<minecraft:gold_ingot>,null]]);
+
+// recipes.remove(<qualitytools:emerald_amulet>);
+// recipes.addShaped("lolarecipe23",<qualitytools:emerald_amulet>,
+//  [[<minecraft:gold_ingot>,<minecraft:gold_ingot>,<minecraft:gold_ingot>],
+//   [<minecraft:gold_ingot>,null,<minecraft:gold_ingot>],
+//   [null,<minecraft:emerald>,null]]);
   
 recipes.addShaped("lolarecipe24",<xat:dragons_eye>,
  [[<xat:glow_ring>,<minecraft:diamond_sword>,<xat:glowing_gem>],
@@ -523,11 +233,13 @@ recipes.addShapeless("lolarecipe35",<armorunder:auto_chestplate_liner>,[<armorun
 
 recipes.addShapeless("lolarecipe36",<armorunder:auto_leggings_liner>,[<armorunder:warm_leggings_liner>,<armorunder:cool_leggings_liner>]);
 
+recipes.remove(<minecraft:web>);
 recipes.addShaped("lolarecipe37",<minecraft:web>,
  [[<ore:string>,<ore:string>,<ore:string>],
   [<ore:string>,<ore:string>,<ore:string>],
   [<ore:string>,<ore:string>,<ore:string>]]);
-  
+
+recipes.remove(<sereneseasons:greenhouse_glass>);
 recipes.addShaped("lolarecipe38",<sereneseasons:greenhouse_glass>*4,
  [[<ore:dyeCyan>,<ore:blockGlass>,<ore:dyeCyan>],
   [<ore:blockGlass>,<ore:plankWood>,<ore:blockGlass>],
@@ -615,7 +327,9 @@ recipes.addShaped("lolarecipe55",<variedcommodities:diamond_skirt>,
  [[<minecraft:diamond>,<ore:string>,<minecraft:diamond>],
   [<minecraft:diamond>,null,<minecraft:diamond>],
   [<minecraft:diamond>,<minecraft:diamond>,<minecraft:diamond>]]);
-  
+
+
+recipes.remove(<xat:glowing_ingot>);
 recipes.addShaped("lolarecipe56",<xat:glowing_ingot>,
  [[<minecraft:glowstone_dust>,<minecraft:blaze_powder>,<minecraft:glowstone_dust>],
   [<minecraft:blaze_powder>,<iceandfire:silver_ingot>,<minecraft:blaze_powder>],
@@ -631,5 +345,3 @@ recipes.addShaped("lolarecipe60",<xat:damage_shield>,
  [[<xat:glowing_gem>,<ore:logWood>,<xat:glowing_gem>],
   [<ore:logWood>,<minecraft:dragon_egg>|<iceandfire:dragonegg_red>|<iceandfire:dragonegg_green>|<iceandfire:dragonegg_bronze>|<iceandfire:dragonegg_gray>|<iceandfire:dragonegg_blue>|<iceandfire:dragonegg_white>|<iceandfire:dragonegg_sapphire>|<iceandfire:dragonegg_silver>,<ore:logWood>],
   [<xat:glowing_gem>,<ore:logWood>,<xat:glowing_gem>]]);
-
-print("Script ending!");

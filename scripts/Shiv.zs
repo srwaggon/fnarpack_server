@@ -3,8 +3,7 @@
 
 // recipes.remove(<lycanitesmobs:throwingscythe>);
 // recipes.remove(<lycanitesmobs:purelava>);
-recipes.remove(<waystones:waystone>);
-recipes.remove(<waystones:warp_stone>);
+
 recipes.remove(<firstaid:plaster>);
 recipes.remove(<firstaid:bandage>);
 
@@ -80,9 +79,10 @@ recipes.remove(<wolfarmor:chainmail_wolf_armor>);
 
 recipes.remove(<firstaid:bandage>);
 
+recipes.remove(<waystones:waystone>);
+recipes.remove(<waystones:warp_stone>);
 brewing.addBrew(<minecraft:potion>.withTag({Potion: "minecraft:awkward"}), <waystones:warp_scroll>, <bountifulbaubles:potionrecall>);
 brewing.addBrew(<bountifulbaubles:potionrecall>, <minecraft:ender_eye>, <bountifulbaubles:potionwormhole>);
-
 
 recipes.remove(<antiqueatlas:empty_antique_atlas>);
 recipes.addShapeless("lolarecipe1",<antiqueatlas:empty_antique_atlas>,[<minecraft:writable_book>,<minecraft:compass>]);
@@ -263,7 +263,7 @@ recipes.addShaped("lolarecipe43",<waystones:waystone>,
  [[null,<minecraft:stonebrick>,null],
   [<minecraft:stonebrick>,<minecraft:nether_star>,<minecraft:stonebrick>],
   [<minecraft:obsidian>,<minecraft:obsidian>,<minecraft:obsidian>]]);
-  
+
 recipes.addShaped("lolarecipe44",<minecraft:diamond>,
  [[<variedcommodities:coin_diamond>,<variedcommodities:coin_diamond>,<variedcommodities:coin_diamond>],
   [<variedcommodities:coin_diamond>,<variedcommodities:coin_diamond>,<variedcommodities:coin_diamond>],

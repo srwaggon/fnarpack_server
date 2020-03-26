@@ -1,5 +1,3 @@
-recipes.addShapeless("searedtostonebrick",<minecraft:stonebrick:0>,[<tconstruct:seared:3>]);
-
 mods.tconstruct.Melting.addRecipe(<liquid:stone> * 72,<minecraft:stonebrick>);
 mods.tconstruct.Melting.addRecipe(<liquid:stone> * 18,<notreepunching:rock/stone>);
 mods.tconstruct.Melting.addRecipe(<liquid:stone> * 18,<notreepunching:rock/andesite>);

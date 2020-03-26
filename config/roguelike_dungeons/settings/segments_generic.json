@@ -1,0 +1,14 @@
+{
+  "name": "segments:generic",
+
+  "segments": [
+    {"level": [0,1,2,3,4], "type" : "CHEST", "weight" : 1},
+    {"level": [0,1,2,3,4], "type" : "DOOR", "weight" : 10},
+    {"level": [0,1,2,3,4], "type" : "FIREPLACE", "weight" : 2},
+    {"level": [0,1,2,3,4], "type" : "INSET", "weight" : 3},
+    {"level": [0,1,2,3,4], "type" : "LAMP", "weight" : 2},
+    {"level": [0,1,2,3,4], "type" : "SHELF", "weight" : 3},
+    {"level": [0,1,2,3,4], "type" : "SPAWNER", "weight" : 5},
+    {"level": [0,1,2,3,4], "type" : "WALL", "weight" : 5}
+  ]
+}

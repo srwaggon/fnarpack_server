@@ -1,0 +1,16 @@
+{
+  "name" : "dungeon:forest_temple",
+  "exclusive": true,
+  "inherit" : [
+    "dungeon:generic",
+    "theme:forest",
+    "tower:rogue_forest",
+
+    "segments:inhabited_trapped_sewers",
+    "filter:viney",
+    "filter:muddy",
+
+    "layout:size_small",
+    "layout:type_mixed"
+  ]
+}

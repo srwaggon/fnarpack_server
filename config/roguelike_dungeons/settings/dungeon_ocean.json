@@ -1,0 +1,8 @@
+{
+  "name" : "dungeon:ocean",
+  "criteria" : {"biomeTypes" : ["OCEAN"]},
+  "exclusive": true,
+  "inherit" : [
+    "dungeon:generic"
+  ]
+}

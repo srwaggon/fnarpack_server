@@ -1,0 +1,7 @@
+{
+	"name" : "spawners:boss_illusioner",
+
+	"spawners" : [
+		{"type" : "WITCH", "equip": true, "potentials" : [{"name" : "minecraft:illusioner_illager"}], "level": 4, "weight": 3}
+	]
+}

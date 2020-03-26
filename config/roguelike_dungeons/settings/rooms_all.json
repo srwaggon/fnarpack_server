@@ -1,0 +1,378 @@
+{
+  "name": "rooms:all",
+
+  "rooms": [
+    {
+      "level": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "type": "random",
+      "name": "BRICK",
+      "weight": 5
+    },
+    {
+      "level": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "type": "random",
+      "name": "CREEPER",
+      "weight": 5
+    },
+    {
+      "level": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "type": "random",
+      "name": "CRYPT",
+      "weight": 5
+    },
+    {
+      "level": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "type": "random",
+      "name": "ENCHANT",
+      "weight": 5
+    },
+    {
+      "level": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "type": "random",
+      "name": "ENDER",
+      "weight": 5
+    },
+    {
+      "level": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "type": "random",
+      "name": "FIRE",
+      "weight": 5
+    },
+    {
+      "level": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "type": "random",
+      "name": "MUSIC",
+      "weight": 5
+    },
+    {
+      "level": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "type": "random",
+      "name": "NETHER",
+      "weight": 5
+    },
+    {
+      "level": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "type": "random",
+      "name": "NETHERFORT",
+      "weight": 5
+    },
+    {
+      "level": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "type": "random",
+      "name": "PIT",
+      "weight": 5
+    },
+    {
+      "level": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "type": "random",
+      "name": "PRISON",
+      "weight": 5
+    },
+    {
+      "level": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "type": "random",
+      "name": "SLIME",
+      "weight": 5
+    },
+    {
+      "level": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "type": "random",
+      "name": "SMITH",
+      "weight": 5
+    },
+    {
+      "level": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "type": "random",
+      "name": "SPIDER",
+      "weight": 5
+    },
+    {
+      "level": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "type": "random",
+      "name": "CAKE",
+      "weight": 5
+    },
+    {
+      "level": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "type": "random",
+      "name": "LAB",
+      "weight": 5
+    },
+    {
+      "level": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "type": "random",
+      "name": "CORNER",
+      "weight": 5
+    },
+    {
+      "level": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "type": "random",
+      "name": "MESS",
+      "weight": 5
+    },
+    {
+      "level": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "type": "random",
+      "name": "BTEAM",
+      "weight": 5
+    },
+    {
+      "level": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "type": "random",
+      "name": "OSSUARY",
+      "weight": 5
+    },
+    {
+      "level": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "type": "random",
+      "name": "OBSIDIAN",
+      "weight": 5
+    },
+    {
+      "level": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "type": "random",
+      "name": "STORAGE",
+      "weight": 5
+    },
+    {
+      "level": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "type": "random",
+      "name": "FIREWORK",
+      "weight": 5
+    },
+    {
+      "level": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "type": "random",
+      "name": "BEDROOM",
+      "weight": 5
+    },
+    {
+      "level": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "type": "random",
+      "name": "REWARD",
+      "weight": 5
+    },
+    {
+      "level": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "type": "random",
+      "name": "LIBRARY",
+      "weight": 5
+    },
+    {
+      "level": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "type": "random",
+      "name": "DARKHALL",
+      "weight": 5
+    },
+    {
+      "level": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "type": "random",
+      "name": "PYRAMIDTOMB",
+      "weight": 5
+    },
+    {
+      "level": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "type": "random",
+      "name": "PYRAMIDSPAWNER",
+      "weight": 5
+    },
+    {
+      "level": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "type": "random",
+      "name": "PYRAMIDCORNER",
+      "weight": 5
+    },
+    {
+      "level": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "type": "random",
+      "name": "BLAZE",
+      "weight": 5
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "dungeon:house_one_room_reward",
+  "inherit": [
+    "layout:size_one_room",
+    "loot:modded"
+  ],
+  "tower" : {"type" : "HOUSE", "theme" : {"base" : "HOUSE"}},
+  "themes": [{"base": "HOUSE", "level": [0,1,2,3,4]}],
+  "rooms": [
+    {"level" : [0, 1, 2, 3, 4], "type" : "random", "name" : "BRICK", "weight" : 10},
+    {"level" : [4], "type" : "single", "name" : "REWARD"}
+  ]
+}

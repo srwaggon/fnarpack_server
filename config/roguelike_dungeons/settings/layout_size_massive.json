@@ -1,0 +1,5 @@
+{
+  "name": "layout:size_massive",
+  "num_rooms": [50, 50, 50, 50, 50],
+  "scatter": [25, 25, 25, 25, 25]
+}

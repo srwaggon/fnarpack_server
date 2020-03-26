@@ -1,0 +1,39 @@
+{
+  "name": "rooms:traps_rare",
+
+  "rooms": [
+    {
+      "level": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "type": "random",
+      "name": "PIT",
+      "weight": 1
+    },
+    {
+      "level": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "type": "random",
+      "name": "CREEPER",
+      "weight": 1
+    },
+    {
+      "level": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "type": "random",
+      "name": "SPIDER",
+      "weight": 1
+    }
+  ]
+}

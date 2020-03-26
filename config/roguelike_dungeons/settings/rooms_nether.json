@@ -1,0 +1,83 @@
+{
+  "name": "rooms:nether",
+
+  "rooms": [
+    {
+      "level": 0,
+      "type": "single",
+      "name": "FIRE"
+    },
+    {
+      "level": 0,
+      "type": "random",
+      "name": "NETHERFORT",
+      "weight": 5
+    },
+    {
+      "level": 0,
+      "type": "single",
+      "name": "PRISON"
+    },
+    {
+      "level": 1,
+      "type": "single",
+      "name": "PRISON"
+    },
+    {
+      "level": 2,
+      "type": "single",
+      "name": "OBSIDIAN"
+    },
+    {
+      "level": 3,
+      "type": "single",
+      "name": "PIT"
+    },
+    {
+      "level": 4,
+      "type": "single",
+      "name": "DARKHALL"
+    },
+    {
+      "level": 4,
+      "type": "single",
+      "name": "REWARD"
+    },
+    {
+      "level": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "type": "random",
+      "name": "BLAZE",
+      "weight": 10
+    },
+    {
+      "level": 2,
+      "type": "random",
+      "name": "NETHER",
+      "weight": 30
+    },
+    {
+      "level": 3,
+      "type": "random",
+      "name": "NETHER",
+      "weight": 40
+    },
+    {
+      "level": 4,
+      "type": "random",
+      "name": "NETHER",
+      "weight": 50
+    },
+    {
+      "level": 4,
+      "type": "random",
+      "name": "CREEPER",
+      "weight": 5
+    }
+  ]
+}

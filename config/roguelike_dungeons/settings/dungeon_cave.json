@@ -1,0 +1,14 @@
+{
+  "name": "dungeon:cave",
+  "exclusive": true,
+  "inherit": [
+    "dungeon:generic",
+    "tower:hole",
+    "theme:cave",
+
+    "filter:muddy",
+    "filter:viney",
+
+    "layout:size_small"
+  ]
+}

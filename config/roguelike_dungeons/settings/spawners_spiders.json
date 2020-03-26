@@ -1,0 +1,9 @@
+{
+	"name" : "spawners:spiders",
+
+	"spawners" : [
+		{"type" : "SPIDER", "potentials" : [{"name" : "minecraft:spider"}],"level": [0,1,2,3]},
+		{"type" : "CAVESPIDER", "potentials" : [{"name" : "minecraft:cave_spider"}],"level": [1,2,3,4]},
+		{"type" : "SPIDER", "potentials" : [{"name" : "minecraft:spider"}, {"name" : "minecraft:cave_spider"}],"level": [1,2,3,4]}
+	]
+}

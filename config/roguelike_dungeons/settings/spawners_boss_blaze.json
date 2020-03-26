@@ -1,0 +1,7 @@
+{
+	"name" : "spawners:boss_blaze",
+
+	"spawners" : [
+		{"type" : "BLAZE", "equip": true, "potentials" : [{"name" : "minecraft:blaze"}], "level": 4, "weight": 3}
+	]
+}

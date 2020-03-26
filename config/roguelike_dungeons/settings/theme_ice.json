@@ -1,0 +1,8 @@
+{
+  "name" : "theme:ice",
+
+  "inherit": [
+    "theme:ice_walls",
+    "theme:ice_floors"
+  ]
+}

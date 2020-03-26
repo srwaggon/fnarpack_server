@@ -1,0 +1,16 @@
+{
+	"name" : "spawners:nether",
+	"spawners" : [
+		{"type" : "BLAZE", "equip": true, "potentials" : [{"name" : "minecraft:blaze"}], "level": [3,4]},
+		{"type" : "ZOMBIE", "potentials" : [{"name" : "minecraft:zombie_pigman"}], "level": [0,1,2,3,4]},
+		{"type" : "ZOMBIE", "potentials" : [{"name" : "minecraft:zombie_pigman"}], "equip": true, "level": [1,2,3,4]},
+		{"type" : "ZOMBIE", "potentials" : [{"name" : "gravestone-extended:gspigmanskullcrawler"}], "level": [1,2,3,4]},
+		{"type" : "ZOMBIE", "equip": true, "potentials" : [{"name" : "minecraft:zombie_pigman"},{"name" : "gravestone-extended:gspigmanskullcrawler"}], "level": [1,2,3,4]},
+		{"type" : "ZOMBIE", "potentials" : [{"name" : "minecraft:magma_cube"}], "level": [2,3,4]},
+		{"type" : "SKELETON", "potentials" : [{"name" : "gravestone-extended:gswitheredbat"}], "level": [0,1,2]},
+		{"type" : "SKELETON", "equip": true, "potentials" : [{"name" : "minecraft:wither_skeleton"}], "level": [1,2,3,4]},
+		{"type" : "SKELETON", "potentials" : [{"name" : "gravestone-extended:gswitherskullcrawler"}], "level": [1,2,3,4]},
+		{"type" : "SKELETON", "equip": true, "potentials" : [{"name" : "minecraft:wither_skeleton"}, {"name" : "gravestone-extended:gswitherskullcrawler"}], "level": [1,2,3,4]},
+		{"type" : "SKELETON", "potentials" : [{"name" : "gravestone-extended:gsbhargest"}], "level": [1,2,3]}
+	]
+}

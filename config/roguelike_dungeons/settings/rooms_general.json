@@ -1,0 +1,50 @@
+{
+  "name": "rooms:general",
+
+  "rooms": [
+    {
+      "level": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "type": "random",
+      "name": "FIRE",
+      "weight": 5
+    },
+    {
+      "level": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "type": "random",
+      "name": "DARKHALL",
+      "weight": 5
+    },
+    {
+      "level": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "type": "random",
+      "name": "CORNER",
+      "weight": 5
+    },
+    {
+      "level": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "type": "random",
+      "name": "SLIME",
+      "weight": 5
+    }
+  ]
+}

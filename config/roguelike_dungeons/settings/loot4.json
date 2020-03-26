@@ -1,0 +1,141 @@
+{
+  "name": "demo:loot4",
+  "loot_rules": [
+    {
+      "level": 4,
+      "type": "TOOLS",
+      "loot": [
+        {"data": {"type": "tool", "level": 4}, "weight": 100},
+        {"data": {"name": "notreepunching:knife/diamond", "level": 4}, "weight": 15},
+        {"data": {"name": "notreepunching:saw/diamond", "level": 4}, "weight": 15},
+        {"data": {"name": "notreepunching:mattock/diamond", "level": 4}, "weight": 15},
+        {"data": {"name": "cyclicmagic:emerald_pickaxe", "level": 4}, "weight": 5},
+        {"data": {"name": "cyclicmagic:emerald_spade", "level": 4}, "weight": 5},
+        {"data": {"name": "cyclicmagic:emerald_axe", "level": 4}, "weight": 5},
+        {"data": {"name": "cyclicmagic:emerald_hoe", "level": 4}, "weight": 5},
+        {"data": {"name": "dungeontactics:mithril_pickaxe", "level": 4}, "weight": 1},
+        {"data": {"name": "dungeontactics:mithril_shovel", "level": 4}, "weight": 1},
+        {"data": {"name": "dungeontactics:mithril_axe", "level": 4}, "weight": 1},
+        {"data": {"name": "dungeontactics:mithril_hoe", "level": 4}, "weight": 1}
+      ],
+      "each": true,
+      "quantity": 1
+    },
+    {
+      "level": 4,
+      "type": "WEAPONS",
+      "loot": [
+        {"data": {"type": "weapon", "level": 4}, "weight": 100},
+        {"data": {"name": "mujmajnkraftsbettersurvival:itemdiamondhammer", "level": 4}, "weight": 15},
+        {"data": {"name": "mujmajnkraftsbettersurvival:itemdiamondspear", "level": 4}, "weight": 15},
+        {"data": {"name": "mujmajnkraftsbettersurvival:itemdiamondbattleaxe", "level": 4}, "weight": 15},
+        {"data": {"name": "mujmajnkraftsbettersurvival:itemdiamonddagger", "level": 4}, "weight": 15},
+        {"data": {"name": "mujmajnkraftsbettersurvival:itemdiamondnunchaku", "level": 4}, "weight": 15},
+        {"data": {"name": "dungeontactics:diamond_hammer", "level": 4}, "weight": 15},
+        {"data": {"name": "dungeontactics:diamond_battleaxe", "level": 4}, "weight": 15},
+        {"data": {"name": "dungeontactics:diamond_glaive", "level": 4}, "weight": 15},
+        {"data": {"name": "dungeontactics:diamond_knife", "level": 4}, "weight": 15},
+        {"data": {"name": "dungeontactics:diamond_cutlass", "level": 4}, "weight": 15},
+        {"data": {"name": "dungeontactics:diamond_cestus", "level": 4}, "weight": 15},
+        {"data": {"name": "cyclicmagic:emerald_sword", "level": 4}, "weight": 5},
+        {"data": {"name": "dungeontactics:mithril_hammer", "level": 4}, "weight": 1},
+        {"data": {"name": "dungeontactics:mithril_battleaxe", "level": 4}, "weight": 1},
+        {"data": {"name": "dungeontactics:mithril_glaive", "level": 4}, "weight": 1},
+        {"data": {"name": "dungeontactics:mithril_sword", "level": 4}, "weight": 1},
+        {"data": {"name": "dungeontactics:mithril_knife", "level": 4}, "weight": 1},
+        {"data": {"name": "dungeontactics:mithril_cutlass", "level": 4}, "weight": 1},
+        {"data": {"name": "dungeontactics:mithril_cestus", "level": 4}, "weight": 1},
+        {"data": {"name": "spartanweaponry:dagger_diamond", "level": 4}, "weight": 15},
+        {"data": {"name": "spartanweaponry:longsword_diamond", "level": 4}, "weight": 15},
+        {"data": {"name": "spartanweaponry:katana_diamond", "level": 4}, "weight": 15},
+        {"data": {"name": "spartanweaponry:saber_diamond", "level": 4}, "weight": 15},
+        {"data": {"name": "spartanweaponry:rapier_diamond", "level": 4}, "weight": 15},
+        {"data": {"name": "spartanweaponry:greatsword_diamond", "level": 4}, "weight": 15},
+        {"data": {"name": "spartanweaponry:hammer_diamond", "level": 4}, "weight": 15},
+        {"data": {"name": "spartanweaponry:warhammer_diamond", "level": 4}, "weight": 15},
+        {"data": {"name": "spartanweaponry:spear_diamond", "level": 4}, "weight": 15},
+        {"data": {"name": "spartanweaponry:halberd_diamond", "level": 4}, "weight": 15},
+        {"data": {"name": "spartanweaponry:pike_diamond", "level": 4}, "weight": 15},
+        {"data": {"name": "spartanweaponry:lance_diamond", "level": 4}, "weight": 15},
+        {"data": {"name": "spartanweaponry:longbow_diamond", "level": 4}, "weight": 15},
+        {"data": {"name": "spartanweaponry:crossbow_diamond", "level": 4}, "weight": 15},
+        {"data": {"name": "spartanweaponry:throwing_knife_diamond", "level": 4}, "weight": 15},
+        {"data": {"name": "spartanweaponry:throwing_axe_diamond", "level": 4}, "weight": 15},
+        {"data": {"name": "spartanweaponry:javelin_diamond", "level": 4}, "weight": 15},
+        {"data": {"name": "spartanweaponry:boomerang_diamond", "level": 4}, "weight": 15},
+        {"data": {"name": "spartanweaponry:battleaxe_diamond", "level": 4}, "weight": 15},
+        {"data": {"name": "spartanweaponry:mace_diamond", "level": 4}, "weight": 15},
+        {"data": {"name": "spartanweaponry:glaive_diamond", "level": 4}, "weight": 15},
+        {"data": {"name": "spartanweaponry:staff_diamond", "level": 4}, "weight": 15}
+      ],
+      "each": true,
+      "quantity": 1
+    },
+    {
+      "level": 4,
+      "type": "ARMOUR",
+      "loot": [
+        {"data": {"type": "armour", "level": 4}, "weight": 100},
+        {"data": {"name": "dungeontactics:diamond_plate_faceplate", "level": 4}, "weight": 15},
+        {"data": {"name": "dungeontactics:diamond_plate_chestpiece", "level": 4}, "weight": 15},
+        {"data": {"name": "dungeontactics:diamond_plate_greaves", "level": 4}, "weight": 15},
+        {"data": {"name": "dungeontactics:diamond_plate_boots", "level": 4}, "weight": 15},
+        {"data": {"name": "dungeontactics:diamond_shield", "level": 4}, "weight": 15},
+        {"data": {"name": "cyclicmagic:emerald_helmet", "level": 4}, "weight": 5},
+        {"data": {"name": "cyclicmagic:emerald_chestplate", "level": 4}, "weight": 5},
+        {"data": {"name": "cyclicmagic:emerald_leggings", "level": 4}, "weight": 5},
+        {"data": {"name": "cyclicmagic:emerald_boots", "level": 4}, "weight": 5},
+        {"data": {"name": "dungeontactics:mithril_helmet", "level": 4}, "weight": 1},
+        {"data": {"name": "dungeontactics:mithril_chestplate", "level": 4}, "weight": 1},
+        {"data": {"name": "dungeontactics:mithril_leggings", "level": 4}, "weight": 1},
+        {"data": {"name": "dungeontactics:mithril_boots", "level": 4}, "weight": 1},
+        {"data": {"name": "dungeontactics:mithril_plate_faceplate", "level": 4}, "weight": 1},
+        {"data": {"name": "dungeontactics:mithril_plate_chestpiece", "level": 4}, "weight": 1},
+        {"data": {"name": "dungeontactics:mithril_plate_greaves", "level": 4}, "weight": 1},
+        {"data": {"name": "dungeontactics:mithril_plate_boots", "level": 4}, "weight": 1},
+        {"data": {"name": "dungeontactics:mithril_shield", "level": 4}, "weight": 1}
+      ],
+      "each": true,
+      "quantity": 1
+    },
+    {
+      "level": 4,
+      "type": "ORE",
+      "loot": [
+        {"data": {"name": "minecraft:coal", "min": 3, "max": 7}, "weight": 32},
+        {"data": {"name": "minecraft:gold_nugget", "min": 1, "max": 3}, "weight": 32},
+        {"data": {"name": "dungeontactics:silver_nugget", "min": 1, "max": 3}, "weight": 32},
+        {"data": {"name": "minecraft:iron_nugget", "min": 1, "max": 3}, "weight": 16},
+        {"data": {"name": "minecraft:dye", "meta": 4, "min": 1, "max": 3}, "weight": 16},
+        {"data": {"name": "dungeontactics:steel_nugget"}, "weight": 8},
+        {"data": {"name": "dungeontactics:diamond_nugget"}, "weight": 4},
+        {"data": {"name": "dungeontactics:mithril_nugget"}, "weight": 1},
+        {"data": {"name": "embers:ingot_bronze"}, "weight": 32},
+        {"data": {"name": "minecraft:gold_ingot"}, "weight": 32},
+        {"data": {"name": "dungeontactics:silver_ingot"}, "weight": 32},
+        {"data": {"name": "minecraft:iron_ingot"}, "weight": 16},
+        {"data": {"name": "dungeontactics:steel_ingot"}, "weight": 8},
+        {"data": {"name": "minecraft:diamond"}, "weight": 4},
+        {"data": {"name": "dungeontactics:mithril_ingot"}, "weight": 1}
+      ],
+      "each": true,
+      "quantity": 8
+    },
+    {
+      "level": 4,
+      "loot": [
+        {"data": {"type": "enchanted_book", "ench": 30}, "weight": 1}
+      ],
+      "each": false,
+      "quantity": 5
+    },
+    {
+      "level": 4,
+      "loot": [
+        {"data": {"type": "specialty", "level": 4}, "weight": 1}
+      ],
+      "each": false,
+      "quantity": 1
+    }
+  ]
+}

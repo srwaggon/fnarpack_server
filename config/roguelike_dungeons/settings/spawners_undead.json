@@ -1,0 +1,27 @@
+{
+  "name" : "spawners:undead",
+
+  "spawners" : [
+    {"type" : "ZOMBIE", "potentials" : [{"name" : "minecraft:zombie"}],"level": [0,1]},
+    {"type" : "ZOMBIE", "potentials" : [{"name" : "minecraft:zombie"}],"equip": true, "level": [1,2,3,4]},
+
+    {"type" : "SKELETON", "potentials" : [{"name" : "minecraft:skeleton"}],"level": [0,1]},
+    {"type" : "SKELETON", "potentials" : [{"name" : "minecraft:skeleton"}],"equip": true, "level": [1,2,3,4]},
+    {"type" : "SKELETON", "potentials" : [{"name" : "minecraft:skeleton"}, {"name" : "gravestone-extended:gsskullcrawler"}],"equip": true, "level": [1,2,3,4]},
+
+    {"type" : "SKELETON", "potentials" : [{"name" : "minecraft:wither_skeleton"}], "level": [1,2,3]},
+    {"type" : "SKELETON", "potentials" : [{"name" : "minecraft:wither_skeleton"}], "equip": true, "level": [2,3,4]},
+    {"type" : "SKELETON", "potentials" : [{"name" : "minecraft:wither_skeleton"}, {"name" : "gravestone-extended:gswitherskullcrawler"}], "level": [2,3,4]},
+
+    {"type" : "SKELETON", "potentials" : [{"name" : "minecraft:skeleton"}, {"name" : "minecraft:wither_skeleton"}, {"name" : "gravestone-extended:gswitherskullcrawler"}], "level": [2,3,4]},
+
+    {"type" : "SKELETON", "potentials" : [{"name" : "gravestone-extended:skeleton"}], "level": [0,1]},
+
+    {"type" : "SKELETON", "equip": true, "potentials" : [{"name" : "gravestone-extended:skeleton"}], "level": [1,2,3,4]},
+    {"type" : "SKELETON", "equip": true, "potentials" : [{"name" : "gravestone-extended:gsskullcrawler"}], "level": [1,2,3,4]},
+    {"type" : "SKELETON", "equip": true, "potentials" : [{"name" : "gravestone-extended:skeleton"}, {"name" : "gravestone-extended:gsskullcrawler"}], "level": [1,2,3,4]},
+
+    {"type" : "SKELETON", "potentials" : [{"name" : "gravestone-extended:gsmummy"}], "level": [2,3,4]},
+    {"type" : "SKELETON", "potentials" : [{"name" : "gravestone-extended:gsvampirebat"}], "level": [0,1,2,3]}
+  ]
+}

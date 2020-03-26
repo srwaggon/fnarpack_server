@@ -1,0 +1,62 @@
+{
+  "name": "loot:all_starter",
+  "loot_rules": [
+    {
+      "level": [0, 1, 2, 3, 4],
+      "type": "STARTER",
+      "loot": [
+        {"data": {"type": "mixture", "name": "coffee"}, "weight": 1}
+      ],
+      "each": true,
+      "quantity": 1
+    },
+    {
+      "level": [0, 1, 2, 3, 4],
+      "type": "STARTER",
+      "loot": [
+        {"data": {"type": "specialty", "equipment": "helmet", "quality": "wood", "level": 1}, "weight": 1},
+        {"data": {"type": "specialty", "equipment": "chest", "quality": "wood", "level": 1}, "weight": 1},
+        {"data": {"type": "specialty", "equipment": "legs", "quality": "wood", "level": 1}, "weight": 1},
+        {"data": {"type": "specialty", "equipment": "feet", "quality": "wood", "level": 1}, "weight": 1}
+      ],
+      "each": true,
+      "quantity": 2
+    },
+    {
+      "level": [0, 1, 2, 3, 4],
+      "type": "STARTER",
+      "loot": [
+        {"data": {"type": "tool", "level": 1}, "weight": 1}
+      ],
+      "each": true,
+      "quantity": 2
+    },
+    {
+      "level": [0, 1, 2, 3, 4],
+      "type": "STARTER",
+      "loot": [
+        {"data": {"type": "weapon", "level": 1}, "weight": 1}
+      ],
+      "each": true,
+      "quantity": 2
+    },
+    {
+      "level": [0, 1, 2, 3, 4],
+      "type": "STARTER",
+      "loot": [
+        {"data": {"type": "potion", "name": "water"}, "weight": 1}
+      ],
+      "each": true,
+      "quantity": 2
+    },
+    {
+      "level": [0, 1, 2, 3, 4],
+      "type": "STARTER",
+      "loot": [
+        {"data": {"name": "minecraft:flint_and_steel" }, "weight": 1}
+      ],
+      "each": true,
+      "quantity": 1
+    }
+  ]
+}

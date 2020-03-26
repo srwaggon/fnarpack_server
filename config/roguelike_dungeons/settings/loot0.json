@@ -1,0 +1,97 @@
+{
+  "name": "demo:loot0",
+  "loot_rules": [
+    {
+      "level": 0,
+      "type": "TOOLS",
+      "loot": [
+        {"data": {"type": "tool", "level": 0}, "weight": 10},
+        {"data": {"name": "dungeontactics:bone_pickaxe", "level": 0}, "weight": 1},
+        {"data": {"name": "dungeontactics:bone_shovel", "level": 0}, "weight": 1},
+        {"data": {"name": "dungeontactics:bone_axe", "level": 0}, "weight": 1},
+        {"data": {"name": "dungeontactics:bone_hoe", "level": 0}, "weight": 1},
+        {"data": {"type": "specialty", "level": 0}, "weight": 1}
+      ],
+      "each": true,
+      "quantity": 1
+    },
+    {
+      "level": 0,
+      "type": "WEAPONS",
+      "loot": [
+        {"data": {"type": "weapon", "level": 0}, "weight": 10},
+        {"data": {"name": "dungeontactics:wooden_hammer", "level": 0}, "weight": 1},
+        {"data": {"name": "dungeontactics:wooden_battleaxe", "level": 0}, "weight": 1},
+        {"data": {"name": "dungeontactics:wooden_glaive", "level": 0}, "weight": 1},
+        {"data": {"name": "dungeontactics:wooden_knife", "level": 0}, "weight": 1},
+        {"data": {"name": "dungeontactics:wooden_cutlass", "level": 0}, "weight": 1},
+        {"data": {"name": "dungeontactics:wooden_cestus", "level": 0}, "weight": 1},
+        {"data": {"name": "dungeontactics:stone_hammer", "level": 0}, "weight": 1},
+        {"data": {"name": "dungeontactics:stone_battleaxe", "level": 0}, "weight": 1},
+        {"data": {"name": "dungeontactics:stone_glaive", "level": 0}, "weight": 1},
+        {"data": {"name": "dungeontactics:stone_knife", "level": 0}, "weight": 1},
+        {"data": {"name": "dungeontactics:stone_cutlass", "level": 0}, "weight": 1},
+        {"data": {"name": "dungeontactics:stone_cestus", "level": 0}, "weight": 1},
+        {"data": {"name": "dungeontactics:bone_hammer", "level": 0}, "weight": 1},
+        {"data": {"name": "dungeontactics:bone_battleaxe", "level": 0}, "weight": 1},
+        {"data": {"name": "dungeontactics:bone_glaive", "level": 0}, "weight": 1},
+        {"data": {"name": "dungeontactics:bone_sword", "level": 0}, "weight": 1},
+        {"data": {"name": "dungeontactics:bone_knife", "level": 0}, "weight": 1},
+        {"data": {"name": "dungeontactics:bone_cutlass", "level": 0}, "weight": 1},
+        {"data": {"name": "dungeontactics:bone_cestus", "level": 0}, "weight": 1}
+      ],
+      "each": true,
+      "quantity": 1
+    },
+    {
+      "level": 0,
+      "type": "ARMOUR",
+      "loot": [
+        {"data": {"type": "armour", "level": 0}, "weight": 10},
+        {"data": {"name": "dungeontactics:wooden_shield", "level": 0}, "weight": 1},
+        {"data": {"name": "dungeontactics:stone_plate_faceplate", "level": 0}, "weight": 1},
+        {"data": {"name": "dungeontactics:stone_plate_chestpiece", "level": 0}, "weight": 1},
+        {"data": {"name": "dungeontactics:stone_plate_greaves", "level": 0}, "weight": 1},
+        {"data": {"name": "dungeontactics:stone_plate_boots", "level": 0}, "weight": 1},
+        {"data": {"name": "dungeontactics:stone_shield", "level": 0}, "weight": 1},
+        {"data": {"name": "dungeontactics:bone_helmet", "level": 0}, "weight": 1},
+        {"data": {"name": "dungeontactics:bone_chestplate", "level": 0}, "weight": 1},
+        {"data": {"name": "dungeontactics:bone_leggings", "level": 0}, "weight": 1},
+        {"data": {"name": "dungeontactics:bone_boots", "level": 0}, "weight": 1},
+        {"data": {"name": "dungeontactics:bone_shield", "level": 0}, "weight": 1}
+      ],
+      "each": true,
+      "quantity": 1
+    },
+    {
+      "level": 0,
+      "type": "ORE",
+      "loot": [
+        {"data": {"name": "minecraft:coal", "min": 3, "max": 7}, "weight": 2},
+        {"data": {"name": "minecraft:iron_nugget", "min": 1, "max": 4}, "weight": 4},
+        {"data": {"name": "minecraft:gold_nugget", "min": 1, "max": 3}, "weight": 1},
+        {"data": {"name": "dungeontactics:silver_nugget", "min": 1, "max": 3}, "weight": 1},
+        {"data": {"name": "embers:ingot_bronze"}, "weight": 4},
+        {"data": {"name": "minecraft:iron_ingot"}, "weight": 1}
+      ],
+      "each": true,
+      "quantity": 3
+    },
+    {
+      "level": 0,
+      "loot": [
+        {"data": {"type": "enchanted_book", "ench": 1}, "weight": 1}
+      ],
+      "each": false,
+      "quantity": 1
+    },
+    {
+      "level": 0,
+      "loot": [
+        {"data": {"type": "specialty", "level": 0}, "weight": 1}
+      ],
+      "each": false,
+      "quantity": 1
+    }
+  ]
+}

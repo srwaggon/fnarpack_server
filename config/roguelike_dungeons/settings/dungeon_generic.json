@@ -1,0 +1,11 @@
+{
+  "name": "dungeon:generic",
+  "inherit": [
+    "layout:size_normal",
+    "layout:type_mixed",
+    "rooms:generic",
+    "segments:generic",
+    "loot:modded",
+    "spawners:boss_troll"
+  ]
+}

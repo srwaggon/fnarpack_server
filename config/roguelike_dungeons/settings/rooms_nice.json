@@ -1,0 +1,102 @@
+{
+  "name": "rooms:nice",
+
+  "rooms": [
+    {
+      "level": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "type": "random",
+      "name": "CAKE",
+      "weight": 15
+    },
+    {
+      "level": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "type": "random",
+      "name": "ENCHANT",
+      "weight": 10
+    },
+    {
+      "level": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "type": "random",
+      "name": "LAB",
+      "weight": 15
+    },
+    {
+      "level": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "type": "random",
+      "name": "LIBRARY",
+      "weight": 10
+    },
+    {
+      "level": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "type": "random",
+      "name": "MUSIC",
+      "weight": 15
+    },
+    {
+      "level": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "type": "random",
+      "name": "REWARD",
+      "weight": 5
+    },
+    {
+      "level": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "type": "random",
+      "name": "SMITH",
+      "weight": 15
+    },
+    {
+      "level": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "type": "random",
+      "name": "STORAGE",
+      "weight": 15
+    }
+  ]
+}

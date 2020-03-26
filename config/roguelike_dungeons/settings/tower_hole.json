@@ -1,0 +1,6 @@
+{
+  "name": "tower:hole",
+  "tower": {
+    "type": "HOLE"
+  }
+}

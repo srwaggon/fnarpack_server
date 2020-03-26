@@ -1,0 +1,12 @@
+{
+  "name": "rooms:undead",
+  "inherit": ["rooms:generic"],
+  "rooms": [
+    {"level": [2, 3], "type": "single", "name": "OSSUARY"},
+    {"level": [2, 3, 4], "type": "single", "name": "CRYPT"},
+    {"level": [2, 3, 4], "type": "random", "name": "CRYPT", "weight": 10},
+    {"level": [2], "type": "random", "name": "PRISON", "weight": 10},
+    {"level": 4, "type": "single", "name": "OBSIDIAN"},
+    {"level": 4, "type": "single", "name": "DARKHALL"}
+  ]
+}

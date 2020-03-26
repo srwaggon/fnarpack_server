@@ -5,7 +5,6 @@
     "layout:type_mixed",
     "rooms:generic",
     "segments:generic",
-    "loot:modded",
-    "spawners:boss_troll"
+    "loot:modded"
   ]
 }

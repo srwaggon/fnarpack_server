@@ -1,14 +1,6 @@
 {
-	"name" : "spawners:trolls",
-
-	"spawners" : [
-		{
-			"type" : "SKELETON",
-			"equip": true,
-			"potentials" : [
-				{"name" : "iceandfire:if_troll"}
-			],
-			"level": [2,3,4]
-		}
-	]
+  "name": "spawners:trolls",
+  "spawners": [
+    {"type": "SKELETON", "equip": true, "potentials": [{"name": "iceandfire:if_troll"}], "level": [2, 3, 4]}
+  ]
 }

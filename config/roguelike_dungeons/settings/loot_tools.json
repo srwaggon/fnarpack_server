@@ -1,0 +1,105 @@
+{
+  "name": "loot:tools",
+  "loot_rules": [
+    {
+      "level": 0,
+      "type": "TOOLS",
+      "loot": [
+        {"data": {"type": "tool", "level": 0}, "weight": 10},
+        {"data": {"name": "dungeontactics:bone_pickaxe", "level": 0}, "weight": 1},
+        {"data": {"name": "dungeontactics:bone_shovel", "level": 0}, "weight": 1},
+        {"data": {"name": "dungeontactics:bone_axe", "level": 0}, "weight": 1},
+        {"data": {"name": "dungeontactics:bone_hoe", "level": 0}, "weight": 1}
+      ],
+      "each": true,
+      "quantity": 1
+    },
+    {
+      "level": 1,
+      "type": "TOOLS",
+      "loot": [
+        {"data": {"type": "tool", "level": 1}, "weight": 10},
+        {"data": {"name": "dungeontactics:silver_pickaxe", "level": 1}, "weight": 1},
+        {"data": {"name": "dungeontactics:silver_shovel", "level": 1}, "weight": 1},
+        {"data": {"name": "dungeontactics:silver_axe", "level": 1}, "weight": 1},
+        {"data": {"name": "dungeontactics:silver_hoe", "level": 1}, "weight": 1}
+      ],
+      "each": true,
+      "quantity": 1
+    },
+    {
+      "level": 2,
+      "type": "TOOLS",
+      "loot": [
+        {"data": {"type": "tool", "level": 2}, "weight": 10},
+        {"data": {"name": "dungeontactics:engineers_wrench_iron", "level": 2}, "weight": 1}
+      ],
+      "each": true,
+      "quantity": 1
+    },
+    {
+      "level": 3,
+      "type": "TOOLS",
+      "loot": [
+        {"data": {"type": "tool", "level": 3}, "weight": 10},
+        {"data": {"name": "notreepunching:knife/iron", "level": 3}, "weight": 1},
+        {"data": {"name": "notreepunching:saw/iron", "level": 3}, "weight": 1},
+        {"data": {"name": "notreepunching:mattock/iron", "level": 3}, "weight": 1},
+        {"data": {"name": "dungeontactics:engineers_wrench_steel", "level": 3}, "weight": 1},
+        {"data": {"name": "dungeontactics:steel_pickaxe", "level": 3}, "weight": 1},
+        {"data": {"name": "dungeontactics:steel_shovel", "level": 3}, "weight": 1},
+        {"data": {"name": "dungeontactics:steel_axe", "level": 3}, "weight": 1},
+        {"data": {"name": "dungeontactics:steel_hoe", "level": 3}, "weight": 1}
+      ],
+      "each": true,
+      "quantity": 1
+    },
+    {
+      "level": 4,
+      "type": "TOOLS",
+      "loot": [
+        {"data": {"type": "tool", "level": 4}, "weight": 100},
+        {"data": {"name": "notreepunching:knife/diamond", "level": 4}, "weight": 15},
+        {"data": {"name": "notreepunching:saw/diamond", "level": 4}, "weight": 15},
+        {"data": {"name": "notreepunching:mattock/diamond", "level": 4}, "weight": 15},
+        {"data": {"name": "cyclicmagic:emerald_pickaxe", "level": 4}, "weight": 5},
+        {"data": {"name": "cyclicmagic:emerald_spade", "level": 4}, "weight": 5},
+        {"data": {"name": "cyclicmagic:emerald_axe", "level": 4}, "weight": 5},
+        {"data": {"name": "cyclicmagic:emerald_hoe", "level": 4}, "weight": 5},
+        {"data": {"name": "dungeontactics:mithril_pickaxe", "level": 4}, "weight": 1},
+        {"data": {"name": "dungeontactics:mithril_shovel", "level": 4}, "weight": 1},
+        {"data": {"name": "dungeontactics:mithril_axe", "level": 4}, "weight": 1},
+        {"data": {"name": "dungeontactics:mithril_hoe", "level": 4}, "weight": 1}
+      ],
+      "each": true,
+      "quantity": 1
+    },
+
+    {
+      "level": [0, 1, 2, 3, 4],
+      "type": "TOOLS",
+      "loot": [
+        {"data": {"name": "minecraft:arrow", "min": 1, "max": 4}, "weight": 10},
+        {"data": {"name": "minecraft:clock"}, "weight": 1},
+        {"data": {"name": "minecraft:compass"}, "weight": 1},
+        {"data": {"name": "minecraft:fishing_rod"}, "weight": 1},
+        {"data": {"name": "minecraft:flint_and_steel"}, "weight": 5},
+        {"data": {"name": "minecraft:glass_bottle"}, "weight": 10},
+        {"data": {"name": "minecraft:lead"}, "weight": 1},
+        {"data": {"name": "minecraft:paper", "min": 1, "max": 3}, "weight": 5},
+        {"data": {"name": "minecraft:stone_hoe"}, "weight": 1},
+        {"data": {"name": "minecraft:torch", "min": 4, "max": 16}, "weight": 5},
+        {"data": {"name": "minecraft:wooden_hoe"}, "weight": 1},
+
+        {"data": {"name": "realistictorches:torch_unlit", "min": 5, "max": 20}, "weight": 20},
+        {"data": {"name": "realistictorches:matchbox"}, "weight": 5},
+        {"data": {"name": "roughtweaks:salve"}, "weight": 10},
+        {"data": {"name": "roughtweaks:plaster"}, "weight": 5},
+        {"data": {"name": "roughtweaks:bandage"}, "weight": 1}
+      ],
+      "each": true,
+      "quantity": 1
+    }
+
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "name": "loot:armour",
+  "loot_rules": [
+    {
+      "level": 0,
+      "type": "ARMOUR",
+      "loot": [
+        {"data": {"type": "armour", "level": 0}, "weight": 10},
+        {"data": {"name": "dungeontactics:wooden_shield", "level": 0}, "weight": 1},
+        {"data": {"name": "dungeontactics:stone_plate_faceplate", "level": 0}, "weight": 1},
+        {"data": {"name": "dungeontactics:stone_plate_chestpiece", "level": 0}, "weight": 1},
+        {"data": {"name": "dungeontactics:stone_plate_greaves", "level": 0}, "weight": 1},
+        {"data": {"name": "dungeontactics:stone_plate_boots", "level": 0}, "weight": 1},
+        {"data": {"name": "dungeontactics:stone_shield", "level": 0}, "weight": 1},
+        {"data": {"name": "dungeontactics:bone_helmet", "level": 0}, "weight": 1},
+        {"data": {"name": "dungeontactics:bone_chestplate", "level": 0}, "weight": 1},
+        {"data": {"name": "dungeontactics:bone_leggings", "level": 0}, "weight": 1},
+        {"data": {"name": "dungeontactics:bone_boots", "level": 0}, "weight": 1},
+        {"data": {"name": "dungeontactics:bone_shield", "level": 0}, "weight": 1}
+      ],
+      "each": true,
+      "quantity": 1
+    },
+    {
+      "level": 1,
+      "type": "ARMOUR",
+      "loot": [
+        {"data": {"type": "armour", "level": 1}, "weight": 10},
+        {"data": {"name": "dungeontactics:golden_plate_faceplate", "level": 1}, "weight": 1},
+        {"data": {"name": "dungeontactics:golden_plate_chestpiece", "level": 1}, "weight": 1},
+        {"data": {"name": "dungeontactics:golden_plate_greaves", "level": 1}, "weight": 1},
+        {"data": {"name": "dungeontactics:golden_plate_boots", "level": 1}, "weight": 1},
+        {"data": {"name": "dungeontactics:golden_shield", "level": 1}, "weight": 1},
+        {"data": {"name": "dungeontactics:silver_helmet", "level": 1}, "weight": 1},
+        {"data": {"name": "dungeontactics:silver_chestplate", "level": 1}, "weight": 1},
+        {"data": {"name": "dungeontactics:silver_leggings", "level": 1}, "weight": 1},
+        {"data": {"name": "dungeontactics:silver_boots", "level": 1}, "weight": 1},
+        {"data": {"name": "dungeontactics:silver_plate_faceplate", "level": 1}, "weight": 1},
+        {"data": {"name": "dungeontactics:silver_plate_chestpiece", "level": 1}, "weight": 1},
+        {"data": {"name": "dungeontactics:silver_plate_greaves", "level": 1}, "weight": 1},
+        {"data": {"name": "dungeontactics:silver_plate_boots", "level": 1}, "weight": 1},
+        {"data": {"name": "dungeontactics:silver_shield", "level": 1}, "weight": 1},
+        {"data": {"name": "spartanshields:shield_basic_bronze", "level": 1}, "weight": 1},
+        {"data": {"name": "spartanshields:shield_tower_bronze", "level": 1}, "weight": 1}
+      ],
+      "each": true,
+      "quantity": 1
+    },
+    {
+      "level": 2,
+      "type": "ARMOUR",
+      "loot": [
+        {"data": {"type": "armour", "level": 2}, "weight": 10},
+        {"data": {"name": "dungeontactics:iron_plate_faceplate", "level": 2}, "weight": 1},
+        {"data": {"name": "dungeontactics:iron_plate_chestpiece", "level": 2}, "weight": 1},
+        {"data": {"name": "dungeontactics:iron_plate_greaves", "level": 2}, "weight": 1},
+        {"data": {"name": "dungeontactics:iron_plate_boots", "level": 2}, "weight": 1},
+        {"data": {"name": "dungeontactics:iron_shield", "level": 2}, "weight": 1}
+      ],
+      "each": true,
+      "quantity": 1
+    },
+    {
+      "level": 3,
+      "type": "ARMOUR",
+      "loot": [
+        {"data": {"type": "armour", "level": 3}, "weight": 10},
+        {"data": {"name": "dungeontactics:steel_helmet", "level": 3}, "weight": 1},
+        {"data": {"name": "dungeontactics:steel_chestplate", "level": 3}, "weight": 1},
+        {"data": {"name": "dungeontactics:steel_leggings", "level": 3}, "weight": 1},
+        {"data": {"name": "dungeontactics:steel_boots", "level": 3}, "weight": 1},
+        {"data": {"name": "dungeontactics:steel_plate_faceplate", "level": 3}, "weight": 1},
+        {"data": {"name": "dungeontactics:steel_plate_chestpiece", "level": 3}, "weight": 1},
+        {"data": {"name": "dungeontactics:steel_plate_greaves", "level": 3}, "weight": 1},
+        {"data": {"name": "dungeontactics:steel_plate_boots", "level": 3}, "weight": 1},
+        {"data": {"name": "ebwizardry:wizard_hat_fire", "level": 3}, "weight": 1},
+        {"data": {"name": "ebwizardry:wizard_robe_fire", "level": 3}, "weight": 1},
+        {"data": {"name": "ebwizardry:wizard_leggings_fire", "level": 3}, "weight": 1},
+        {"data": {"name": "ebwizardry:wizard_boots_fire", "level": 3}, "weight": 1},
+        {"data": {"name": "ebwizardry:wizard_hat_ice", "level": 3}, "weight": 1},
+        {"data": {"name": "ebwizardry:wizard_robe_ice", "level": 3}, "weight": 1},
+        {"data": {"name": "ebwizardry:wizard_leggings_ice", "level": 3}, "weight": 1},
+        {"data": {"name": "ebwizardry:wizard_boots_ice", "level": 3}, "weight": 1},
+        {"data": {"name": "ebwizardry:wizard_hat_lightning", "level": 3}, "weight": 1},
+        {"data": {"name": "ebwizardry:wizard_robe_lightning", "level": 3}, "weight": 1},
+        {"data": {"name": "ebwizardry:wizard_leggings_lightning", "level": 3}, "weight": 1},
+        {"data": {"name": "ebwizardry:wizard_boots_lightning", "level": 3}, "weight": 1},
+        {"data": {"name": "ebwizardry:wizard_hat_necromancy", "level": 3}, "weight": 1},
+        {"data": {"name": "ebwizardry:wizard_robe_necromancy", "level": 3}, "weight": 1},
+        {"data": {"name": "ebwizardry:wizard_leggings_necromancy", "level": 3}, "weight": 1},
+        {"data": {"name": "ebwizardry:wizard_boots_necromancy", "level": 3}, "weight": 1},
+        {"data": {"name": "ebwizardry:wizard_hat_earth", "level": 3}, "weight": 1},
+        {"data": {"name": "ebwizardry:wizard_robe_earth", "level": 3}, "weight": 1},
+        {"data": {"name": "ebwizardry:wizard_leggings_earth", "level": 3}, "weight": 1},
+        {"data": {"name": "ebwizardry:wizard_boots_earth", "level": 3}, "weight": 1},
+        {"data": {"name": "ebwizardry:wizard_hat_sorcery", "level": 3}, "weight": 1},
+        {"data": {"name": "ebwizardry:wizard_robe_sorcery", "level": 3}, "weight": 1},
+        {"data": {"name": "ebwizardry:wizard_leggings_sorcery", "level": 3}, "weight": 1},
+        {"data": {"name": "ebwizardry:wizard_boots_sorcery", "level": 3}, "weight": 1}
+      ],
+      "each": true,
+      "quantity": 1
+    },
+    {
+      "level": 4,
+      "type": "ARMOUR",
+      "loot": [
+        {"data": {"type": "armour", "level": 4}, "weight": 100},
+        {"data": {"name": "dungeontactics:diamond_plate_faceplate", "level": 4}, "weight": 15},
+        {"data": {"name": "dungeontactics:diamond_plate_chestpiece", "level": 4}, "weight": 15},
+        {"data": {"name": "dungeontactics:diamond_plate_greaves", "level": 4}, "weight": 15},
+        {"data": {"name": "dungeontactics:diamond_plate_boots", "level": 4}, "weight": 15},
+        {"data": {"name": "dungeontactics:diamond_shield", "level": 4}, "weight": 15},
+        {"data": {"name": "cyclicmagic:emerald_helmet", "level": 4}, "weight": 5},
+        {"data": {"name": "cyclicmagic:emerald_chestplate", "level": 4}, "weight": 5},
+        {"data": {"name": "cyclicmagic:emerald_leggings", "level": 4}, "weight": 5},
+        {"data": {"name": "cyclicmagic:emerald_boots", "level": 4}, "weight": 5},
+        {"data": {"name": "dungeontactics:mithril_helmet", "level": 4}, "weight": 1},
+        {"data": {"name": "dungeontactics:mithril_chestplate", "level": 4}, "weight": 1},
+        {"data": {"name": "dungeontactics:mithril_leggings", "level": 4}, "weight": 1},
+        {"data": {"name": "dungeontactics:mithril_boots", "level": 4}, "weight": 1},
+        {"data": {"name": "dungeontactics:mithril_plate_faceplate", "level": 4}, "weight": 1},
+        {"data": {"name": "dungeontactics:mithril_plate_chestpiece", "level": 4}, "weight": 1},
+        {"data": {"name": "dungeontactics:mithril_plate_greaves", "level": 4}, "weight": 1},
+        {"data": {"name": "dungeontactics:mithril_plate_boots", "level": 4}, "weight": 1},
+        {"data": {"name": "dungeontactics:mithril_shield", "level": 4}, "weight": 1}
+      ],
+      "each": true,
+      "quantity": 1
+    },
+    {
+      "level": [0, 1, 2, 3, 4],
+      "type": "ARMOUR",
+      "loot": [
+        {"data": {"type": "potion", "name": "healing"}, "weight": 1}
+      ],
+      "each": true,
+      "quantity": 1
+    },
+    {
+      "level": [0, 1, 2, 3, 4],
+      "type": "ARMOUR",
+      "loot": [
+        {"data": {"type": "armour", "level": 0}, "weight": 5},
+        {"data": {"name": "minecraft:shield", "level": 0}, "weight": 1}
+      ],
+      "each": true,
+      "quantity": 1
+    }
+  ]
+}

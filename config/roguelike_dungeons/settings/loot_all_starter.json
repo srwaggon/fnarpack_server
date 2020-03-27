@@ -56,7 +56,7 @@
         {"data": {"name": "minecraft:flint_and_steel" }, "weight": 1}
       ],
       "each": true,
-      "quantity": 1
+      "quantity": 2
     }
   ]
 }

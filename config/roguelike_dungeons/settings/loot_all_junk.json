@@ -73,7 +73,7 @@
         {"data": {"name": "chisel:chisel_iron"}, "weight": 1}
       ],
       "each": true,
-      "quantity": 3
+      "quantity": 5
     }
   ]
 }

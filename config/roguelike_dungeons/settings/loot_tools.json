@@ -43,7 +43,9 @@
       "loot": [
         {"data": {"type": "tool", "level": 3}, "weight": 10},
         {"data": {"name": "notreepunching:knife/iron", "level": 3}, "weight": 1},
+        {"data": {"name": "notreepunching:knife/steel", "level": 4}, "weight": 1},
         {"data": {"name": "notreepunching:saw/iron", "level": 3}, "weight": 1},
+        {"data": {"name": "notreepunching:saw/steel", "level": 4}, "weight": 1},
         {"data": {"name": "notreepunching:mattock/iron", "level": 3}, "weight": 1},
         {"data": {"name": "dungeontactics:engineers_wrench_steel", "level": 3}, "weight": 1},
         {"data": {"name": "dungeontactics:steel_pickaxe", "level": 3}, "weight": 1},
@@ -79,23 +81,53 @@
       "level": [0, 1, 2, 3, 4],
       "type": "TOOLS",
       "loot": [
-        {"data": {"name": "minecraft:arrow", "min": 1, "max": 4}, "weight": 10},
+        {"data": {"name": "minecraft:arrow", "min": 1, "max": 4}, "weight": 20},
+        {"data": {"name": "minecraft:bucket"}, "weight": 1},
         {"data": {"name": "minecraft:clock"}, "weight": 1},
         {"data": {"name": "minecraft:compass"}, "weight": 1},
         {"data": {"name": "minecraft:fishing_rod"}, "weight": 1},
-        {"data": {"name": "minecraft:flint_and_steel"}, "weight": 5},
-        {"data": {"name": "minecraft:glass_bottle"}, "weight": 10},
+        {"data": {"name": "minecraft:flint_and_steel"}, "weight": 10},
+        {"data": {"name": "minecraft:glass_bottle"}, "weight": 20},
         {"data": {"name": "minecraft:lead"}, "weight": 1},
-        {"data": {"name": "minecraft:paper", "min": 1, "max": 3}, "weight": 5},
+        {"data": {"name": "minecraft:paper", "min": 1, "max": 3}, "weight": 10},
         {"data": {"name": "minecraft:stone_hoe"}, "weight": 1},
-        {"data": {"name": "minecraft:torch", "min": 4, "max": 16}, "weight": 5},
+        {"data": {"name": "minecraft:tnt"}, "weight": 5},
+        {"data": {"name": "minecraft:torch", "min": 4, "max": 16}, "weight": 10},
         {"data": {"name": "minecraft:wooden_hoe"}, "weight": 1},
 
-        {"data": {"name": "realistictorches:torch_unlit", "min": 5, "max": 20}, "weight": 20},
+        {"data": {"name": "chisel:chisel_iron"}, "weight": 1},
+
+        {"data": {"name": "comforts:sleeping_bag"}, "weight": 1},
+
+        {"data": {"name": "ebwizardry:crystal_shard", "min": 1, "max": 3}, "weight": 1},
+        {"data": {"name": "ebwizardry:crystal_shard", "min": 1, "max": 3}, "weight": 1},
+        {"data": {"name": "ebwizardry:crystal_flower"}, "weight": 1},
+        {"data": {"name": "ebwizardry:magic_crystal", "min": 1, "max": 2}, "weight": 1},
+        {"data": {"name": "ebwizardry:small_mana_flask"}, "weight": 1},
+        {"data": {"name": "ebwizardry:medium_mana_flask"}, "weight": 1},
+        {"data": {"name": "ebwizardry:identification_scroll"}, "weight": 1},
+        {"data": {"name": "ebwizardry:firebomb"}, "weight": 1},
+        {"data": {"name": "ebwizardry:spark_bomb"}, "weight": 1},
+        {"data": {"name": "ebwizardry:poison_bomb"}, "weight": 1},
+        {"data": {"name": "ebwizardry:smoke_bomb"}, "weight": 1},
+
+        {"data": {"name" : "randomthings:escaperope"}, "weight" : 1},
+
+        {"data": {"name": "realistictorches:torch_unlit", "min": 5, "max": 20}, "weight": 40},
         {"data": {"name": "realistictorches:matchbox"}, "weight": 5},
-        {"data": {"name": "roughtweaks:salve"}, "weight": 10},
-        {"data": {"name": "roughtweaks:plaster"}, "weight": 5},
-        {"data": {"name": "roughtweaks:bandage"}, "weight": 1}
+
+        {"data": {"name": "roughtweaks:salve"}, "weight": 20},
+        {"data": {"name": "roughtweaks:plaster"}, "weight": 10},
+        {"data": {"name": "roughtweaks:bandage"}, "weight": 5},
+
+        {"data": {"name": "sereneseasons:season_clock"}, "weight": 1},
+
+        {"data": {"name": "toughasnails:canteen"}, "weight": 1},
+        {"data": {"name": "toughasnails:charcoal_filter"}, "weight": 20},
+        {"data": {"name": "toughasnails:thermometer"}, "weight": 1},
+
+        {"data": {"name": "quark:candle"}, "weight": 1}
+
       ],
       "each": true,
       "quantity": 1

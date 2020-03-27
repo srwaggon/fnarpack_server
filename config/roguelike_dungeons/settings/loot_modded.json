@@ -6,20 +6,24 @@
     "demo:loot2",
     "demo:loot3",
     "demo:loot4",
+
+    "loot:all",
+
     "loot:armour",
+    "loot:brewing",
     "loot:enchanting",
     "loot:food",
+    "loot:junk",
     "loot:ore",
     "loot:potions",
+    "loot:starter",
     "loot:tools",
+    "loot:treasure",
     "loot:weapons",
-    "loot:all",
-    "loot:all_brewing",
-    "loot:all_junk",
-    "loot:all_starter",
-    "loot:all_treasure",
+
     "loot:ebwizardry",
     "loot:waystones",
+
     "loot_tables:rewards"
   ]
 }

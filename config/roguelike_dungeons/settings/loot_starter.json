@@ -1,5 +1,5 @@
 {
-  "name": "loot:all_starter",
+  "name": "loot:starter",
   "loot_rules": [
     {
       "level": [0, 1, 2, 3, 4],

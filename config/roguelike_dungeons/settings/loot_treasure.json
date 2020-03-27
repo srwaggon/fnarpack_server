@@ -1,8 +1,8 @@
 {
-  "name": "loot:all_treasure",
+  "name": "loot:treasure",
   "loot_rules": [
     {
-      "level": [0, 1, 2, 3, 4],
+      "level": [1, 2, 3, 4],
       "loot": [
         {"data": {"type": "armour", "level": 0}, "weight": 32},
         {"data": {"type": "armour", "level": 1}, "weight": 24},
@@ -62,6 +62,14 @@
         {"data": {"name": "minecraft:painting", "nbt": "{display:{Name:\"Piglet\",Lore:[\"It looks like a child painted this. How is this art?\"]}}"}, "weight": 1},
         {"data": {"name": "minecraft:book", "nbt": "{display:{Name:\"XXX\",Lore:[\"You probably weren't meant to find this.\"]}}"}, "weight": 1},
         {"data": {"name": "minecraft:book", "nbt": "{display:{Name:\"Streaming for beginners\",Lore:[\"You probably weren't meant to find this.\"]}}"}, "weight": 1},
+
+        {"data": {"name": "akashictome:tome"}, "weight": 8},
+        {"data": {"name": "antiqueatlas:empty_antique_atlas"}, "weight": 8},
+        {"data": {"name": "cookingforblockheads:cow_jar"}, "weight": 8},
+        {"data": {"name": "grapplemod:grapplinghook"}, "weight": 8},
+        {"data": {"name": "solcarrot:food_book"}, "weight": 8},
+        {"data": {"name": "trumpetskeleton:trumpet"}, "weight": 8},
+        {"data": {"name": "wearablebackpacks:backpack"}, "weight": 8},
 
         {"data": {"name": "cyclicmagic:charm_fire"}, "weight": 8},
         {"data": {"name": "cyclicmagic:charm_void"}, "weight": 8},
@@ -124,7 +132,7 @@
         {"data" : {"name" : "qualitytools:emerald_ring"}, "weight" : 32},
         {"data" : {"name" : "qualitytools:emerald_amulet"}, "weight" : 32},
 
-        {"data" : {"name" : "randomthings:escaperope"}, "weight" : 32},
+        {"data": {"name" : "randomthings:escaperope"}, "weight" : 32},
 
         {"data" : {"name" : "toolbelt:pouch"}, "weight" : 16},
         {"data" : {"name" : "toolbelt:belt"}, "weight" : 4},

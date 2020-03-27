@@ -19,7 +19,7 @@
         {"data": {"name": "dungeontactics:bone_shield", "level": 0}, "weight": 1}
       ],
       "each": true,
-      "quantity": 1
+      "quantity": 2
     },
     {
       "level": 1,
@@ -44,7 +44,7 @@
         {"data": {"name": "spartanshields:shield_tower_bronze", "level": 1}, "weight": 1}
       ],
       "each": true,
-      "quantity": 1
+      "quantity": 2
     },
     {
       "level": 2,
@@ -58,13 +58,13 @@
         {"data": {"name": "dungeontactics:iron_shield", "level": 2}, "weight": 1}
       ],
       "each": true,
-      "quantity": 1
+      "quantity": 2
     },
     {
       "level": 3,
       "type": "ARMOUR",
       "loot": [
-        {"data": {"type": "armour", "level": 3}, "weight": 10},
+        {"data": {"type": "armour", "level": 3}, "weight": 20},
         {"data": {"name": "dungeontactics:steel_helmet", "level": 3}, "weight": 1},
         {"data": {"name": "dungeontactics:steel_chestplate", "level": 3}, "weight": 1},
         {"data": {"name": "dungeontactics:steel_leggings", "level": 3}, "weight": 1},
@@ -99,7 +99,7 @@
         {"data": {"name": "ebwizardry:wizard_boots_sorcery", "level": 3}, "weight": 1}
       ],
       "each": true,
-      "quantity": 1
+      "quantity": 2
     },
     {
       "level": 4,
@@ -126,7 +126,7 @@
         {"data": {"name": "dungeontactics:mithril_shield", "level": 4}, "weight": 1}
       ],
       "each": true,
-      "quantity": 1
+      "quantity": 2
     },
     {
       "level": [0, 1, 2, 3, 4],

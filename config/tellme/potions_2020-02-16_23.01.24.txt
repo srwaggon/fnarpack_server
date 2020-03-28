@@ -1,0 +1,178 @@
++---------------------------+--------------------------------------------+------------------------------------------+-----+-------------------------+--------+---------------+
+| Mod name                  | Registry name                              | Potion Name                              |  ID | Liquid color            | Is bad | Is beneficial |
++---------------------------+--------------------------------------------+------------------------------------------+-----+-------------------------+--------+---------------+
+| Better Survival           | mujmajnkraftsbettersurvival:antiwarp       | effect.antiwarp                          | 145 | 0x00DB64E8 (  14378216) |  false |         false |
+| Better Survival           | mujmajnkraftsbettersurvival:cure           | effect.cure                              | 147 | 0x00FFF70D (  16774925) |  false |         false |
+| Better Survival           | mujmajnkraftsbettersurvival:dispel         | effect.dispel                            | 148 | 0x00B5E9FF (  11921919) |   true |         false |
+| Better Survival           | mujmajnkraftsbettersurvival:milk           | effect.milk                              | 146 | 0x00FFFFFF (  16777215) |   true |         false |
+| Better Survival           | mujmajnkraftsbettersurvival:stun           | effect.stun                              | 143 | 0x00FFF70D (  16774925) |  false |         false |
+| Better Survival           | mujmajnkraftsbettersurvival:warp           | effect.warp                              | 144 | 0x00961FFF (   9838591) |  false |         false |
+| Bountiful Baubles         | bountifulbaubles:sinful                    | bountifulbaubles.effect.sinful           | 149 | 0x00101317 (   1053463) |  false |         false |
+| Charm                     | charm:coffee                               | charm.potion.coffee.name                 | 150 | 0x00160202 (   1442306) |  false |         false |
+| Charm                     | charm:decay                                | charm.potion.decay.name                  | 151 | 0x00260120 (   2490656) |   true |         false |
+| Charm                     | charm:ender_sight                          | charm.potion.ender_sight.name            | 152 | 0x0075A117 (   7708951) |  false |         false |
+| Cyclic                    | cyclicmagic:potion.bounce                  | potion.bounce                            | 159 | 0x0091E459 (   9561177) |  false |         false |
+| Cyclic                    | cyclicmagic:potion.butter                  | potion.butter                            | 161 | 0x00E5E500 (  15066368) |  false |         false |
+| Cyclic                    | cyclicmagic:potion.ender                   | potion.ender                             | 154 | 0x000B4D42 (    740674) |  false |         false |
+| Cyclic                    | cyclicmagic:potion.frostwalker             | potion.frostwalker                       | 160 | 0x0042F4D7 (   4388055) |  false |         false |
+| Cyclic                    | cyclicmagic:potion.magnet                  | potion.magnet                            | 153 | 0x00224BAF (   2247599) |  false |         false |
+| Cyclic                    | cyclicmagic:potion.slowfall                | potion.slowfall                          | 156 | 0x00F46F20 (  16019232) |  false |         false |
+| Cyclic                    | cyclicmagic:potion.snow                    | potion.snow                              | 157 | 0x008EBFFF (   9355263) |  false |         false |
+| Cyclic                    | cyclicmagic:potion.stunned                 | potion.stunned                           | 162 | 0x00C2C4F7 (  12764407) |  false |         false |
+| Cyclic                    | cyclicmagic:potion.swimspeed               | potion.swimspeed                         | 158 | 0x00B477FF (  11827199) |  false |         false |
+| Cyclic                    | cyclicmagic:potion.waterwalk               | potion.waterwalk                         | 155 | 0x007FB8A4 (   8370340) |  false |         false |
+| Defiled Lands             | defiledlands:bleeding                      | potion.effect.defiledlands.bleeding      |  65 | 0x00FF0000 (  16711680) |   true |         false |
+| Defiled Lands             | defiledlands:grounded                      | potion.effect.defiledlands.grounded      |  64 | 0x005F5E57 (   6250071) |   true |         false |
+| Defiled Lands             | defiledlands:vulnerability                 | potion.effect.defiledlands.vulnerability |  63 | 0x006F7689 (   7304841) |   true |         false |
+| DungeonTactics            | dungeontactics:cryo_effect                 | effect.dungeontactics:cryo_effect        |  33 | 0x00000001 (         1) |   true |         false |
+| Electroblob's Wizardry    | ebwizardry:arcane_jammer                   | potion.ebwizardry:arcane_jammer          |  73 | 0x00CF4AA2 (  13585058) |   true |         false |
+| Electroblob's Wizardry    | ebwizardry:containment                     | potion.ebwizardry:containment            |  86 | 0x007988CC (   7964876) |   true |         false |
+| Electroblob's Wizardry    | ebwizardry:curse_of_enfeeblement           | potion.ebwizardry:curse_of_enfeeblement  |  84 | 0x0036000B (   3538955) |   true |         false |
+| Electroblob's Wizardry    | ebwizardry:curse_of_soulbinding            | potion.ebwizardry:curse_of_soulbinding   |  78 | 0x000F000F (    983055) |   true |         false |
+| Electroblob's Wizardry    | ebwizardry:curse_of_undeath                | potion.ebwizardry:curse_of_undeath       |  85 | 0x00685C00 (   6839296) |   true |         false |
+| Electroblob's Wizardry    | ebwizardry:decay                           | potion.ebwizardry:decay                  |  71 | 0x003C006C (   3932268) |   true |         false |
+| Electroblob's Wizardry    | ebwizardry:empowerment                     | potion.ebwizardry:empowerment            |  83 | 0x008367BD (   8611773) |  false |          true |
+| Electroblob's Wizardry    | ebwizardry:fear                            | potion.ebwizardry:fear                   |  77 | 0x00BD0100 (  12386560) |   true |         false |
+| Electroblob's Wizardry    | ebwizardry:fireskin                        | potion.ebwizardry:fireskin               |  68 | 0x00000000 (         0) |  false |          true |
+| Electroblob's Wizardry    | ebwizardry:font_of_mana                    | potion.ebwizardry:font_of_mana           |  76 | 0x00FFE5BB (  16770491) |  false |          true |
+| Electroblob's Wizardry    | ebwizardry:frost                           | potion.ebwizardry:frost                  |  66 | 0x00000000 (         0) |   true |         false |
+| Electroblob's Wizardry    | ebwizardry:frost_step                      | potion.ebwizardry:frost_step             |  87 | 0x00000000 (         0) |  false |          true |
+| Electroblob's Wizardry    | ebwizardry:ice_shroud                      | potion.ebwizardry:ice_shroud             |  69 | 0x00000000 (         0) |  false |          true |
+| Electroblob's Wizardry    | ebwizardry:mind_control                    | potion.ebwizardry:mind_control           |  75 | 0x00320B44 (   3279684) |   true |         false |
+| Electroblob's Wizardry    | ebwizardry:mind_trick                      | potion.ebwizardry:mind_trick             |  74 | 0x00601683 (   6297219) |   true |         false |
+| Electroblob's Wizardry    | ebwizardry:muffle                          | potion.ebwizardry:muffle                 |  80 | 0x004464D9 (   4482265) |  false |          true |
+| Electroblob's Wizardry    | ebwizardry:paralysis                       | potion.ebwizardry:paralysis              |  79 | 0x00000000 (         0) |   true |         false |
+| Electroblob's Wizardry    | ebwizardry:sixth_sense                     | potion.ebwizardry:sixth_sense            |  72 | 0x00C6FF01 (  13041409) |  false |          true |
+| Electroblob's Wizardry    | ebwizardry:slow_time                       | potion.ebwizardry:slow_time              |  82 | 0x005BE3BB (   6022075) |  false |          true |
+| Electroblob's Wizardry    | ebwizardry:static_aura                     | potion.ebwizardry:static_aura            |  70 | 0x00000000 (         0) |  false |          true |
+| Electroblob's Wizardry    | ebwizardry:transience                      | potion.ebwizardry:transience             |  67 | 0x00000000 (         0) |  false |          true |
+| Electroblob's Wizardry    | ebwizardry:ward                            | potion.ebwizardry:ward                   |  81 | 0x00C991D0 (  13210064) |  false |          true |
+| First Aid                 | firstaid:morphine                          | item.morphine.name                       | 163 | 0x00000DDD (      3549) |  false |          true |
+| Gravestone mod - Extended | gravestone-extended:curse                  | Curse                                    |  88 | 0x00000000 (         0) |   true |         false |
+| Gravestone mod - Extended | gravestone-extended:gs_bleeding_potion     | potion.bleeding.title                    |  94 | 0x00A2131F (  10621727) |   true |         false |
+| Gravestone mod - Extended | gravestone-extended:gs_bone_skin_potion    | potion.bone_skin.title                   |  91 | 0x008F8F8F (   9408399) |  false |         false |
+| Gravestone mod - Extended | gravestone-extended:gs_burning_potion      | potion.burning.title                     |  93 | 0x008A1B0E (   9050894) |   true |         false |
+| Gravestone mod - Extended | gravestone-extended:gs_choke_potion        | potion.choke.title                       |  95 | 0x0050999D (   5282205) |   true |         false |
+| Gravestone mod - Extended | gravestone-extended:gs_inferno_potion      | potion.inferno.title                     |  96 | 0x00D63F16 (  14040854) |  false |         false |
+| Gravestone mod - Extended | gravestone-extended:gs_purification_potion | potion.purification.title                |  89 | 0x00FFFFFF (  16777215) |  false |         false |
+| Gravestone mod - Extended | gravestone-extended:gs_recall_potion       | potion.recall.title                      |  92 | 0x0000C7FB (     51195) |  false |         false |
+| Gravestone mod - Extended | gravestone-extended:gs_rust_potion         | potion.rust.title                        |  90 | 0x00839F30 (   8625968) |   true |         false |
+| Hunger Overhaul           | hungeroverhaul:wellfed                     | potion.wellfed                           | 168 | 0x00000000 (         0) |  false |         false |
+| Minecraft                 | minecraft:absorption                       | effect.absorption                        |  22 | 0x002552A5 (   2445989) |  false |          true |
+| Minecraft                 | minecraft:blindness                        | effect.blindness                         |  15 | 0x001F1F23 (   2039587) |   true |         false |
+| Minecraft                 | minecraft:fire_resistance                  | effect.fireResistance                    |  12 | 0x00E49A3A (  14981690) |  false |          true |
+| Minecraft                 | minecraft:glowing                          | effect.glowing                           |  24 | 0x0094A061 (   9740385) |  false |         false |
+| Minecraft                 | minecraft:haste                            | effect.digSpeed                          |   3 | 0x00D9C043 (  14270531) |  false |          true |
+| Minecraft                 | minecraft:health_boost                     | effect.healthBoost                       |  21 | 0x00F87D23 (  16284963) |  false |          true |
+| Minecraft                 | minecraft:hunger                           | effect.hunger                            |  17 | 0x00587653 (   5797459) |   true |         false |
+| Minecraft                 | minecraft:instant_damage                   | effect.harm                              |   7 | 0x00430A09 (   4393481) |   true |          true |
+| Minecraft                 | minecraft:instant_health                   | effect.heal                              |   6 | 0x00F82423 (  16262179) |  false |          true |
+| Minecraft                 | minecraft:invisibility                     | effect.invisibility                      |  14 | 0x007F8392 (   8356754) |  false |          true |
+| Minecraft                 | minecraft:jump_boost                       | effect.jump                              |   8 | 0x0022FF4C (   2293580) |  false |          true |
+| Minecraft                 | minecraft:levitation                       | effect.levitation                        |  25 | 0x00CEFFFF (  13565951) |   true |         false |
+| Minecraft                 | minecraft:luck                             | effect.luck                              |  26 | 0x00339900 (   3381504) |  false |          true |
+| Minecraft                 | minecraft:mining_fatigue                   | effect.digSlowDown                       |   4 | 0x004A4217 (   4866583) |   true |         false |
+| Minecraft                 | minecraft:nausea                           | effect.confusion                         |   9 | 0x00551D4A (   5578058) |   true |         false |
+| Minecraft                 | minecraft:night_vision                     | effect.nightVision                       |  16 | 0x001F1FA1 (   2039713) |  false |          true |
+| Minecraft                 | minecraft:poison                           | effect.poison                            |  19 | 0x004E9331 (   5149489) |   true |         false |
+| Minecraft                 | minecraft:regeneration                     | effect.regeneration                      |  10 | 0x00CD5CAB (  13458603) |  false |          true |
+| Minecraft                 | minecraft:resistance                       | effect.resistance                        |  11 | 0x0099453A (  10044730) |  false |          true |
+| Minecraft                 | minecraft:saturation                       | effect.saturation                        |  23 | 0x00F82423 (  16262179) |  false |          true |
+| Minecraft                 | minecraft:slowness                         | effect.moveSlowdown                      |   2 | 0x005A6C81 (   5926017) |   true |         false |
+| Minecraft                 | minecraft:speed                            | effect.moveSpeed                         |   1 | 0x007CAFC6 (   8171462) |  false |          true |
+| Minecraft                 | minecraft:strength                         | effect.damageBoost                       |   5 | 0x00932423 (   9643043) |  false |          true |
+| Minecraft                 | minecraft:unluck                           | effect.unluck                            |  27 | 0x00C0A44D (  12624973) |   true |         false |
+| Minecraft                 | minecraft:water_breathing                  | effect.waterBreathing                    |  13 | 0x002E5299 (   3035801) |  false |          true |
+| Minecraft                 | minecraft:weakness                         | effect.weakness                          |  18 | 0x00484D48 (   4738376) |   true |         false |
+| Minecraft                 | minecraft:wither                           | effect.wither                            |  20 | 0x00352A27 (   3484199) |   true |         false |
+| Nutrition                 | nutrition:malnourished                     | potion.nutrition:malnourished            | 171 | 0x00000000 (         0) |  false |         false |
+| Nutrition                 | nutrition:nourished                        | potion.nutrition:nourished               | 170 | 0x00000000 (         0) |  false |         false |
+| Nutrition                 | nutrition:toughness                        | potion.nutrition:toughness               | 169 | 0x00000000 (         0) |  false |          true |
+| Potion Core               | potioncore:antidote                        | effect.antidote                          | 134 | 0x0000CC99 (     52377) |  false |          true |
+| Potion Core               | potioncore:archery                         | effect.archery                           | 137 | 0x00995500 (  10048768) |  false |          true |
+| Potion Core               | potioncore:bless                           | effect.bless                             | 130 | 0x0066CCFF (   6737151) |  false |          true |
+| Potion Core               | potioncore:broken_armor                    | effect.broken_armor                      | 131 | 0x00A17F7A (  10583930) |   true |         false |
+| Potion Core               | potioncore:burst                           | effect.burst                             | 136 | 0x00666666 (   6710886) |  false |          true |
+| Potion Core               | potioncore:chance                          | effect.chance                            | 123 | 0x000000FF (       255) |  false |          true |
+| Potion Core               | potioncore:climb                           | effect.climb                             | 114 | 0x00CC5500 (  13391104) |  false |          true |
+| Potion Core               | potioncore:cure                            | effect.cure                              | 109 | 0x00FF55FF (  16733695) |  false |          true |
+| Potion Core               | potioncore:curse                           | effect.curse                             | 135 | 0x00000000 (         0) |   true |         false |
+| Potion Core               | potioncore:diamond_skin                    | effect.diamond_skin                      | 105 | 0x002BD8F0 (   2873584) |  false |          true |
+| Potion Core               | potioncore:disorganization                 | effect.disorganization                   | 113 | 0x009900FF (  10027263) |   true |         false |
+| Potion Core               | potioncore:dispel                          | effect.dispel                            | 127 | 0x00990099 (  10027161) |   true |         false |
+| Potion Core               | potioncore:drown                           | effect.drown                             | 111 | 0x0000FFFF (     65535) |   true |         false |
+| Potion Core               | potioncore:explode                         | effect.explode                           | 118 | 0x00333333 (   3355443) |   true |         false |
+| Potion Core               | potioncore:extension                       | effect.extension                         | 100 | 0x00990099 (  10027161) |  false |          true |
+| Potion Core               | potioncore:fire                            | effect.fire                              | 120 | 0x00FF5500 (  16733440) |   true |         false |
+| Potion Core               | potioncore:flight                          | effect.flight                            |  99 | 0x005599FF (   5609983) |  false |          true |
+| Potion Core               | potioncore:invert                          | effect.invert                            | 124 | 0x0099FF99 (  10092441) |   true |         false |
+| Potion Core               | potioncore:iron_skin                       | effect.iron_skin                         | 102 | 0x00C7C7C7 (  13092807) |  false |          true |
+| Potion Core               | potioncore:klutz                           | effect.klutz                             | 129 | 0x00999933 (  10066227) |   true |         false |
+| Potion Core               | potioncore:launch                          | effect.launch                            | 126 | 0x0000FF00 (     65280) |   true |         false |
+| Potion Core               | potioncore:lightning                       | effect.lightning                         | 121 | 0x00FFFF00 (  16776960) |   true |         false |
+| Potion Core               | potioncore:love                            | effect.love                              |  97 | 0x00FF3333 (  16724787) |  false |          true |
+| Potion Core               | potioncore:magic_focus                     | effect.magic_focus                       | 108 | 0x00E69FFF (  15114239) |  false |          true |
+| Potion Core               | potioncore:magic_inhibition                | effect.magic_inhibition                  | 122 | 0x00A57EB3 (  10845875) |   true |         false |
+| Potion Core               | potioncore:magic_shield                    | effect.magic_shield                      | 132 | 0x00FF46AA (  16729770) |  false |          true |
+| Potion Core               | potioncore:perplexity                      | effect.perplexity                        | 115 | 0x009900FF (  10027263) |   true |         false |
+| Potion Core               | potioncore:purity                          | effect.purity                            | 103 | 0x00FFFFFF (  16777215) |  false |          true |
+| Potion Core               | potioncore:reach                           | effect.reach                             | 104 | 0x00C83264 (  13120100) |  false |          true |
+| Potion Core               | potioncore:recoil                          | effect.recoil                            | 101 | 0x00008822 (     34850) |  false |          true |
+| Potion Core               | potioncore:repair                          | effect.repair                            |  98 | 0x00777777 (   7829367) |  false |          true |
+| Potion Core               | potioncore:revival                         | effect.revival                           | 128 | 0x00FF0000 (  16711680) |  false |          true |
+| Potion Core               | potioncore:rust                            | effect.rust                              | 116 | 0x00773300 (   7811840) |   true |         false |
+| Potion Core               | potioncore:slow_fall                       | effect.slow_fall                         | 133 | 0x00FFFFCC (  16777164) |  false |          true |
+| Potion Core               | potioncore:solid_core                      | effect.solid_core                        | 119 | 0x00222222 (   2236962) |  false |          true |
+| Potion Core               | potioncore:step_up                         | effect.step_up                           | 110 | 0x0033CC33 (   3394611) |  false |          true |
+| Potion Core               | potioncore:teleport                        | effect.teleport                          | 106 | 0x0000CC99 (     52377) |   true |         false |
+| Potion Core               | potioncore:teleport_spawn                  | effect.teleport_spawn                    | 112 | 0x009955FF (  10049023) |  false |          true |
+| Potion Core               | potioncore:teleport_surface                | effect.teleport_surface                  | 107 | 0x0000FF99 (     65433) |  false |          true |
+| Potion Core               | potioncore:vulnerable                      | effect.vulnerable                        | 117 | 0x00557700 (   5601024) |   true |         false |
+| Potion Core               | potioncore:weight                          | effect.weight                            | 125 | 0x00555555 (   5592405) |   true |         false |
+| Quark                     | quark:black                                | quark.potion.black.name                  |  41 | 0x00303030 (   3158064) |   true |         false |
+| Quark                     | quark:blue                                 | quark.potion.blue.name                   |  40 | 0x000000FF (       255) |   true |         false |
+| Quark                     | quark:curse                                | quark.potion.curse.name                  |  44 | 0x00000000 (         0) |   true |         false |
+| Quark                     | quark:danger_sight                         | quark.potion.danger_sight.name           |  45 | 0x0008C8E3 (    575715) |  false |          true |
+| Quark                     | quark:resilience                           | quark.potion.resilience.name             |  43 | 0x005B1A04 (   5970436) |  false |         false |
+| Quark                     | quark:white                                | quark.potion.white.name                  |  42 | 0x00CCCCCC (  13421772) |   true |         false |
+| Random Things             | randomthings:collapse                      | Collapse                                 |  39 | 0xFFFFAFAF (    -20561) |   true |         false |
+| Random Things             | randomthings:imbue_collapse                | Collapse Imbue                           |  38 | 0xFFFFAFAF (    -20561) |  false |         false |
+| Random Things             | randomthings:imbue_experience              | Experience Imbue                         |  36 | 0xFFFFFF00 (      -256) |  false |         false |
+| Random Things             | randomthings:imbue_fire                    | Fire Imbue                               |  34 | 0xFFFFC800 (    -14336) |  false |         false |
+| Random Things             | randomthings:imbue_poison                  | Poison Imbue                             |  35 | 0xFF00B200 ( -16731648) |  false |         false |
+| Random Things             | randomthings:imbue_wither                  | Wither Imbue                             |  37 | 0xFF030303 ( -16579837) |  false |         false |
+| Rats                      | rats:plague                                | rats.plague                              | 139 | 0x00445637 (   4478519) |  false |         false |
+| Rats                      | rats:synesthesia                           | rats.synesthesia                         | 138 | 0x00FFDD59 (  16768345) |  false |          true |
+| Scaling Health            | scalinghealth:bandaged                     | effect.scalinghealth.bandaged            | 140 | 0x00F7DCAD (  16243885) |  false |          true |
+| Switch-Bow                | switchbow:freeze                           | Freeze                                   | 141 | 0x00000000 (         0) |   true |         false |
+| Switch-Bow                | switchbow:love                             | In Love                                  | 142 | 0x00000000 (         0) |   true |         false |
+| Thaumcraft                | thaumcraft:blurredvision                   | potion.blurred                           |  52 | 0x00808080 (   8421504) |   true |         false |
+| Thaumcraft                | thaumcraft:deathgaze                       | potion.deathgaze                         |  51 | 0x00664433 (   6702131) |   true |         false |
+| Thaumcraft                | thaumcraft:fluxtaint                       | potion.flux_taint                        |  46 | 0x00663377 (   6697847) |   true |         false |
+| Thaumcraft                | thaumcraft:infectiousvisexhaust            | potion.infvisexhaust                     |  48 | 0x00665577 (   6706551) |   true |         false |
+| Thaumcraft                | thaumcraft:sunscorned                      | potion.sunscorned                        |  53 | 0x00F8D86A (  16308330) |   true |         false |
+| Thaumcraft                | thaumcraft:thaumarhia                      | potion.thaumarhia                        |  54 | 0x00664477 (   6702199) |   true |         false |
+| Thaumcraft                | thaumcraft:unnaturalhunger                 | potion.unhunger                          |  49 | 0x00446633 (   4482611) |   true |         false |
+| Thaumcraft                | thaumcraft:visexhaust                      | potion.vis_exhaust                       |  47 | 0x00664477 (   6702199) |   true |         false |
+| Thaumcraft                | thaumcraft:warpward                        | potion.warpward                          |  50 | 0x00E0F2F7 (  14742263) |  false |         false |
+| The Twilight Forest       | twilightforest:frosted                     | twilightforest.effect.frosted            |  55 | 0x0056CBFD (   5688317) |   true |         false |
+| Tinkers' Construct        | tconstruct:carry                           | potion.carry                             |  56 | 0x00FFFFFF (  16777215) |  false |         false |
+| Tinkers' Construct        | tconstruct:dot                             | potion.dot                               |  61 | 0x00FFFFFF (  16777215) |   true |         false |
+| Tinkers' Construct        | tconstruct:enderference                    | potion.enderference                      |  57 | 0x0021985F (   2201695) |   true |         false |
+| Tinkers' Construct        | tconstruct:insatiable                      | potion.insatiable                        |  58 | 0x00FFFFFF (  16777215) |   true |         false |
+| Tinkers' Construct        | tconstruct:magnetic                        | potion.magnetic                          |  59 | 0x00FFFFFF (  16777215) |  false |         false |
+| Tinkers' Construct        | tconstruct:momentum                        | potion.momentum                          |  60 | 0x00FFFFFF (  16777215) |  false |         false |
+| Tinkers' Construct        | tconstruct:splinter                        | potion.splinter                          |  62 | 0x00FFFFFF (  16777215) |   true |         false |
+| Tough As Nails            | toughasnails:cold_resistance               | potion.cold_resistance                   |  30 | 0x0077A9FF (   7842303) |  false |          true |
+| Tough As Nails            | toughasnails:heat_resistance               | potion.heat_resistance                   |  31 | 0x00E54720 (  15025952) |  false |          true |
+| Tough As Nails            | toughasnails:hydration                     | potion.hydration                         |  32 | 0x001B5FD3 (   1794003) |  false |          true |
+| Tough As Nails            | toughasnails:hyperthermia                  | potion.hyperthermia                      |  28 | 0x00FFA300 (  16753408) |   true |         false |
+| Tough As Nails            | toughasnails:hypothermia                   | potion.hypothermia                       |   0 | 0x00A8CFFF (  11063295) |   true |         false |
+| Tough As Nails            | toughasnails:thirst                        | potion.thirst                            |  29 | 0x0061D51A (   6411546) |   true |         false |
+| Trinkets and Baubles      | xat:dwarf                                  | effect.dwarf                             | 167 | 0x00A5492A (  10832170) |  false |         false |
+| Trinkets and Baubles      | xat:enhanced                               | effect.enhanced                          | 164 | 0x00FFFFB1 (  16777137) |  false |         false |
+| Trinkets and Baubles      | xat:fairy                                  | effect.fairy                             | 166 | 0x00BEF4E7 (  12514535) |  false |         false |
+| Trinkets and Baubles      | xat:restorative                            | effect.restorative                       | 165 | 0x00FFFFFF (  16777215) |  false |         false |
++---------------------------+--------------------------------------------+------------------------------------------+-----+-------------------------+--------+---------------+
+| Mod name                  | Registry name                              | Potion Name                              |  ID | Liquid color            | Is bad | Is beneficial |
++---------------------------+--------------------------------------------+------------------------------------------+-----+-------------------------+--------+---------------+

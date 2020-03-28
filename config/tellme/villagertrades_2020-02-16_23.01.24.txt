@@ -1,0 +1,410 @@
++--------------------------------+--------------------------------+------------------------------------------+------------+-------------------------------------+
+| Registry name                  | Career                         | Buy 1                                    | Buy 2      | Sell                                |
++--------------------------------+--------------------------------+------------------------------------------+------------+-------------------------------------+
+| minecraft:priest               | cleric                         |                                          |            |                                     |
+|                                |                                | Rotten Flesh                             |            | Emerald                             |
+|                                |                                | Gold Ingot                               |            | Emerald                             |
+|                                |                                | Emerald                                  |            | Redstone                            |
+|                                |                                | Emerald                                  |            | Lapis Lazuli                        |
+|                                |                                | Emerald                                  |            | Ender Pearl                         |
+|                                |                                | Emerald                                  |            | Glowstone                           |
+|                                |                                | Emerald                                  | Book       | Enchanted Book                      |
+|                                |                                | Emerald                                  |            | Bottle o' Enchanting                |
+| minecraft:nitwit               | nitwit                         |                                          |            |                                     |
+| minecraft:librarian            | librarian                      |                                          |            |                                     |
+|                                |                                | Paper                                    |            | Emerald                             |
+|                                |                                | Book                                     | Emerald    | Enchanted Book                      |
+|                                |                                | Enchanted Book                           |            | Emerald                             |
+|                                |                                | Book                                     |            | Emerald                             |
+|                                |                                | Emerald                                  |            | Compass                             |
+|                                |                                | Emerald                                  |            | Bookshelf                           |
+|                                |                                | Written Book                             |            | Emerald                             |
+|                                |                                | Emerald                                  |            | Clock                               |
+|                                |                                | Emerald                                  |            | Glass                               |
+|                                |                                | Book                                     | Emerald    | Enchanted Book                      |
+|                                |                                | Book                                     | Emerald    | Enchanted Book                      |
+|                                |                                | Emerald                                  |            | Name Tag                            |
+|                                |                                | ?                                        | ?          | [Exception. Treasure map?]          |
+|                                |                                | ?                                        | ?          | [Exception. Treasure map?]          |
+|                                |                                | ?                                        | ?          | [Exception. Treasure map?]          |
+|                                |                                | ?                                        | ?          | [Exception. Treasure map?]          |
+|                                |                                | ?                                        | ?          | [Exception. Treasure map?]          |
+|                                |                                | ?                                        | ?          | [Exception. Treasure map?]          |
+|                                |                                | ?                                        | ?          | [Exception. Treasure map?]          |
+| minecraft:librarian            | cartographer                   |                                          |            |                                     |
+|                                |                                | Paper                                    |            | Emerald                             |
+|                                |                                | Compass                                  |            | Emerald                             |
+|                                |                                | Emerald                                  |            | Empty Map                           |
+| cyclicmagic:sage               | sage                           |                                          |            |                                     |
+|                                |                                | Gunpowder                                |            | Emerald                             |
+|                                |                                | Nether Wart                              |            | Emerald                             |
+|                                |                                | Bone                                     |            | Emerald                             |
+|                                |                                | Raw Mutton                               |            | Emerald                             |
+|                                |                                | Blaze Rod                                |            | Emerald                             |
+|                                |                                | Slimeball                                |            | Emerald                             |
+|                                |                                | Ghast Tear                               |            | Emerald                             |
+|                                |                                | Redstone                                 |            | Emerald                             |
+|                                |                                | Glowstone Dust                           |            | Emerald                             |
+|                                |                                | Ender Pearl                              |            | Emerald                             |
+|                                |                                | Written Book                             |            | Emerald                             |
+|                                |                                | Saddle                                   |            | Emerald                             |
+|                                |                                | Name Tag                                 |            | Emerald                             |
+|                                |                                | Cake                                     |            | Emerald                             |
+|                                |                                | Pumpkin Pie                              |            | Emerald                             |
+| gravestone-extended:undertaker | gravestone-extended:undertaker |                                          |            |                                     |
+|                                |                                | Emerald                                  |            | Skeleton Skull                      |
+|                                |                                | Emerald                                  |            | Zombie Head                         |
+|                                |                                | Emerald                                  |            | Head                                |
+|                                |                                | Emerald                                  |            | Creeper Head                        |
+|                                |                                | Emerald                                  |            | Wither Skeleton Skull               |
+| minecraft:butcher              | butcher                        |                                          |            |                                     |
+|                                |                                | Raw Porkchop                             |            | Emerald                             |
+|                                |                                | Raw Chicken                              |            | Emerald                             |
+|                                |                                | Rotten Flesh                             |            | Raw Mutton                          |
+|                                |                                | Emerald                                  |            | Truffle Soup                        |
+|                                |                                | Emerald                                  |            | Roast Prime Beef                    |
+|                                |                                | Emerald                                  |            | Roast Prime Pork                    |
+|                                |                                | Emerald                                  |            | Roast Prime Mutton                  |
+|                                |                                | Emerald                                  |            | Cooked Horse                        |
+|                                |                                | Emerald                                  |            | Roast Prime Chevon                  |
+|                                |                                | Emerald                                  |            | Hydra Chop                          |
+|                                |                                | Emerald                                  |            | Confit Byaldi                       |
+|                                |                                | Emerald                                  |            | Potato Knishes                      |
+|                                |                                | Emerald                                  |            | Sausage Bean Melt                   |
+|                                |                                | Emerald                                  |            | Bacon Cheeseburger                  |
+|                                |                                | Emerald                                  |            | Deluxe Cheeseburger                 |
+|                                |                                | Emerald                                  |            | Beans on Toast                      |
+|                                |                                | Emerald                                  |            | Meat Pie                            |
+|                                |                                | Emerald                                  |            | Chiko Roll                          |
+|                                |                                | Emerald                                  |            | Spinach Pie                         |
+|                                |                                | Emerald                                  |            | Coleslaw Burger                     |
+|                                |                                | Emerald                                  |            | Hot and Sour Soup                   |
+|                                |                                | Emerald                                  |            | Patreon Pie                         |
+|                                |                                | Emerald                                  |            | Chili Dog                           |
+|                                |                                | Emerald                                  |            | Tunafish Sandwich                   |
+|                                |                                | Emerald                                  |            | Clam Chowder                        |
+|                                |                                | Emerald                                  |            | Breakfast Burrito                   |
+|                                |                                | Emerald                                  |            | Chips and Salsa                     |
+|                                |                                | Emerald                                  |            | Crawfish Etoufee                    |
+|                                |                                | Emerald                                  |            | Sauced Lamb Kebab                   |
+|                                |                                | Emerald                                  |            | Cantonese Noodles                   |
+|                                |                                | Emerald                                  |            | Dango                               |
+|                                |                                | Emerald                                  |            | Takoyaki                            |
+|                                |                                | Emerald                                  |            | Groiled Cheese Sandwich             |
+|                                |                                | Emerald                                  |            | Cheesesteak                         |
+|                                |                                | Emerald                                  |            | Swedish Meatballs                   |
+|                                |                                | Emerald                                  |            | Butter Tart                         |
+|                                |                                | Emerald                                  |            | Battenberg                          |
+|                                |                                | Emerald                                  |            | Slaw Dog                            |
+|                                |                                | Emerald                                  |            | River Mud Cake                      |
+|                                |                                | Emerald                                  |            | Fruit Cake                          |
+|                                |                                | Emerald                                  |            | Springfield Cashew Chicken          |
+|                                |                                | Emerald                                  |            | Enchilada                           |
+|                                |                                | Emerald                                  |            | Pizza                               |
+|                                |                                | Emerald                                  |            | Onion Soup                          |
+|                                |                                | Emerald                                  |            | Bacon Mushroom Burger               |
+|                                |                                | Emerald                                  |            | Toad in the Hole                    |
+|                                |                                | Emerald                                  |            | Homestyle Lunch                     |
+|                                |                                | Emerald                                  |            | Monte Cristo Sandwich               |
+|                                |                                | Emerald                                  |            | Mob Soup                            |
+|                                |                                | Emerald                                  |            | Random Taco                         |
+|                                |                                | Emerald                                  |            | Ham & Sweet Pickle Sandwich         |
+|                                |                                | Emerald                                  |            | Toasted Western                     |
+|                                |                                | Emerald                                  |            | Eggs Benedict                       |
+|                                |                                | Emerald                                  |            | Glistening Salad                    |
+|                                |                                | Emerald                                  |            | Meatloaf Sandwich                   |
+|                                |                                | Emerald                                  |            | Mashed Potatoes and Chicken Biscuit |
+|                                |                                | Emerald                                  |            | Cassoulet                           |
+|                                |                                | Emerald                                  |            | Bratwurst                           |
+|                                |                                | Emerald                                  |            | Chicken Biscuit                     |
+|                                |                                | Emerald                                  |            | Epic BLT                            |
+|                                |                                | Emerald                                  |            | Kohl und Pinkel                     |
+|                                |                                | Emerald                                  |            | Beet Burger                         |
+|                                |                                | Emerald                                  |            | Anchovy Pepperoni Pizza             |
+|                                |                                | Emerald                                  |            | Spaghetti Dinner                    |
+|                                |                                | Emerald                                  |            | Gumbo                               |
+|                                |                                | Emerald                                  |            | Jambalaya                           |
+|                                |                                | Emerald                                  |            | Supreme Pizza                       |
+|                                |                                | Emerald                                  |            | BBQ Platter                         |
+|                                |                                | Emerald                                  |            | Chicken and Waffles                 |
+|                                |                                | Emerald                                  |            | Gourmet Pork Burger                 |
+|                                |                                | Emerald                                  |            | BBQ Chicken Biscuit                 |
+|                                |                                | Emerald                                  |            | Delighted Meal                      |
+|                                |                                | Emerald                                  |            | Hearty Breakfast                    |
+|                                |                                | Emerald                                  |            | McPam                               |
+|                                |                                | Emerald                                  |            | Deluxe Nachos                       |
+|                                |                                | Emerald                                  |            | Gourmet Mutton Burger               |
+|                                |                                | Emerald                                  |            | Nether Star on Toast                |
+|                                |                                | Emerald                                  |            | Paradise Burger                     |
+|                                |                                | Emerald                                  |            | Chimichanga                         |
+|                                |                                | Emerald                                  |            | Salisbury Steak                     |
+|                                |                                | Emerald                                  |            | Ploughman's Lunch                   |
+|                                |                                | Emerald                                  |            | Corned Beef Hash                    |
+|                                |                                | Emerald                                  |            | Bento Box                           |
+|                                |                                | Emerald                                  |            | Fried Feast                         |
+|                                |                                | Emerald                                  |            | Timpano                             |
+|                                |                                | Emerald                                  |            | Deluxe Chicken Curry                |
+|                                |                                | Emerald                                  |            | Weekend Picnic                      |
+|                                |                                | Emerald                                  |            | Gourmet Beef Burger                 |
+|                                |                                | Emerald                                  |            | Southern Style Breakfast            |
+|                                |                                | Emerald                                  |            | Meat Feast Pizza                    |
+|                                |                                | Emerald                                  |            | Thankful Dinner                     |
+|                                |                                | Emerald                                  |            | Korean Dinner                       |
+|                                |                                | Emerald                                  |            | Gourmet Venison Burger              |
+|                                |                                | Emerald                                  |            | Miner's Stew                        |
+|                                |                                | Emerald                                  |            | Corned Beef Breakfast               |
+|                                |                                | Emerald                                  |            | Suspicious Soup                     |
+|                                |                                | Coal                                     |            | Emerald                             |
+|                                |                                | Emerald                                  |            | Cooked Porkchop                     |
+|                                |                                | Emerald                                  |            | Cooked Chicken                      |
+| minecraft:butcher              | leather                        |                                          |            |                                     |
+|                                |                                | Leather                                  |            | Emerald                             |
+|                                |                                | Emerald                                  |            | Leather Pants                       |
+|                                |                                | Rotten Flesh                             |            | Leather                             |
+|                                |                                | Emerald                                  |            | Leather Tunic                       |
+|                                |                                | Emerald                                  |            | Saddle                              |
+| cyclicmagic:druid              | druid                          |                                          |            |                                     |
+|                                |                                | Cooked Fish                              |            | Emerald                             |
+|                                |                                | Apple                                    |            | Emerald                             |
+|                                |                                | Beetroot                                 |            | Emerald                             |
+|                                |                                | Feather                                  |            | Emerald                             |
+|                                |                                | Seeds                                    |            | Emerald                             |
+|                                |                                | Poisonous Potato                         |            | Emerald                             |
+|                                |                                | Mushroom                                 |            | Emerald                             |
+|                                |                                | Mushroom                                 |            | Emerald                             |
+|                                |                                | Raw Beef                                 |            | Emerald                             |
+|                                |                                | Raw Rabbit                               |            | Emerald                             |
+|                                |                                | Raw Chicken                              |            | Emerald                             |
+|                                |                                | Raw Fish                                 |            | Emerald                             |
+|                                |                                | Spider Eye                               |            | Emerald                             |
+|                                |                                | Bottle o' Enchanting                     |            | Emerald                             |
+| minecraft:farmer               | farmer                         |                                          |            |                                     |
+|                                |                                | Wheat                                    |            | Emerald                             |
+|                                |                                | Potato                                   |            | Emerald                             |
+|                                |                                | Carrot                                   |            | Emerald                             |
+|                                |                                | Emerald                                  |            | Bread                               |
+|                                |                                | Blackberry                               |            | Emerald                             |
+|                                |                                | Blueberry                                |            | Emerald                             |
+|                                |                                | Candleberry                              |            | Emerald                             |
+|                                |                                | Raspberry                                |            | Emerald                             |
+|                                |                                | Strawberry                               |            | Emerald                             |
+|                                |                                | Cactus Fruit                             |            | Emerald                             |
+|                                |                                | Asparagus                                |            | Emerald                             |
+|                                |                                | Barley                                   |            | Emerald                             |
+|                                |                                | Oats                                     |            | Emerald                             |
+|                                |                                | Rye                                      |            | Emerald                             |
+|                                |                                | Corn                                     |            | Emerald                             |
+|                                |                                | Bamboo Shoot                             |            | Emerald                             |
+|                                |                                | Cantaloupe                               |            | Emerald                             |
+|                                |                                | Cucumber                                 |            | Emerald                             |
+|                                |                                | Winter Squash                            |            | Emerald                             |
+|                                |                                | Zucchini                                 |            | Emerald                             |
+|                                |                                | Beet                                     |            | Emerald                             |
+|                                |                                | Onion                                    |            | Emerald                             |
+|                                |                                | Parsnip                                  |            | Emerald                             |
+|                                |                                | Peanut                                   |            | Emerald                             |
+|                                |                                | Radish                                   |            | Emerald                             |
+|                                |                                | Rutabaga                                 |            | Emerald                             |
+|                                |                                | Sweet Potato                             |            | Emerald                             |
+|                                |                                | Turnip                                   |            | Emerald                             |
+|                                |                                | Rhubarb                                  |            | Emerald                             |
+|                                |                                | Celery                                   |            | Emerald                             |
+|                                |                                | Garlic                                   |            | Emerald                             |
+|                                |                                | Ginger                                   |            | Emerald                             |
+|                                |                                | Spice Leaf                               |            | Emerald                             |
+|                                |                                | Tea Leaf                                 |            | Emerald                             |
+|                                |                                | Coffee Beans                             |            | Emerald                             |
+|                                |                                | Mustard Seeds                            |            | Emerald                             |
+|                                |                                | Broccoli                                 |            | Emerald                             |
+|                                |                                | Cauliflower                              |            | Emerald                             |
+|                                |                                | Leek                                     |            | Emerald                             |
+|                                |                                | Lettuce                                  |            | Emerald                             |
+|                                |                                | Scallion                                 |            | Emerald                             |
+|                                |                                | Artichoke                                |            | Emerald                             |
+|                                |                                | Brussel Sprout                           |            | Emerald                             |
+|                                |                                | Cabbage                                  |            | Emerald                             |
+|                                |                                | Spinach                                  |            | Emerald                             |
+|                                |                                | White Mushroom                           |            | Emerald                             |
+|                                |                                | Beans                                    |            | Emerald                             |
+|                                |                                | Soybean                                  |            | Emerald                             |
+|                                |                                | Bellpepper                               |            | Emerald                             |
+|                                |                                | Chili Pepper                             |            | Emerald                             |
+|                                |                                | Eggplant                                 |            | Emerald                             |
+|                                |                                | Okra                                     |            | Emerald                             |
+|                                |                                | Peas                                     |            | Emerald                             |
+|                                |                                | Tomato                                   |            | Emerald                             |
+|                                |                                | Cotton                                   |            | Emerald                             |
+|                                |                                | Pineapple                                |            | Emerald                             |
+|                                |                                | Grape                                    |            | Emerald                             |
+|                                |                                | Kiwi                                     |            | Emerald                             |
+|                                |                                | Cranberry                                |            | Emerald                             |
+|                                |                                | Rice                                     |            | Emerald                             |
+|                                |                                | Seaweed                                  |            | Emerald                             |
+|                                |                                | Curry Leaf                               |            | Emerald                             |
+|                                |                                | Sesame Seeds                             |            | Emerald                             |
+|                                |                                | Water Chestnut                           |            | Emerald                             |
+|                                |                                | Giga Pickle                              |            | Emerald                             |
+|                                |                                | Kale                                     |            | Emerald                             |
+|                                |                                | Agave                                    |            | Emerald                             |
+|                                |                                | Amaranth                                 |            | Emerald                             |
+|                                |                                | Arrowroot                                |            | Emerald                             |
+|                                |                                | Cassava                                  |            | Emerald                             |
+|                                |                                | Chickpeas                                |            | Emerald                             |
+|                                |                                | Elderberry                               |            | Emerald                             |
+|                                |                                | Flax                                     |            | Emerald                             |
+|                                |                                | Green Grape                              |            | Emerald                             |
+|                                |                                | Huckleberry                              |            | Emerald                             |
+|                                |                                | Jicama                                   |            | Emerald                             |
+|                                |                                | Jute                                     |            | Emerald                             |
+|                                |                                | Kenaf                                    |            | Emerald                             |
+|                                |                                | Kohlrabi                                 |            | Emerald                             |
+|                                |                                | Lentils                                  |            | Emerald                             |
+|                                |                                | Millet                                   |            | Emerald                             |
+|                                |                                | Mulberry                                 |            | Emerald                             |
+|                                |                                | Quinoa                                   |            | Emerald                             |
+|                                |                                | Sisal                                    |            | Emerald                             |
+|                                |                                | Taro                                     |            | Emerald                             |
+|                                |                                | Tomatillo                                |            | Emerald                             |
+|                                |                                | Juniperberry                             |            | Emerald                             |
+|                                |                                | Emerald                                  |            | Date Sapling                        |
+|                                |                                | Emerald                                  |            | Papaya Sapling                      |
+|                                |                                | Emerald                                  |            | Cherry Sapling                      |
+|                                |                                | Emerald                                  |            | Fig Sapling                         |
+|                                |                                | Emerald                                  |            | Soursop Sapling                     |
+|                                |                                | Emerald                                  |            | Dragonfruit Sapling                 |
+|                                |                                | Emerald                                  |            | Rambutan Sapling                    |
+|                                |                                | Emerald                                  |            | Jackfruit Sapling                   |
+|                                |                                | Emerald                                  |            | Passion Fruit Sapling               |
+|                                |                                | Emerald                                  |            | Apple Sapling                       |
+|                                |                                | Emerald                                  |            | Lemon Sapling                       |
+|                                |                                | Emerald                                  |            | Pear Sapling                        |
+|                                |                                | Emerald                                  |            | Olive Sapling                       |
+|                                |                                | Emerald                                  |            | Spider Web Sapling                  |
+|                                |                                | Emerald                                  |            | Grapefruit Sapling                  |
+|                                |                                | Emerald                                  |            | Pomegranate Sapling                 |
+|                                |                                | Emerald                                  |            | Cashew Sapling                      |
+|                                |                                | Emerald                                  |            | Vanilla Sapling                     |
+|                                |                                | Emerald                                  |            | Starfruit Sapling                   |
+|                                |                                | Emerald                                  |            | Banana Sapling                      |
+|                                |                                | Emerald                                  |            | Plum Sapling                        |
+|                                |                                | Emerald                                  |            | Avocado Sapling                     |
+|                                |                                | Emerald                                  |            | Pecan Sapling                       |
+|                                |                                | Emerald                                  |            | Pistachio Sapling                   |
+|                                |                                | Emerald                                  |            | Hazelnut Sapling                    |
+|                                |                                | Emerald                                  |            | Lime Sapling                        |
+|                                |                                | Emerald                                  |            | Peppercorn Sapling                  |
+|                                |                                | Emerald                                  |            | Almond Sapling                      |
+|                                |                                | Emerald                                  |            | Gooseberry Sapling                  |
+|                                |                                | Emerald                                  |            | Peach Sapling                       |
+|                                |                                | Emerald                                  |            | Chestnut Sapling                    |
+|                                |                                | Emerald                                  |            | Pawpaw Sapling                      |
+|                                |                                | Emerald                                  |            | Coconut Sapling                     |
+|                                |                                | Emerald                                  |            | Mango Sapling                       |
+|                                |                                | Emerald                                  |            | Apricot Sapling                     |
+|                                |                                | Emerald                                  |            | Orange Sapling                      |
+|                                |                                | Emerald                                  |            | Walnut Sapling                      |
+|                                |                                | Emerald                                  |            | Lychee Sapling                      |
+|                                |                                | Emerald                                  |            | Persimmon Sapling                   |
+|                                |                                | Emerald                                  |            | Guava Sapling                       |
+|                                |                                | Emerald                                  |            | Breadfruit Sapling                  |
+|                                |                                | Emerald                                  |            | Nutmeg Sapling                      |
+|                                |                                | Emerald                                  |            | Durian Sapling                      |
+|                                |                                | Emerald                                  |            | Tamarind Sapling                    |
+|                                |                                | Emerald                                  |            | Cinnamon Sapling                    |
+|                                |                                | Emerald                                  |            | Maple Sapling                       |
+|                                |                                | Emerald                                  |            | Paperbark Sapling                   |
+|                                |                                | Pumpkin                                  |            | Emerald                             |
+|                                |                                | Emerald                                  |            | Pumpkin Pie                         |
+|                                |                                | Beetroot                                 |            | Suspicious Soup                     |
+|                                |                                | Melon                                    |            | Emerald                             |
+|                                |                                | Emerald                                  |            | Apple                               |
+|                                |                                | Emerald                                  |            | Cookie                              |
+|                                |                                | Emerald                                  |            | Cake                                |
+| minecraft:farmer               | fisherman                      |                                          |            |                                     |
+|                                |                                | String                                   |            | Emerald                             |
+|                                |                                | Coal                                     |            | Emerald                             |
+|                                |                                | Raw Fish                                 | Emerald    | Cooked Fish                         |
+|                                |                                | Emerald                                  |            | Wooden Fishing Rod                  |
+|                                |                                | Beetroot                                 |            | Suspicious Soup                     |
+| minecraft:farmer               | shepherd                       |                                          |            |                                     |
+|                                |                                | White Wool                               |            | Emerald                             |
+|                                |                                | Emerald                                  |            | Shears                              |
+|                                |                                | Emerald                                  |            | White Wool                          |
+|                                |                                | Emerald                                  |            | Orange Wool                         |
+|                                |                                | Emerald                                  |            | Magenta Wool                        |
+|                                |                                | Emerald                                  |            | Light Blue Wool                     |
+|                                |                                | Emerald                                  |            | Yellow Wool                         |
+|                                |                                | Emerald                                  |            | Lime Wool                           |
+|                                |                                | Emerald                                  |            | Pink Wool                           |
+|                                |                                | Emerald                                  |            | Gray Wool                           |
+|                                |                                | Emerald                                  |            | Light Gray Wool                     |
+|                                |                                | Emerald                                  |            | Cyan Wool                           |
+|                                |                                | Emerald                                  |            | Purple Wool                         |
+|                                |                                | Emerald                                  |            | Blue Wool                           |
+|                                |                                | Emerald                                  |            | Brown Wool                          |
+|                                |                                | Emerald                                  |            | Green Wool                          |
+|                                |                                | Emerald                                  |            | Red Wool                            |
+|                                |                                | Emerald                                  |            | Black Wool                          |
+| minecraft:farmer               | fletcher                       |                                          |            |                                     |
+|                                |                                | String                                   |            | Emerald                             |
+|                                |                                | Emerald                                  |            | Arrow                               |
+|                                |                                | Emerald                                  |            | Bow                                 |
+|                                |                                | Gravel                                   | Emerald    | Flint                               |
+| minecraft:smith                | armor                          |                                          |            |                                     |
+|                                |                                | Coal                                     |            | Emerald                             |
+|                                |                                | Emerald                                  |            | Iron Helmet                         |
+|                                |                                | Very Damaged Anvil                       | Iron Ingot | Anvil                               |
+|                                |                                | Iron Ingot                               |            | Emerald                             |
+|                                |                                | Emerald                                  |            | Iron Chestplate                     |
+|                                |                                | Emerald                                  |            | Lantern                             |
+|                                |                                | Diamond                                  |            | Emerald                             |
+|                                |                                | Emerald                                  |            | Diamond Chestplate                  |
+|                                |                                | Emerald                                  | Book       | Enchanted Book                      |
+|                                |                                | Emerald                                  |            | Chain Boots                         |
+|                                |                                | Emerald                                  |            | Chain Leggings                      |
+|                                |                                | Emerald                                  |            | Chain Helmet                        |
+|                                |                                | Emerald                                  |            | Chain Chestplate                    |
+| minecraft:smith                | weapon                         |                                          |            |                                     |
+|                                |                                | Coal                                     |            | Emerald                             |
+|                                |                                | Emerald                                  |            | Iron Axe                            |
+|                                |                                | Very Damaged Anvil                       | Iron Ingot | Anvil                               |
+|                                |                                | Iron Ingot                               |            | Emerald                             |
+|                                |                                | Emerald                                  |            | Iron Sword                          |
+|                                |                                | Emerald                                  |            | Lantern                             |
+|                                |                                | Diamond                                  |            | Emerald                             |
+|                                |                                | Emerald                                  |            | Diamond Sword                       |
+|                                |                                | Emerald                                  |            | Diamond Axe                         |
+|                                |                                | Emerald                                  | Book       | Enchanted Book                      |
+| minecraft:smith                | tool                           |                                          |            |                                     |
+|                                |                                | Coal                                     |            | Emerald                             |
+|                                |                                | Emerald                                  |            | Iron Shovel                         |
+|                                |                                | Very Damaged Anvil                       | Iron Ingot | Anvil                               |
+|                                |                                | Iron Ingot                               |            | Emerald                             |
+|                                |                                | Emerald                                  |            | Iron Pickaxe                        |
+|                                |                                | Emerald                                  |            | Lantern                             |
+|                                |                                | Diamond                                  |            | Emerald                             |
+|                                |                                | Emerald                                  |            | Diamond Pickaxe                     |
+|                                |                                | Emerald                                  | Book       | Enchanted Book                      |
+|                                |                                | Emerald                                  |            | Diamond Shovel                      |
+| rats:pet_shop_owner            | pet_shop_owner                 |                                          |            |                                     |
+|                                |                                | Emerald                                  |            | Bone                                |
+|                                |                                | Raw Fish                                 |            | Emerald                             |
+|                                |                                | Emerald                                  |            | Egg                                 |
+|                                |                                | Raw Rat                                  |            | Emerald                             |
+|                                |                                | Emerald                                  |            | Cheese                              |
+|                                |                                | Emerald                                  |            | Cooked Rat                          |
+|                                |                                | Garbage Pile                             | Emerald    | Plastic Waste                       |
+|                                |                                | Emerald                                  |            | Feathery Wing                       |
+|                                |                                | Emerald                                  |            | Rat Cage                            |
+|                                |                                | Emerald                                  |            | Garbage Pile                        |
+|                                |                                | Raw Plastic                              |            | Emerald                             |
+|                                |                                | Rat Flute                                |            | Emerald                             |
+|                                |                                | Emerald                                  |            | White Rat Tube                      |
+|                                |                                | tile.rats.rat_cage_breeding_lantern.name |            | Emerald                             |
+|                                |                                | Rat Seed Bowl                            |            | Emerald                             |
+|                                |                                | Emerald                                  |            | White Rat Hammock                   |
+|                                |                                | Emerald                                  |            | White Rat Igloo                     |
+|                                |                                | Emerald                                  |            | Rat Upgrade: Basic                  |
++--------------------------------+--------------------------------+------------------------------------------+------------+-------------------------------------+
+| Registry name                  | Career                         | Buy 1                                    | Buy 2      | Sell                                |
++--------------------------------+--------------------------------+------------------------------------------+------------+-------------------------------------+

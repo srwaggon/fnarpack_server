@@ -1,0 +1,779 @@
+Entity: Fnar [registry name: null] (entityId: 322)
+Entity class: net.minecraft.entity.player.EntityPlayerMP
+
+
+TAG_Compound (10) ('')
+{
+    TAG_Int (3) ('HurtByTimestamp'): 0
+    TAG_List (9) ('Spawns') (0 entries of TAG_End (0))
+    {
+    }
+    TAG_Compound (10) ('ForgeData')
+    {
+        TAG_Compound (10) ('IsPlayerNew')
+        {
+            TAG_Byte (1) ('builtStarterHouse'): 0
+            TAG_Byte (1) ('givenHousebuilder'): 1
+        }
+        TAG_Int (3) ('Potion Core - Health Fix Delay'): -1
+        TAG_Compound (10) ('toughasnails.api.stat.capability.ITemperature')
+        {
+            TAG_Int (3) ('temperatureLevel'): 8
+            TAG_Int (3) ('temperatureTimer'): 0
+            TAG_List (9) ('ExternalModifiers') (0 entries of TAG_End (0))
+            {
+            }
+        }
+        TAG_Compound (10) ('PlayerPersisted')
+        {
+            TAG_Compound (10) ('silentlib.SpawnItemsGiven')
+            {
+            }
+            TAG_Compound (10) ('Waystones')
+            {
+                TAG_Long (4) ('LastFreeWarp'): 0
+                TAG_Long (4) ('LastWarpStoneUse'): 0
+                TAG_List (9) ('WaystoneList') (0 entries of TAG_End (0))
+                {
+                }
+            }
+            TAG_Byte (1) ('twilightforest_banished'): 1
+            TAG_Compound (10) ('SkillableData')
+            {
+                TAG_Compound (10) ('SkillLevels')
+                {
+                    TAG_Compound (10) ('reskillable.building')
+                    {
+                        TAG_Int (3) ('level'): 1
+                        TAG_Int (3) ('skillPoints'): 0
+                        TAG_Compound (10) ('unlockables')
+                        {
+                        }
+                    }
+                    TAG_Compound (10) ('reskillable.magic')
+                    {
+                        TAG_Int (3) ('level'): 19
+                        TAG_Int (3) ('skillPoints'): 9
+                        TAG_Compound (10) ('unlockables')
+                        {
+                        }
+                    }
+                    TAG_Compound (10) ('reskillable.attack')
+                    {
+                        TAG_Int (3) ('level'): 1
+                        TAG_Int (3) ('skillPoints'): 0
+                        TAG_Compound (10) ('unlockables')
+                        {
+                        }
+                    }
+                    TAG_Compound (10) ('reskillable.farming')
+                    {
+                        TAG_Int (3) ('level'): 1
+                        TAG_Int (3) ('skillPoints'): 0
+                        TAG_Compound (10) ('unlockables')
+                        {
+                        }
+                    }
+                    TAG_Compound (10) ('reskillable.defense')
+                    {
+                        TAG_Int (3) ('level'): 1
+                        TAG_Int (3) ('skillPoints'): 0
+                        TAG_Compound (10) ('unlockables')
+                        {
+                        }
+                    }
+                    TAG_Compound (10) ('reskillable.gathering')
+                    {
+                        TAG_Int (3) ('level'): 1
+                        TAG_Int (3) ('skillPoints'): 0
+                        TAG_Compound (10) ('unlockables')
+                        {
+                        }
+                    }
+                    TAG_Compound (10) ('reskillable.mining')
+                    {
+                        TAG_Int (3) ('level'): 1
+                        TAG_Int (3) ('skillPoints'): 0
+                        TAG_Compound (10) ('unlockables')
+                        {
+                        }
+                    }
+                    TAG_Compound (10) ('reskillable.agility')
+                    {
+                        TAG_Int (3) ('level'): 1
+                        TAG_Int (3) ('skillPoints'): 0
+                        TAG_Compound (10) ('unlockables')
+                        {
+                        }
+                    }
+                }
+            }
+            TAG_Compound (10) ('scalinghealth_data')
+            {
+                TAG_Double (6) ('difficulty'): 0.017500000831205398
+                TAG_Float (5) ('max_health'): 20.0
+                TAG_String (8) ('last_login'): "2020/2/16"
+                TAG_Float (5) ('health'): 17.291313
+            }
+            TAG_Compound (10) ('silentlib_guide_books')
+            {
+            }
+        }
+        TAG_Float (5) ('Potion Core - Health Fix'): 17.291313
+        TAG_Compound (10) ('toughasnails.api.stat.capability.IThirst')
+        {
+            TAG_Float (5) ('thirstHydrationLevel'): 5.0
+            TAG_Float (5) ('thirstExhaustionLevel'): 0.0
+            TAG_Int (3) ('thirstTimer'): 0
+            TAG_Int (3) ('thirstLevel'): 20
+        }
+        TAG_Byte (1) ('carryOnKeyPressed'): 0
+        TAG_Byte (1) ('Potion Core - Jump Boost Updated'): 1
+        TAG_Int (3) ('HungerOverhaulCheck'): 5
+    }
+    TAG_Short (2) ('SleepTimer'): 0
+    TAG_List (9) ('Attributes') (18 entries of TAG_Compound (10))
+    {
+        TAG_Compound (10) ('')
+        {
+            TAG_Double (6) ('Base'): 1.0
+            TAG_String (8) ('Name'): "potioncore.projectileDamage"
+        }
+        TAG_Compound (10) ('')
+        {
+            TAG_Double (6) ('Base'): 1.0
+            TAG_String (8) ('Name'): "potioncore.magicDamage"
+        }
+        TAG_Compound (10) ('')
+        {
+            TAG_Double (6) ('Base'): 1.0
+            TAG_String (8) ('Name'): "potioncore.jumpHeight"
+        }
+        TAG_Compound (10) ('')
+        {
+            TAG_Double (6) ('Base'): 1.0
+            TAG_String (8) ('Name'): "potioncore.damageResistance"
+        }
+        TAG_Compound (10) ('')
+        {
+            TAG_Double (6) ('Base'): 0.0
+            TAG_String (8) ('Name'): "potioncore.magicShielding"
+        }
+        TAG_Compound (10) ('')
+        {
+            TAG_Double (6) ('Base'): 0.6
+            TAG_String (8) ('Name'): "potioncore.stepHeight"
+        }
+        TAG_Compound (10) ('')
+        {
+            TAG_Double (6) ('Base'): 1.0
+            TAG_String (8) ('Name'): "potioncore.digSpeed"
+        }
+        TAG_Compound (10) ('')
+        {
+            TAG_Double (6) ('Base'): 1.0
+            TAG_String (8) ('Name'): "xat.entityRace"
+        }
+        TAG_Compound (10) ('')
+        {
+            TAG_Double (6) ('Base'): 20.0
+            TAG_List (9) ('Modifiers') (2 entries of TAG_Compound (10))
+            {
+                TAG_Compound (10) ('')
+                {
+                    TAG_Long (4) ('UUIDMost'): -4557935957806527035
+                    TAG_Long (4) ('UUIDLeast'): -4950522221421205810
+                    TAG_Double (6) ('Amount'): 0.0
+                    TAG_Int (3) ('Operation'): 0
+                    TAG_String (8) ('Name'): "ScalingHealth.HealthModifier"
+                }
+                TAG_Compound (10) ('')
+                {
+                    TAG_Long (4) ('UUIDMost'): -5616775753506404248
+                    TAG_Long (4) ('UUIDLeast'): -7589743341971019578
+                    TAG_Double (6) ('Amount'): 0.0
+                    TAG_Int (3) ('Operation'): 0
+                    TAG_String (8) ('Name'): "Health Gained from Trying New Foods"
+                }
+            }
+            TAG_String (8) ('Name'): "generic.maxHealth"
+        }
+        TAG_Compound (10) ('')
+        {
+            TAG_Double (6) ('Base'): 0.0
+            TAG_String (8) ('Name'): "generic.knockbackResistance"
+        }
+        TAG_Compound (10) ('')
+        {
+            TAG_Double (6) ('Base'): 0.10000000149011612
+            TAG_String (8) ('Name'): "generic.movementSpeed"
+        }
+        TAG_Compound (10) ('')
+        {
+            TAG_Double (6) ('Base'): 0.0
+            TAG_String (8) ('Name'): "generic.armor"
+        }
+        TAG_Compound (10) ('')
+        {
+            TAG_Double (6) ('Base'): 0.0
+            TAG_String (8) ('Name'): "generic.armorToughness"
+        }
+        TAG_Compound (10) ('')
+        {
+            TAG_Double (6) ('Base'): 1.0
+            TAG_String (8) ('Name'): "forge.swimSpeed"
+        }
+        TAG_Compound (10) ('')
+        {
+            TAG_Double (6) ('Base'): 1.0
+            TAG_String (8) ('Name'): "generic.attackDamage"
+        }
+        TAG_Compound (10) ('')
+        {
+            TAG_Double (6) ('Base'): 4.0
+            TAG_String (8) ('Name'): "generic.attackSpeed"
+        }
+        TAG_Compound (10) ('')
+        {
+            TAG_Double (6) ('Base'): 0.0
+            TAG_String (8) ('Name'): "generic.luck"
+        }
+        TAG_Compound (10) ('')
+        {
+            TAG_Double (6) ('Base'): 5.0
+            TAG_String (8) ('Name'): "generic.reachDistance"
+        }
+    }
+    TAG_Byte (1) ('Invulnerable'): 0
+    TAG_Byte (1) ('FallFlying'): 0
+    TAG_Int (3) ('PortalCooldown'): 0
+    TAG_Float (5) ('AbsorptionAmount'): 0.0
+    TAG_Compound (10) ('abilities')
+    {
+        TAG_Byte (1) ('invulnerable'): 1
+        TAG_Byte (1) ('mayfly'): 1
+        TAG_Byte (1) ('instabuild'): 1
+        TAG_Float (5) ('walkSpeed'): 0.1
+        TAG_Byte (1) ('mayBuild'): 1
+        TAG_Byte (1) ('flying'): 0
+        TAG_Float (5) ('flySpeed'): 0.05
+    }
+    TAG_Float (5) ('FallDistance'): 0.0
+    TAG_Compound (10) ('recipeBook')
+    {
+        TAG_List (9) ('recipes') (25 entries of TAG_String (8))
+        {
+            TAG_String (8) (''): "minecraft:stonebrick"
+            TAG_String (8) (''): "minecraft:stone_slab"
+            TAG_String (8) (''): "minecraft:stone_pressure_plate"
+            TAG_String (8) (''): "minecraft:stone_button"
+            TAG_String (8) (''): "minecraft:stone_brick_stairs"
+            TAG_String (8) (''): "minecraft:stone_brick_slab"
+            TAG_String (8) (''): "minecraft:spruce_boat"
+            TAG_String (8) (''): "minecraft:jungle_boat"
+            TAG_String (8) (''): "minecraft:dark_oak_boat"
+            TAG_String (8) (''): "minecraft:clay"
+            TAG_String (8) (''): "minecraft:chiseled_stonebrick"
+            TAG_String (8) (''): "minecraft:chest"
+            TAG_String (8) (''): "minecraft:boat"
+            TAG_String (8) (''): "minecraft:birch_boat"
+            TAG_String (8) (''): "minecraft:acacia_boat"
+            TAG_String (8) (''): "dungeontactics:traps/trap_spectral"
+            TAG_String (8) (''): "dungeontactics:traps/trap_port"
+            TAG_String (8) (''): "dungeontactics:traps/trap_piston"
+            TAG_String (8) (''): "dungeontactics:traps/trap_foul"
+            TAG_String (8) (''): "dungeontactics:traps/trap_fire"
+            TAG_String (8) (''): "dungeontactics:traps/trap_clamp"
+            TAG_String (8) (''): "dungeontactics:traps/trap_boom"
+            TAG_String (8) (''): "dungeontactics:traps/trap_ailment"
+            TAG_String (8) (''): "dungeontactics:misc/convenience/clayball_from_clay"
+            TAG_String (8) (''): "minecraft:mushroom_stew"
+        }
+        TAG_Byte (1) ('isFilteringCraftable'): 0
+        TAG_List (9) ('toBeDisplayed') (25 entries of TAG_String (8))
+        {
+            TAG_String (8) (''): "minecraft:stonebrick"
+            TAG_String (8) (''): "minecraft:stone_slab"
+            TAG_String (8) (''): "minecraft:stone_pressure_plate"
+            TAG_String (8) (''): "minecraft:stone_button"
+            TAG_String (8) (''): "minecraft:stone_brick_stairs"
+            TAG_String (8) (''): "minecraft:stone_brick_slab"
+            TAG_String (8) (''): "minecraft:spruce_boat"
+            TAG_String (8) (''): "minecraft:jungle_boat"
+            TAG_String (8) (''): "minecraft:dark_oak_boat"
+            TAG_String (8) (''): "minecraft:clay"
+            TAG_String (8) (''): "minecraft:chiseled_stonebrick"
+            TAG_String (8) (''): "minecraft:chest"
+            TAG_String (8) (''): "minecraft:boat"
+            TAG_String (8) (''): "minecraft:birch_boat"
+            TAG_String (8) (''): "minecraft:acacia_boat"
+            TAG_String (8) (''): "dungeontactics:traps/trap_spectral"
+            TAG_String (8) (''): "dungeontactics:traps/trap_port"
+            TAG_String (8) (''): "dungeontactics:traps/trap_piston"
+            TAG_String (8) (''): "dungeontactics:traps/trap_foul"
+            TAG_String (8) (''): "dungeontactics:traps/trap_fire"
+            TAG_String (8) (''): "dungeontactics:traps/trap_clamp"
+            TAG_String (8) (''): "dungeontactics:traps/trap_boom"
+            TAG_String (8) (''): "dungeontactics:traps/trap_ailment"
+            TAG_String (8) (''): "dungeontactics:misc/convenience/clayball_from_clay"
+            TAG_String (8) (''): "minecraft:mushroom_stew"
+        }
+        TAG_Byte (1) ('isGuiOpen'): 0
+    }
+    TAG_Short (2) ('DeathTime'): 0
+    TAG_Int (3) ('XpSeed'): 1770580144
+    TAG_Compound (10) ('ForgeCaps')
+    {
+        TAG_Compound (10) ('carryon:position')
+        {
+            TAG_Int (3) ('x'): 0
+            TAG_Int (3) ('y'): 0
+            TAG_Int (3) ('z'): 0
+            TAG_Byte (1) ('blockActivated'): 0
+        }
+        TAG_Compound (10) ('corpsecomplex:deathlocation')
+        {
+            TAG_Byte (1) ('usedScroll'): 0
+            TAG_Int (3) ('x'): -603
+            TAG_Int (3) ('y'): 63
+            TAG_Int (3) ('z'): 4470
+            TAG_Int (3) ('dimension'): 0
+            TAG_Byte (1) ('hasDeathLocation'): 1
+        }
+        TAG_Compound (10) ('llibrary:extendedentitydatacapability')
+        {
+            TAG_Compound (10) ('Ice And Fire - Player Property Tracker')
+            {
+                TAG_Byte (1) ('DismountedDragon'): 0
+                TAG_Int (3) ('GauntletDamage'): 0
+            }
+            TAG_Compound (10) ('Ice And Fire - Siren Property Tracker')
+            {
+                TAG_Byte (1) ('CharmedBySiren'): 0
+                TAG_Int (3) ('SirenID'): 0
+            }
+            TAG_Compound (10) ('Ice And Fire - Frozen Property Tracker')
+            {
+                TAG_Int (3) ('TicksUntilUnfrozen'): 0
+                TAG_Byte (1) ('IsFrozen'): 0
+            }
+            TAG_Compound (10) ('Ice And Fire - Chain Property Tracker')
+            {
+                TAG_List (9) ('ConnectedEntities') (0 entries of TAG_End (0))
+                {
+                }
+            }
+        }
+        TAG_Compound (10) ('openglider:cap')
+        {
+            TAG_Byte (1) ('openglider.isPlayerGliding'): 0
+            TAG_Byte (1) ('openglider.isGliderDeployed'): 0
+        }
+        TAG_Compound (10) ('somanyenchantments:player_capabilities')
+        {
+            TAG_Byte (1) ('isResurrecting'): 0
+            TAG_Double (6) ('moralitasDamage'): 0.0
+        }
+        TAG_Compound (10) ('gravestone-extended:choke')
+        {
+            TAG_Byte (1) ('IsActive'): 0
+            TAG_Int (3) ('Air'): 300
+        }
+        TAG_Int (3) ('bettercombatmod:ioffhandattack'): 0
+        TAG_Compound (10) ('firstaid:capextendedhealthsystem')
+        {
+            TAG_Compound (10) ('head')
+            {
+                TAG_Float (5) ('health'): 3.74995
+                TAG_Int (3) ('maxHealth'): 6
+            }
+            TAG_Byte (1) ('hasTutorial'): 0
+            TAG_Compound (10) ('leftFoot')
+            {
+                TAG_Float (5) ('health'): 6.0
+                TAG_Int (3) ('maxHealth'): 6
+            }
+            TAG_Compound (10) ('rightLeg')
+            {
+                TAG_Float (5) ('health'): 5.9165745
+                TAG_Int (3) ('maxHealth'): 6
+            }
+            TAG_Compound (10) ('rightArm')
+            {
+                TAG_Float (5) ('health'): 4.4164333
+                TAG_Int (3) ('maxHealth'): 6
+            }
+            TAG_Compound (10) ('leftArm')
+            {
+                TAG_Float (5) ('health'): 6.0
+                TAG_Int (3) ('maxHealth'): 6
+            }
+            TAG_Compound (10) ('rightFoot')
+            {
+                TAG_Float (5) ('health'): 3.4162002
+                TAG_Int (3) ('maxHealth'): 6
+            }
+            TAG_Compound (10) ('leftLeg')
+            {
+                TAG_Float (5) ('health'): 6.0
+                TAG_Int (3) ('maxHealth'): 6
+            }
+            TAG_Compound (10) ('body')
+            {
+                TAG_Float (5) ('health'): 6.0
+                TAG_Int (3) ('maxHealth'): 6
+            }
+        }
+        TAG_Compound (10) ('nutrition:nutrition')
+        {
+            TAG_Float (5) ('fruit'): 50.0
+            TAG_Float (5) ('protein'): 50.0
+            TAG_Float (5) ('grain'): 50.0
+            TAG_Float (5) ('vegetable'): 50.0
+            TAG_Float (5) ('dairy'): 50.0
+        }
+        TAG_Long (4) ('comforts:sleeptime'): 0
+        TAG_Compound (10) ('mujmajnkraftsbettersurvival:weaponeff')
+        {
+            TAG_Int (3) ('Hits'): 0
+        }
+        TAG_List (9) ('mujmajnkraftsbettersurvival:spearsin') (0 entries of TAG_End (0))
+        {
+        }
+        TAG_Compound (10) ('corpsecomplex:deathinventory')
+        {
+        }
+        TAG_Compound (10) ('levelup:skills')
+        {
+            TAG_Compound (10) ('Mining')
+            {
+                TAG_Int (3) ('levelup:prospecting'): 0
+                TAG_Int (3) ('levelup:sprintspeed'): 0
+                TAG_Int (3) ('levelup:woodcutting'): 0
+                TAG_Int (3) ('levelup:treasurehunting'): 0
+                TAG_Int (3) ('levelup:fallprotect'): 0
+                TAG_Int (3) ('levelup:flintloot'): 0
+                TAG_Int (3) ('levelup:lumbering'): 0
+                TAG_Int (3) ('levelup:stonecutting'): 0
+                TAG_Int (3) ('levelup:mining_bonus'): 0
+            }
+            TAG_Compound (10) ('Combat')
+            {
+                TAG_Int (3) ('levelup:arrowspeed'): 0
+                TAG_Int (3) ('levelup:stealth'): 0
+                TAG_Int (3) ('levelup:swordcrit'): 0
+                TAG_Int (3) ('levelup:bowdraw'): 0
+                TAG_Int (3) ('levelup:stealthdamage'): 0
+                TAG_Int (3) ('levelup:combat_bonus'): 0
+                TAG_Int (3) ('levelup:shieldblock'): 0
+                TAG_Int (3) ('levelup:sworddamage'): 0
+                TAG_Int (3) ('levelup:stealthspeed'): 0
+                TAG_Int (3) ('levelup:naturalarmor'): 0
+            }
+            TAG_Compound (10) ('Crafting')
+            {
+                TAG_Int (3) ('levelup:cropgrowth'): 0
+                TAG_Int (3) ('levelup:furnacebonus'): 0
+                TAG_Int (3) ('levelup:brewingspeed'): 0
+                TAG_Int (3) ('levelup:craft_bonus'): 0
+                TAG_Int (3) ('levelup:harvestbonus'): 0
+                TAG_Int (3) ('levelup:furnacespeed'): 0
+                TAG_Int (3) ('levelup:fishbonus'): 0
+            }
+        }
+        TAG_Compound (10) ('tconstruct:piggyback')
+        {
+        }
+        TAG_Compound (10) ('reccomplex:structureentityinfo')
+        {
+            TAG_String (8) ('previewType'): "shape"
+            TAG_Byte (1) ('showGrid'): 0
+        }
+        TAG_Compound (10) ('ebwizardry:wizarddata')
+        {
+            TAG_List (9) ('imbuements') (0 entries of TAG_End (0))
+            {
+            }
+            TAG_List (9) ('allyNames') (0 entries of TAG_End (0))
+            {
+            }
+            TAG_Int (3) ('tpCountdown'): 0
+            TAG_List (9) ('recentSpells') (0 entries of TAG_End (0))
+            {
+            }
+            TAG_List (9) ('allies') (0 entries of TAG_End (0))
+            {
+            }
+            TAG_Int_Array (11) ('discoveredSpells') (1 values)
+                    0: 0x00000001 (          1)
+        }
+        TAG_Compound (10) ('thaumcraft:warp')
+        {
+            TAG_Int (3) ('counter'): 0
+            TAG_Int_Array (11) ('warp') (3 values)
+                    0: 0x00000000 (          0)
+                    1: 0x00000000 (          0)
+                    2: 0x00000000 (          0)
+        }
+        TAG_Compound (10) ('gravestone-extended:cemetery')
+        {
+        }
+        TAG_Compound (10) ('mujmajnkraftsbettersurvival:nunchakucombo')
+        {
+            TAG_Int (3) ('Time'): 0
+            TAG_Float (5) ('Power'): 0.0
+        }
+        TAG_Compound (10) ('twilightforest:cap_shield')
+        {
+            TAG_Int (3) ('permshields'): 0
+            TAG_Int (3) ('tempshields'): 0
+        }
+        TAG_List (9) ('solcarrot:food') (0 entries of TAG_End (0))
+        {
+        }
+        TAG_Compound (10) ('bountifulbaubles:iwormholepins')
+        {
+        }
+        TAG_Compound (10) ('baubles:container')
+        {
+            TAG_Int (3) ('Size'): 7
+            TAG_List (9) ('Items') (0 entries of TAG_End (0))
+            {
+            }
+        }
+        TAG_Compound (10) ('animania:animaniaplayercaps')
+        {
+            TAG_Compound (10) ('animal')
+            {
+            }
+            TAG_String (8) ('type'): ""
+            TAG_Byte (1) ('carrying'): 0
+        }
+        TAG_Compound (10) ('bettercombatmod:tuto_cap')
+        {
+            TAG_Int (3) ('offhandCooldown'): 0
+        }
+        TAG_Compound (10) ('xat:container')
+        {
+            TAG_Int (3) ('Size'): 8
+            TAG_List (9) ('Items') (0 entries of TAG_End (0))
+            {
+            }
+        }
+        TAG_Compound (10) ('xat:capability')
+        {
+            TAG_Float (5) ('default_height'): 1.8
+            TAG_Float (5) ('default_width'): 0.6
+            TAG_Int (3) ('size'): 100
+            TAG_Float (5) ('width'): 0.6
+            TAG_Byte (1) ('transformed'): 0
+            TAG_String (8) ('food'): "none"
+            TAG_Int (3) ('target'): 100
+            TAG_Float (5) ('height'): 1.8
+        }
+        TAG_Compound (10) ('reccomplex:rc_selection')
+        {
+        }
+        TAG_Int (3) ('bettercombatmod:isecondhurttimer'): 0
+        TAG_Compound (10) ('cyclicmagic:imoddedsleeping')
+        {
+            TAG_Byte (1) ('hasInventoryExtended'): 0
+            TAG_String (8) ('todo'): ""
+            TAG_String (8) ('ghost_location'): ""
+            TAG_Int (3) ('ghost_timer'): 0
+            TAG_Byte (1) ('cyclicmagic_step'): 0
+            TAG_Int (3) ('modhealth'): 0
+            TAG_Byte (1) ('isSleeping'): 0
+            TAG_Byte (1) ('ghost_on'): 0
+            TAG_Int (3) ('ghost_dim'): 0
+            TAG_Byte (1) ('cyclicmagic_stepforced'): 0
+            TAG_Byte (1) ('hasInventoryCrafting'): 0
+            TAG_Int (3) ('cyclicmagic_flying'): 0
+        }
+        TAG_Compound (10) ('toolbelt:belt_slot')
+        {
+            TAG_Int (3) ('Size'): 1
+            TAG_List (9) ('Items') (0 entries of TAG_End (0))
+            {
+            }
+        }
+        TAG_Compound (10) ('wearablebackpacks:backpack')
+        {
+        }
+        TAG_Compound (10) ('thaumcraft:knowledge')
+        {
+            TAG_List (9) ('research') (0 entries of TAG_End (0))
+            {
+            }
+            TAG_List (9) ('knowledge') (0 entries of TAG_End (0))
+            {
+            }
+        }
+        TAG_Compound (10) ('comforts:wellrested')
+        {
+            TAG_Long (4) ('wakeTime'): 0
+            TAG_Long (4) ('tiredTime'): 0
+        }
+    }
+    TAG_Int (3) ('XpTotal'): 999
+    TAG_Int (3) ('playerGameType'): 1
+    TAG_Byte (1) ('seenCredits'): 0
+    TAG_List (9) ('Motion') (3 entries of TAG_Double (6))
+    {
+        TAG_Double (6) (''): 0.0
+        TAG_Double (6) (''): -0.0784000015258789
+        TAG_Double (6) (''): 0.0
+    }
+    TAG_Long (4) ('UUIDLeast'): -6339690460502581866
+    TAG_Float (5) ('Health'): 17.291313
+    TAG_Float (5) ('foodSaturationLevel'): 5.0
+    TAG_Byte (1) ('HasSpawnDimensionSet'): 0
+    TAG_Short (2) ('Air'): 300
+    TAG_Byte (1) ('OnGround'): 1
+    TAG_Int (3) ('Dimension'): 0
+    TAG_Compound (10) ('ForgeDataVersion')
+    {
+        TAG_Int (3) ('minecraft'): 1343
+        TAG_Int (3) ('prefab'): 1
+        TAG_Int (3) ('twilightforest'): 1
+    }
+    TAG_List (9) ('Rotation') (2 entries of TAG_Float (5))
+    {
+        TAG_Float (5) (''): -21.450031
+        TAG_Float (5) (''): -0.29991445
+    }
+    TAG_Int (3) ('XpLevel'): 26
+    TAG_Byte (1) ('UpdateBlocked'): 0
+    TAG_Int (3) ('Score'): 0
+    TAG_Long (4) ('UUIDMost'): -8990793680191339256
+    TAG_Byte (1) ('Sleeping'): 0
+    TAG_List (9) ('Pos') (3 entries of TAG_Double (6))
+    {
+        TAG_Double (6) (''): 9.538784327882777
+        TAG_Double (6) (''): 63.0
+        TAG_Double (6) (''): 3390.4731326133196
+    }
+    TAG_Short (2) ('Fire'): -20
+    TAG_Float (5) ('XpP'): 0.02173913
+    TAG_List (9) ('EnderItems') (0 entries of TAG_End (0))
+    {
+    }
+    TAG_Int (3) ('DataVersion'): 1343
+    TAG_Int (3) ('foodLevel'): 20
+    TAG_Float (5) ('foodExhaustionLevel'): 2.5437949
+    TAG_Short (2) ('HurtTime'): 0
+    TAG_Int (3) ('SelectedItemSlot'): 6
+    TAG_List (9) ('Inventory') (15 entries of TAG_Compound (10))
+    {
+        TAG_Compound (10) ('')
+        {
+            TAG_Byte (1) ('Slot'): 7
+            TAG_String (8) ('id'): "minecraft:clay"
+            TAG_Byte (1) ('Count'): 1
+            TAG_Short (2) ('Damage'): 0
+        }
+        TAG_Compound (10) ('')
+        {
+            TAG_Byte (1) ('Slot'): 8
+            TAG_String (8) ('id'): "minecraft:clay_ball"
+            TAG_Byte (1) ('Count'): 64
+            TAG_Short (2) ('Damage'): 0
+        }
+        TAG_Compound (10) ('')
+        {
+            TAG_Byte (1) ('Slot'): 9
+            TAG_String (8) ('id'): "roughtweaks:plaster"
+            TAG_Byte (1) ('Count'): 2
+            TAG_Short (2) ('Damage'): 0
+        }
+        TAG_Compound (10) ('')
+        {
+            TAG_Byte (1) ('Slot'): 10
+            TAG_String (8) ('id'): "roughtweaks:plaster"
+            TAG_Byte (1) ('Count'): 1
+            TAG_Short (2) ('Damage'): 1
+        }
+        TAG_Compound (10) ('')
+        {
+            TAG_Byte (1) ('Slot'): 11
+            TAG_String (8) ('id'): "roughtweaks:medikitenchanted"
+            TAG_Byte (1) ('Count'): 1
+            TAG_Short (2) ('Damage'): 0
+        }
+        TAG_Compound (10) ('')
+        {
+            TAG_Byte (1) ('Slot'): 12
+            TAG_String (8) ('id'): "roughtweaks:medikitenchanted"
+            TAG_Byte (1) ('Count'): 1
+            TAG_Short (2) ('Damage'): 1
+        }
+        TAG_Compound (10) ('')
+        {
+            TAG_Byte (1) ('Slot'): 13
+            TAG_String (8) ('id'): "roughtweaks:medikit"
+            TAG_Byte (1) ('Count'): 2
+            TAG_Short (2) ('Damage'): 0
+        }
+        TAG_Compound (10) ('')
+        {
+            TAG_Byte (1) ('Slot'): 14
+            TAG_String (8) ('id'): "roughtweaks:medikit"
+            TAG_Byte (1) ('Count'): 1
+            TAG_Short (2) ('Damage'): 1
+        }
+        TAG_Compound (10) ('')
+        {
+            TAG_Byte (1) ('Slot'): 15
+            TAG_String (8) ('id'): "roughtweaks:bandage"
+            TAG_Byte (1) ('Count'): 1
+            TAG_Short (2) ('Damage'): 1
+        }
+        TAG_Compound (10) ('')
+        {
+            TAG_Byte (1) ('Slot'): 16
+            TAG_String (8) ('id'): "roughtweaks:salve"
+            TAG_Byte (1) ('Count'): 2
+            TAG_Short (2) ('Damage'): 0
+        }
+        TAG_Compound (10) ('')
+        {
+            TAG_Byte (1) ('Slot'): 17
+            TAG_String (8) ('id'): "roughtweaks:salve"
+            TAG_Byte (1) ('Count'): 1
+            TAG_Short (2) ('Damage'): 1
+        }
+        TAG_Compound (10) ('')
+        {
+            TAG_Byte (1) ('Slot'): 20
+            TAG_String (8) ('id'): "minecraft:potion"
+            TAG_Byte (1) ('Count'): 15
+            TAG_Compound (10) ('tag')
+            {
+                TAG_String (8) ('Potion'): "minecraft:poison"
+            }
+            TAG_Short (2) ('Damage'): 0
+        }
+        TAG_Compound (10) ('')
+        {
+            TAG_Byte (1) ('Slot'): 29
+            TAG_String (8) ('id'): "minecraft:stone"
+            TAG_Byte (1) ('Count'): 46
+            TAG_Short (2) ('Damage'): 0
+        }
+        TAG_Compound (10) ('')
+        {
+            TAG_Byte (1) ('Slot'): 31
+            TAG_String (8) ('id'): "minecraft:stonebrick"
+            TAG_Byte (1) ('Count'): 64
+            TAG_Short (2) ('Damage'): 0
+        }
+        TAG_Compound (10) ('')
+        {
+            TAG_Byte (1) ('Slot'): 32
+            TAG_String (8) ('id'): "notreepunching:rock/stone"
+            TAG_Byte (1) ('Count'): 64
+            TAG_Short (2) ('Damage'): 0
+        }
+    }
+    TAG_Int (3) ('foodTickTimer'): 0
+}

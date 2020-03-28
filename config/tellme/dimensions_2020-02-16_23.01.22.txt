@@ -1,0 +1,19 @@
++------------+------------------+-----------------+-----------------+------------------+------------------------------------------------------------------------------+
+|         ID | DimensionType ID | Name            | shouldLoadSpawn | Currently loaded | WorldProvider class                                                          |
++------------+------------------+-----------------+-----------------+------------------+------------------------------------------------------------------------------+
+|          0 |                0 | overworld       |            true |             true | net.minecraft.world.WorldProviderSurface                                     |
+|         -1 |               -1 | the_nether      |           false |            false | net.minecraft.world.WorldProviderHell                                        |
+|          1 |                1 | the_end         |           false |            false | net.minecraft.world.WorldProviderEnd                                         |
+|        684 |              684 | limbo           |           false |            false | org.dimdev.dimdoors.shared.world.limbo.WorldProviderLimbo                    |
+|        685 |              685 | private_pockets |           false |            false | org.dimdev.dimdoors.shared.world.pocketdimension.WorldProviderPersonalPocket |
+|        686 |              686 | public_pockets  |           false |            false | org.dimdev.dimdoors.shared.world.pocketdimension.WorldProviderPublicPocket   |
+|        687 |              687 | dungeon_pockets |           false |            false | org.dimdev.dimdoors.shared.world.pocketdimension.WorldProviderDungeonPocket  |
+|        688 |              687 | dungeon_pockets |           false |            false | org.dimdev.dimdoors.shared.world.pocketdimension.WorldProviderDungeonPocket  |
+|         -8 |               -8 | catacombs       |           false |            false | nightkosh.gravestone_extended.dimension.catacombs.WorldProviderCatacombs     |
+|        111 |              111 | lostcities      |           false |            false | mcjty.lostcities.dimensions.world.LostWorldProvider                          |
+| -343800852 |       -343800852 | Spectre         |            true |             true | lumien.randomthings.handler.spectre.SpectreWorldProvider                     |
+|  -93492874 |        -93492874 | Ratlantis       |           false |            false | com.github.alexthe666.rats.server.world.WorldProviderRatlantis               |
+|          7 |                7 | twilight_forest |           false |            false | twilightforest.world.WorldProviderTwilightForest                             |
++------------+------------------+-----------------+-----------------+------------------+------------------------------------------------------------------------------+
+|         ID | DimensionType ID | Name            | shouldLoadSpawn | Currently loaded | WorldProvider class                                                          |
++------------+------------------+-----------------+-----------------+------------------+------------------------------------------------------------------------------+

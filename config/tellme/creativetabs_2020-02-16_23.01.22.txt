@@ -1,0 +1,83 @@
++-------+----------------------------------------+-------------------------------------+----------------------------------------------------------------------------+
+| Index | Name                                   | Translated Name                     | Icon Item                                                                  |
++-------+----------------------------------------+-------------------------------------+----------------------------------------------------------------------------+
+|     0 | buildingBlocks                         | Building Blocks                     | [minecraft:brick_block@0 - 'Bricks']                                       |
+|     1 | decorations                            | Decoration Blocks                   | [minecraft:double_plant@5 - 'Peony']                                       |
+|     2 | redstone                               | Redstone                            | [minecraft:redstone@0 - 'Redstone']                                        |
+|     3 | transportation                         | Transportation                      | [minecraft:golden_rail@0 - 'Powered Rail']                                 |
+|     4 | hotbar                                 | Saved Toolbars                      | [minecraft:bookshelf@0 - 'Bookshelf']                                      |
+|     5 | search                                 | Search Items                        | [minecraft:compass@0 - 'Compass']                                          |
+|     6 | misc                                   | Miscellaneous                       | [minecraft:lava_bucket@0 - 'Lava Bucket']                                  |
+|     7 | food                                   | Foodstuffs                          | [minecraft:apple@0 - 'Apple']                                              |
+|     8 | tools                                  | Tools                               | [minecraft:iron_axe@0 - 'Iron Axe']                                        |
+|     9 | combat                                 | Combat                              | [minecraft:golden_sword@0 - 'Golden Sword']                                |
+|    10 | brewing                                | Brewing                             | [minecraft:potion@0 - 'Water Bottle']                                      |
+|    11 | inventory                              | Survival Inventory                  | [minecraft:chest@0 - 'Chest']                                              |
+|    12 | tabFish                                | Advanced Fishing                    | [advanced-fishing:fish@5 - 'Golden Koi']                                   |
+|    13 | harvestcraft                           | itemGroup.harvestcraft              | [harvestcraft:toastsandwichitem@0 - 'Toast Sandwich']                      |
+|    14 | Animania                               | Animania Entities                   | [animania:entity_egg_chicken_random@0 - 'Random Chicken']                  |
+|    15 | Animania                               | Animania Resources                  | [animania:cooked_prime_steak@0 - 'Roast Prime Steak']                      |
+|    16 | bountifulbaubles                       | Bountiful Baubles                   | [bountifulbaubles:trinketobsidianskull@0 - 'Obsidian Skull']               |
+|    17 | chococraft                             | ChocoCraft 3                        | [chococraft:gysahl_green@0 - 'Gysahl Green']                               |
+|    18 | cookingforblockheads                   | Cooking for Blockheads              | [cookingforblockheads:recipe_book@1 - 'Cooking for Blockheads I']          |
+|    19 | cyclicmagic                            | Cyclic                              | [cyclicmagic:cyclic_wand_build@0 - 'Cyclic Building Scepter']              |
+|    20 | firstaid                               | First Aid                           | [firstaid:bandage@0 - 'Bandage']                                           |
+|    21 | tabFoodExpansion                       | Food Expansion                      | [foodexpansion:itemchocolatebar@0 - 'Chocolate Bar']                       |
+|    22 | forgottenItems                         | Forgotten Items                     | [forgottenitems:explosion_pickaxe@0 - 'Explosion Pickaxe']                 |
+|    23 | openglider                             | Open Glider                         | [openglider:hang_glider_basic@0 - 'Hang Glider']                           |
+|    24 | qualitytools                           | Quality Tools                       | [qualitytools:reforging_station@0 - 'Reforging Station']                   |
+|    25 | rats                                   | Rats                                | [rats:cheese@0 - 'Cheese']                                                 |
+|    26 | rats.upgrades                          | Rat Upgrades                        | [rats:rat_upgrade_basic@0 - 'Rat Upgrade: Basic']                          |
+|    27 | scalinghealth                          | Scaling Health                      | [scalinghealth:heartcontainer@0 - 'Heart Container']                       |
+|    28 | tabCreativTabSwitchbow                 | Switch-Bow                          | [switchbow:switchbow@0 - 'Switch-Bow']                                     |
+|    29 | trinketstab                            | Trinkets                            | [xat:glow_ring@0 - 'Ring of Enchanted Eyes']                               |
+|    30 | waystones                              | Waystones                           | [waystones:waystone@0 - 'Waystone']                                        |
+|    31 | TinkerGeneral                          | Tinkers' General Items              | [tconstruct:edible@1 - 'Slimeball']                                        |
+|    32 | TinkerTools                            | Tinkers' Tools                      | [tconstruct:pickaxe@0 - 'material._internal_render2.name Pickaxe']         |
+|    33 | TinkerToolParts                        | Tinkers' Toolparts                  | [tconstruct:pick_head@0 - 'material._internal_render3.name Pickaxe Head']  |
+|    34 | TinkerSmeltery                         | Tinkers' Smeltery                   | [tconstruct:seared_tank@0 - 'Seared Tank']                                 |
+|    35 | TinkerWorld                            | Tinkers' World                      | [tconstruct:slime_sapling@0 - 'Blue Slime Sapling']                        |
+|    36 | TinkerGadgets                          | Tinkers' Gadgets                    | [tconstruct:slimesling@0 - 'Slimesling']                                   |
+|    37 | Aquaculture                            | Aquaculture                         | [aquaculture:iron_fishing_rod@0 - 'Iron Fishing Rod']                      |
+|    38 | armorunder                             | Armor Underwear                     | [armorunder:mod_icon@0 - 'Icon']                                           |
+|    39 | tabToughAsNails                        | Tough As Nails                      | [toughasnails:tan_icon@0 - 'item.tan_icon.name']                           |
+|    40 | comforts                               | Comforts                            | [comforts:sleeping_bag@14 - 'Red Sleeping Bag']                            |
+|    41 | ComputerCraft                          | ComputerCraft                       | [computercraft:computer@0 - 'Computer']                                    |
+|    42 | tabDefiledLands                        | Defiled Lands                       | [defiledlands:grass_defiled@0 - 'Defiled Grass']                           |
+|    43 | dynamictrees                           | Dynamic Trees                       | [dynamictrees:oakseed@0 - 'Oak Acorn']                                     |
+|    44 | traverse                               | Traverse                            | [traverse:fir_sapling@0 - 'Fir Sapling']                                   |
+|    45 | tabSereneSeasons                       | Serene Seasons                      | [sereneseasons:ss_icon@0 - 'SS Icon']                                      |
+|    46 | tabFamiliarFauna                       | Familiar Fauna                      | [familiarfauna:ff_icon@0 - 'item.ff_icon.name']                            |
+|    47 | tabGSGraveStone                        | Gravestones                         | [gravestone:gsgravestone@3 - 'Gravestone']                                 |
+|    48 | tabGSMemorials                         | Memorials                           | [gravestone-extended:gsmemorial@37 - 'Celtic Cross']                       |
+|    49 | tabGSCorpse                            | Corpses                             | [gravestone-extended:gscorpse@5 - 'Zombie Corpse']                         |
+|    50 | tabGSOther                             | Gravestone mod Items                | [gravestone-extended:gs_enchanted_skull@1 - 'Enchanted Wither Skull']      |
+|    51 | tabHeroicArmory                        | Heroic Armory                       | [heroicarmory:lotrnarsil@0 - 'Narsil']                                     |
+|    52 | iceandfire_items                       | Ice And Fire Items                  | [iceandfire:dragon_skull@0 - 'Dragon Skull']                               |
+|    53 | iceandfire_blocks                      | Ice And Fire Blocks                 | [iceandfire:dragonscale_red@0 - 'Block of Dragon Scales']                  |
+|    54 | notreepunching.items                   | NTP Stuff                           | [notreepunching:rock/stone@0 - 'Rock']                                     |
+|    55 | notreepunching.tools                   | NTP Tools                           | [notreepunching:pickaxe/flint@0 - 'Flint Pickaxe']                         |
+|    56 | rt.name                                | Random Things                       | [randomthings:magichood@0 - 'Magic Hood']                                  |
+|    57 | spartanweaponry:tabBasic.name          | Spartan Weaponry: Vanilla Materials | [spartanweaponry:longsword_diamond@0 - 'Diamond Longsword']                |
+|    58 | spartanweaponry:tabModded.name         | Spartan Weaponry: Modded Materials  | [spartanweaponry:greatsword_copper@0 - 'Copper Greatsword']                |
+|    59 | spartanweaponry:tabArrowsAndBolts.name | Spartan Weaponry: Arrows & Bolts    | [spartanweaponry:arrow_diamond@0 - 'Diamond Arrow']                        |
+|    60 | thaumcraft                             | Thaumcraft                          | [thaumcraft:goggles@0 - 'Goggles of Revealing']                            |
+|    61 | twilightForest                         | Twilight Forest                     | [twilightforest:miniature_structure@0 - 'Miniature Twilight Portal [NYI]'] |
+|    62 | BiblioCraft                            | BiblioCraft                         | [bibliocraft:bookcase@0 - 'Oak Bookcase']                                  |
+|    63 | chiselCreativeTab                      | Chisel                              | [chisel:chisel_iron@0 - 'Chisel']                                          |
+|    64 | dungeontacticsmain                     | Dungeon Tactics                     | [dungeontactics:dungeonpedia_volume_1@0 - 'Dungeonpedia']                  |
+|    65 | dungeontacticsweapons                  | Dungeon Tactics Weapons             | [dungeontactics:golden_hammer@0 - 'Golden Hammer']                         |
+|    66 | dungeontacticsarmour                   | Dungeon Tactics Armour              | [dungeontactics:golden_plate_faceplate@0 - 'Golden Plate Faceplate']       |
+|    67 | dungeontacticsblocks                   | Dungeon Tactics Blocks              | [dungeontactics:powderkeg@0 - 'Powder Keg']                                |
+|    68 | ebwizardry                             | Wizardry                            | [ebwizardry:wizard_handbook@0 - 'The Wizard's Handbook']                   |
+|    69 | ebwizardrygear                         | Wizard Gear                         | [ebwizardry:wizard_hat@0 - 'Wizard Hat']                                   |
+|    70 | ebwizardryspells                       | Spells                              | [ebwizardry:spell_book@0 - 'Spell Book']                                   |
+|    71 | dimensional_doors_creative_tab         | Dimensional Doors Items             | [dimdoors:iron_dimensional_door@0 - 'Iron Dimensional Door']               |
+|    72 | vcblocks                               | VariedCommodities Blocks            | [variedcommodities:couch_wool@1 - 'Wool Couch']                            |
+|    73 | vcitems                                | VariedCommodities Items             | [variedcommodities:coin_gold@0 - 'Golden Coin']                            |
+|    74 | vcweapons                              | VariedCommodities Weapons           | [variedcommodities:shuriken@0 - 'Shuriken']                                |
+|    75 | vcarmors                               | VariedCommodities Armors            | [variedcommodities:cow_leather_head@0 - 'Cowleather Helmet']               |
+|    76 | spartanshields:tabBasic.name           | Spartan Shields                     | [spartanshields:shield_basic_stone@0 - 'Stone Braced Shield']              |
++-------+----------------------------------------+-------------------------------------+----------------------------------------------------------------------------+
+| Index | Name                                   | Translated Name                     | Icon Item                                                                  |
++-------+----------------------------------------+-------------------------------------+----------------------------------------------------------------------------+

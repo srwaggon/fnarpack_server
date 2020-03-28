@@ -1,0 +1,16 @@
++--------------------------------+---------------------------------------+
+| Registry name                  | Careers                               |
++--------------------------------+---------------------------------------+
+| cyclicmagic:druid              | druid                                 |
+| cyclicmagic:sage               | sage                                  |
+| gravestone-extended:undertaker | gravestone-extended:undertaker        |
+| minecraft:butcher              | butcher, leather                      |
+| minecraft:farmer               | farmer, fisherman, shepherd, fletcher |
+| minecraft:librarian            | librarian, cartographer               |
+| minecraft:nitwit               | nitwit                                |
+| minecraft:priest               | cleric                                |
+| minecraft:smith                | armor, weapon, tool                   |
+| rats:pet_shop_owner            | pet_shop_owner                        |
++--------------------------------+---------------------------------------+
+| Registry name                  | Careers                               |
++--------------------------------+---------------------------------------+

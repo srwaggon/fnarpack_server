@@ -1,0 +1,283 @@
++-------------------------------------------------+-------------------------------------------------------+--------------------+-----------+-----+
+| Registry name                                   | Name                                                  | Type               | Rarity    |  ID |
++-------------------------------------------------+-------------------------------------------------------+--------------------+-----------+-----+
+| aquaculture:appealing                           | enchantment.aquacultureAppealing                      | fishingPole        | RARE      | 270 |
+| aquaculture:barbed_hook                         | enchantment.aquacultureBarbedHook                     | fishingPole        | VERY_RARE | 275 |
+| aquaculture:double_hook                         | enchantment.aquacultureDoubleHook                     | fishingPole        | VERY_RARE | 274 |
+| aquaculture:heavy_line                          | enchantment.aquacultureHeavyLine                      | fishingPole        | UNCOMMON  | 276 |
+| aquaculture:long_cast                           | enchantment.aquacultureLongCast                       | fishingPole        | COMMON    | 272 |
+| aquaculture:magnetic                            | enchantment.aquacultureMagnetic                       | fishingPole        | RARE      | 271 |
+| aquaculture:short_cast                          | enchantment.aquacultureShortCast                      | fishingPole        | COMMON    | 273 |
+| bibliocraft:bibliocraft.deathcompassench        | Eternal Compass                                       | ALL                | VERY_RARE |  75 |
+| bibliocraft:bibliocraft.readingench             | Reading                                               | ARMOR_HEAD         | UNCOMMON  |  76 |
+| charm:clumsiness_curse                          | charm.enchantment.clumsiness_curse                    | WEAPON             | VERY_RARE | 258 |
+| charm:curse_break                               | charm.enchantment.curse_break                         | BREAKABLE          | RARE      | 256 |
+| charm:harming_curse                             | charm.enchantment.harming_curse                       | ALL                | VERY_RARE | 260 |
+| charm:haunting_curse                            | charm.enchantment.haunting_curse                      | WEAPON             | VERY_RARE | 259 |
+| charm:homing                                    | charm.enchantment.homing                              | BREAKABLE          | RARE      | 261 |
+| charm:magnetic                                  | charm.enchantment.magnetic                            | DIGGER             | RARE      | 262 |
+| charm:rusting_curse                             | charm.enchantment.rusting_curse                       | ALL                | VERY_RARE | 257 |
+| cyclicmagic:enchantment.autosmelt               | enchantment.autosmelt                                 | DIGGER             | RARE      | 263 |
+| cyclicmagic:enchantment.beheading               | enchantment.beheading                                 | WEAPON             | VERY_RARE | 264 |
+| cyclicmagic:enchantment.multishot               | enchantment.multishot                                 | BOW                | VERY_RARE | 265 |
+| cyclicmagic:enchantment.quickdraw               | enchantment.quickdraw                                 | BOW                | VERY_RARE | 266 |
+| cyclicmagic:enchantment.venom                   | enchantment.venom                                     | WEAPON             | COMMON    | 267 |
+| cyclicmagic:enchantment.waterwalking            | enchantment.waterwalking                              | ARMOR_FEET         | VERY_RARE | 268 |
+| defiledlands:blazing                            | enchantment.blazing                                   | UMBRA_BLASTER      | VERY_RARE |  81 |
+| defiledlands:destructive                        | enchantment.destructive                               | DESTRUCTIVE        | COMMON    |  79 |
+| defiledlands:economical                         | enchantment.economical                                | GUN                | UNCOMMON  |  78 |
+| defiledlands:safeguard                          | enchantment.safeguard                                 | UMBRA_BLASTER      | COMMON    |  80 |
+| defiledlands:sharpshooter                       | enchantment.sharpshooter                              | GUN                | COMMON    |  77 |
+| dungeontactics:berserking                       | enchantment.dungeontactics:berserking                 | WEAPON             | UNCOMMON  |  24 |
+| dungeontactics:clustered                        | enchantment.dungeontactics:clustered                  | BOW                | RARE      |  13 |
+| dungeontactics:companion                        | enchantment.dungeontactics:companion                  | ALL                | VERY_RARE |  46 |
+| dungeontactics:cooking                          | enchantment.dungeontactics:cooking                    | ALL                | COMMON    |  31 |
+| dungeontactics:debilitating                     | enchantment.dungeontactics:debilitating               | BOW                | UNCOMMON  |  15 |
+| dungeontactics:disarm                           | enchantment.dungeontactics:disarm                     | ALL                | UNCOMMON  |  38 |
+| dungeontactics:disorient                        | enchantment.dungeontactics:disorient                  | ALL                | UNCOMMON  |  39 |
+| dungeontactics:ducttaped                        | enchantment.dungeontactics:ducttaped                  | ALL                | VERY_RARE |  11 |
+| dungeontactics:explosive                        | enchantment.dungeontactics:explosive                  | BOW                | UNCOMMON  |  14 |
+| dungeontactics:forging                          | enchantment.dungeontactics:forging                    | ALL                | COMMON    |  30 |
+| dungeontactics:freezing                         | enchantment.dungeontactics:freezing                   | ALL                | UNCOMMON  |  36 |
+| dungeontactics:lifesteal                        | enchantment.dungeontactics:lifesteal                  | WEAPON             | UNCOMMON  |  25 |
+| dungeontactics:mage_affinity                    | enchantment.dungeontactics:mage_affinity              | ARMOR              | UNCOMMON  |  27 |
+| dungeontactics:magicmissile                     | enchantment.dungeontactics:magicmissile               | ALL                | RARE      |  43 |
+| dungeontactics:pinmissile                       | enchantment.dungeontactics:pinmissile                 | ALL                | RARE      |  44 |
+| dungeontactics:poison_ailment                   | enchantment.dungeontactics:poison_ailment             | WEAPON             | COMMON    |  69 |
+| dungeontactics:poison_bark                      | enchantment.dungeontactics:poison_bark                | WEAPON             | COMMON    |  66 |
+| dungeontactics:poison_bramble                   | enchantment.dungeontactics:poison_bramble             | WEAPON             | COMMON    |  65 |
+| dungeontactics:poison_cinder                    | enchantment.dungeontactics:poison_cinder              | WEAPON             | COMMON    |  67 |
+| dungeontactics:poison_fade                      | enchantment.dungeontactics:poison_fade                | WEAPON             | COMMON    |  72 |
+| dungeontactics:poison_feather                   | enchantment.dungeontactics:poison_feather             | WEAPON             | COMMON    |  73 |
+| dungeontactics:poison_sanguine                  | enchantment.dungeontactics:poison_sanguine            | WEAPON             | COMMON    |  64 |
+| dungeontactics:poison_tangle                    | enchantment.dungeontactics:poison_tangle              | WEAPON             | COMMON    |  68 |
+| dungeontactics:punish                           | enchantment.dungeontactics:punish                     | ALL                | RARE      |  40 |
+| dungeontactics:rage                             | enchantment.dungeontactics:rage                       | ALL                | VERY_RARE |  52 |
+| dungeontactics:restoration                      | enchantment.dungeontactics:restoration                | ALL                | COMMON    |  28 |
+| dungeontactics:runed                            | enchantment.dungeontactics:runed                      | WEAPON             | UNCOMMON  |  26 |
+| dungeontactics:satiate                          | enchantment.dungeontactics:satiate                    | ALL                | COMMON    |  29 |
+| dungeontactics:smelting                         | enchantment.dungeontactics:smelting                   | DIGGER             | RARE      |  23 |
+| dungeontactics:smite                            | enchantment.dungeontactics:smite                      | ALL                | RARE      |  42 |
+| dungeontactics:sonicboom                        | enchantment.dungeontactics:sonicboom                  | ALL                | UNCOMMON  |  12 |
+| dungeontactics:sunder                           | enchantment.dungeontactics:sunder                     | ALL                | VERY_RARE |  47 |
+| dungeontactics:transport                        | enchantment.dungeontactics:transport                  | ALL                | VERY_RARE |  45 |
+| dungeontactics:trinket_fireshield               | enchantment.dungeontactics:trinket_fireshield         | ALL                | UNCOMMON  |  57 |
+| dungeontactics:trinket_gills                    | enchantment.dungeontactics:trinket_gills              | ALL                | UNCOMMON  |  56 |
+| dungeontactics:trinket_haste                    | enchantment.dungeontactics:trinket_haste              | ALL                | COMMON    |  55 |
+| dungeontactics:trinket_invisibility             | enchantment.dungeontactics:trinket_invisibility       | ALL                | RARE      |  63 |
+| dungeontactics:trinket_jump                     | enchantment.dungeontactics:trinket_jump               | ALL                | COMMON    |  54 |
+| dungeontactics:trinket_nightvision              | enchantment.dungeontactics:trinket_nightvision        | ALL                | UNCOMMON  |  58 |
+| dungeontactics:trinket_resistance               | enchantment.dungeontactics:trinket_resistance         | ALL                | UNCOMMON  |  59 |
+| dungeontactics:trinket_speed                    | enchantment.dungeontactics:trinket_speed              | ALL                | COMMON    |  53 |
+| dungeontactics:trinket_strength                 | enchantment.dungeontactics:trinket_strength           | ALL                | UNCOMMON  |  60 |
+| dungeontactics:uncover                          | enchantment.dungeontactics:uncover                    | ALL                | UNCOMMON  |  37 |
+| dungeontactics:wither                           | enchantment.dungeontactics:wither                     | ALL                | RARE      |  41 |
+| ebwizardry:flaming_weapon                       | enchantment.ebwizardry:flaming_weapon                 | <null>             | COMMON    |  84 |
+| ebwizardry:freezing_weapon                      | enchantment.ebwizardry:freezing_weapon                | <null>             | COMMON    |  85 |
+| ebwizardry:frost_protection                     | enchantment.ebwizardry:frost_protection               | ARMOR              | RARE      |  87 |
+| ebwizardry:magic_bow                            | enchantment.ebwizardry:magic_bow                      | <null>             | COMMON    |  83 |
+| ebwizardry:magic_protection                     | enchantment.ebwizardry:magic_protection               | ARMOR              | UNCOMMON  |  86 |
+| ebwizardry:magic_sword                          | enchantment.ebwizardry:magic_sword                    | <null>             | COMMON    |  82 |
+| ebwizardry:shock_protection                     | enchantment.ebwizardry:shock_protection               | ARMOR              | RARE      |  88 |
+| gravestone-extended:frozen_nether               | enchantment.frozen_nether                             | ARMOR_FEET         | VERY_RARE |  96 |
+| gravestone-extended:gs_awkward_curse            | enchantment.awkward_curse                             | WEAPON             | VERY_RARE | 102 |
+| gravestone-extended:gs_bloody_replication       | enchantment.bloody_replication                        | DIGGER             | VERY_RARE |  99 |
+| gravestone-extended:gs_bone_rain                | enchantment.bone_rain                                 | ALL                | VERY_RARE |  97 |
+| gravestone-extended:gs_broken_hook_curse        | enchantment.broken_hook_curse                         | FISHING_ROD        | VERY_RARE | 103 |
+| gravestone-extended:gs_hellish_angling          | enchantment.hellish_angling                           | FISHING_ROD        | VERY_RARE |  98 |
+| gravestone-extended:gs_necrotic_corrosion       | enchantment.necrotic_corrosion                        | WEAPON             | VERY_RARE |  93 |
+| gravestone-extended:gs_pain_mirror              | enchantment.pain_mirror                               | ALL                | VERY_RARE |  94 |
+| gravestone-extended:gs_poisoned_blade           | enchantment.poisoned_blade                            | WEAPON             | RARE      |  90 |
+| gravestone-extended:gs_shadow_of_death          | enchantment.shadow_of_death                           | WEAPON             | UNCOMMON  |  92 |
+| gravestone-extended:gs_starvation_curse         | enchantment.starvation_curse                          | ALL                | VERY_RARE | 101 |
+| gravestone-extended:gs_vampiric_touch           | enchantment.vampiric_touch                            | WEAPON             | VERY_RARE |  89 |
+| gravestone-extended:gs_withered_blade           | enchantment.withered_blade                            | WEAPON             | RARE      |  91 |
+| gravestone-extended:soul_bound                  | enchantment.soul_bound                                | ALL                | VERY_RARE | 100 |
+| gravestone-extended:web_crawler                 | enchantment.web_crawler                               | ARMOR_LEGS         | VERY_RARE |  95 |
+| minecraft:aqua_affinity                         | enchantment.waterWorker                               | ARMOR_HEAD         | RARE      |   6 |
+| minecraft:bane_of_arthropods                    | enchantment.damage.arthropods                         | WEAPON             | UNCOMMON  |  18 |
+| minecraft:binding_curse                         | enchantment.binding_curse                             | WEARABLE           | VERY_RARE |  10 |
+| minecraft:blast_protection                      | enchantment.protect.explosion                         | ARMOR              | RARE      |   3 |
+| minecraft:depth_strider                         | enchantment.waterWalker                               | ARMOR_FEET         | RARE      |   8 |
+| minecraft:efficiency                            | enchantment.digging                                   | DIGGER             | COMMON    |  32 |
+| minecraft:feather_falling                       | enchantment.protect.fall                              | ARMOR_FEET         | UNCOMMON  |   2 |
+| minecraft:fire_aspect                           | enchantment.fire                                      | WEAPON             | RARE      |  20 |
+| minecraft:fire_protection                       | enchantment.protect.fire                              | ARMOR              | UNCOMMON  |   1 |
+| minecraft:flame                                 | enchantment.arrowFire                                 | BOW                | RARE      |  50 |
+| minecraft:fortune                               | enchantment.lootBonusDigger                           | DIGGER             | RARE      |  35 |
+| minecraft:frost_walker                          | enchantment.frostWalker                               | ARMOR_FEET         | RARE      |   9 |
+| minecraft:infinity                              | enchantment.arrowInfinite                             | BOW                | VERY_RARE |  51 |
+| minecraft:knockback                             | enchantment.knockback                                 | WEAPON             | UNCOMMON  |  19 |
+| minecraft:looting                               | enchantment.lootBonus                                 | WEAPON             | RARE      |  21 |
+| minecraft:luck_of_the_sea                       | enchantment.lootBonusFishing                          | FISHING_ROD        | RARE      |  61 |
+| minecraft:lure                                  | enchantment.fishingSpeed                              | FISHING_ROD        | RARE      |  62 |
+| minecraft:mending                               | enchantment.mending                                   | BREAKABLE          | RARE      |  70 |
+| minecraft:power                                 | enchantment.arrowDamage                               | BOW                | COMMON    |  48 |
+| minecraft:projectile_protection                 | enchantment.protect.projectile                        | ARMOR              | UNCOMMON  |   4 |
+| minecraft:protection                            | enchantment.protect.all                               | ARMOR              | COMMON    |   0 |
+| minecraft:punch                                 | enchantment.arrowKnockback                            | BOW                | RARE      |  49 |
+| minecraft:respiration                           | enchantment.oxygen                                    | ARMOR_HEAD         | RARE      |   5 |
+| minecraft:sharpness                             | enchantment.damage.all                                | WEAPON             | COMMON    |  16 |
+| minecraft:silk_touch                            | enchantment.untouching                                | DIGGER             | VERY_RARE |  33 |
+| minecraft:smite                                 | enchantment.damage.undead                             | WEAPON             | UNCOMMON  |  17 |
+| minecraft:sweeping                              | enchantment.sweeping                                  | WEAPON             | RARE      |  22 |
+| minecraft:thorns                                | enchantment.thorns                                    | ARMOR_CHEST        | VERY_RARE |   7 |
+| minecraft:unbreaking                            | enchantment.durability                                | BREAKABLE          | UNCOMMON  |  34 |
+| minecraft:vanishing_curse                       | enchantment.vanishing_curse                           | ALL                | VERY_RARE |  71 |
+| mujmajnkraftsbettersurvival:agility             | enchantment.mujmajnkraftsbettersurvival.agility       | ARMOR_LEGS         | RARE      | 232 |
+| mujmajnkraftsbettersurvival:arrowrecovery       | enchantment.mujmajnkraftsbettersurvival.arrowrecovery | BOW                | UNCOMMON  | 233 |
+| mujmajnkraftsbettersurvival:assassinate         | enchantment.mujmajnkraftsbettersurvival.assassinate   | WEAPON             | RARE      | 234 |
+| mujmajnkraftsbettersurvival:bash                | enchantment.mujmajnkraftsbettersurvival.bash          | WEAPON             | RARE      | 235 |
+| mujmajnkraftsbettersurvival:blast               | enchantment.mujmajnkraftsbettersurvival.blast         | BOW                | RARE      | 236 |
+| mujmajnkraftsbettersurvival:blockpower          | enchantment.mujmajnkraftsbettersurvival.blockpower    | BREAKABLE          | COMMON    | 237 |
+| mujmajnkraftsbettersurvival:combo               | enchantment.mujmajnkraftsbettersurvival.combo         | WEAPON             | RARE      | 238 |
+| mujmajnkraftsbettersurvival:diamonds            | enchantment.mujmajnkraftsbettersurvival.diamonds      | DIGGER             | RARE      | 242 |
+| mujmajnkraftsbettersurvival:disarm              | enchantment.mujmajnkraftsbettersurvival.disarm        | WEAPON             | RARE      | 239 |
+| mujmajnkraftsbettersurvival:education           | enchantment.mujmajnkraftsbettersurvival.education     | WEAPON             | RARE      | 246 |
+| mujmajnkraftsbettersurvival:fling               | enchantment.mujmajnkraftsbettersurvival.fling         | WEAPON             | RARE      | 253 |
+| mujmajnkraftsbettersurvival:heavy               | enchantment.mujmajnkraftsbettersurvival.heavy         | BREAKABLE          | RARE      | 240 |
+| mujmajnkraftsbettersurvival:highjump            | enchantment.mujmajnkraftsbettersurvival.highjump      | ARMOR_FEET         | RARE      | 241 |
+| mujmajnkraftsbettersurvival:multishot           | enchantment.mujmajnkraftsbettersurvival.multishot     | BOW                | UNCOMMON  | 248 |
+| mujmajnkraftsbettersurvival:penetration         | enchantment.mujmajnkraftsbettersurvival.penetration   | WEAPON             | RARE      | 252 |
+| mujmajnkraftsbettersurvival:range               | enchantment.mujmajnkraftsbettersurvival.range         | BOW                | RARE      | 249 |
+| mujmajnkraftsbettersurvival:rapidfire           | enchantment.mujmajnkraftsbettersurvival.rapidfire     | BOW                | RARE      | 250 |
+| mujmajnkraftsbettersurvival:reflection          | enchantment.mujmajnkraftsbettersurvival.reflection    | BREAKABLE          | RARE      | 243 |
+| mujmajnkraftsbettersurvival:smelting            | enchantment.mujmajnkraftsbettersurvival.smelting      | DIGGER             | VERY_RARE | 245 |
+| mujmajnkraftsbettersurvival:spellshield         | enchantment.mujmajnkraftsbettersurvival.spellshield   | BREAKABLE          | UNCOMMON  | 251 |
+| mujmajnkraftsbettersurvival:tunneling           | enchantment.mujmajnkraftsbettersurvival.tunneling     | DIGGER             | RARE      | 244 |
+| mujmajnkraftsbettersurvival:vampirism           | enchantment.mujmajnkraftsbettersurvival.vampirism     | WEAPON             | RARE      | 231 |
+| mujmajnkraftsbettersurvival:versatility         | enchantment.mujmajnkraftsbettersurvival.versatility   | DIGGER             | UNCOMMON  | 247 |
+| mujmajnkraftsbettersurvival:vitality            | enchantment.mujmajnkraftsbettersurvival.vitality      | ARMOR_CHEST        | RARE      | 254 |
+| mujmajnkraftsbettersurvival:weightless          | enchantment.mujmajnkraftsbettersurvival.weightless    | BREAKABLE          | UNCOMMON  | 255 |
+| randomthings:magnetic                           | enchantment.randomthings.magnetic                     | DIGGER             | VERY_RARE |  74 |
+| somanyenchantments:adept                        | enchantment.Adept                                     | WEAPON             | RARE      | 178 |
+| somanyenchantments:advancedbaneofarthropods     | enchantment.AdvancedBaneOfArthropods                  | WEAPON             | RARE      | 212 |
+| somanyenchantments:advancedblastprotection      | enchantment.AdvancedBlastProtection                   | ARMOR              | RARE      | 134 |
+| somanyenchantments:advancedefficency            | enchantment.AdvancedEfficency                         | DIGGER             | RARE      | 213 |
+| somanyenchantments:advancedfeatherfalling       | enchantment.AdvancedFeatherFalling                    | ARMOR_FEET         | VERY_RARE | 129 |
+| somanyenchantments:advancedfireprotection       | enchantment.AdvancedFireProtection                    | ARMOR              | VERY_RARE | 133 |
+| somanyenchantments:advancedknockback            | enchantment.AdvancedKnockback                         | WEAPON             | VERY_RARE | 138 |
+| somanyenchantments:advancedlooting              | enchantment.AdvancedLooting                           | WEAPON             | VERY_RARE | 114 |
+| somanyenchantments:advancedluckofthesea         | enchantment.AdvancedLuckOfTheSea                      | FISHING_ROD        | VERY_RARE | 128 |
+| somanyenchantments:advancedlure                 | enchantment.AdvancedLure                              | FISHING_ROD        | VERY_RARE | 127 |
+| somanyenchantments:advancedmending              | enchantment.advancedmending                           | BREAKABLE          | VERY_RARE | 164 |
+| somanyenchantments:advancedpower                | enchantment.AdvancedPower                             | BOW                | VERY_RARE | 123 |
+| somanyenchantments:advancedprojectileprotection | enchantment.AdvancedProjectileProtection              | ARMOR              | RARE      | 135 |
+| somanyenchantments:advancedprotection           | enchantment.AdvancedProtection                        | ARMOR              | VERY_RARE | 132 |
+| somanyenchantments:advancedpunch                | enchantment.AdvancedPunch                             | BOW                | VERY_RARE | 126 |
+| somanyenchantments:advancedsharpness            | enchantment.AdvancedSharpness                         | WEAPON             | RARE      | 214 |
+| somanyenchantments:advancedsmite                | enchantment.AdvancedSmite                             | WEAPON             | RARE      | 215 |
+| somanyenchantments:advancedthorns               | enchantment.AdvancedThorns                            | ARMOR              | RARE      | 130 |
+| somanyenchantments:afa                          | enchantment.afa                                       | Combat Sword       | RARE      | 161 |
+| somanyenchantments:afl                          | enchantment.afl                                       | BOW                | VERY_RARE | 166 |
+| somanyenchantments:ancientcurseinflicter        | enchantment.AncientCurseInflicter                     | Combat Sword       | VERY_RARE | 194 |
+| somanyenchantments:ashdestroyer                 | enchantment.AshDestroyer                              | WEAPON             | RARE      | 118 |
+| somanyenchantments:atomicdeconstructor          | enchantment.AtomicDeconstructor                       | WEAPON             | RARE      | 149 |
+| somanyenchantments:blessededge                  | enchantment.BlessedEdge                               | WEAPON             | RARE      | 208 |
+| somanyenchantments:bluntness                    | enchantment.Bluntness                                 | WEAPON             | RARE      | 207 |
+| somanyenchantments:brutality                    | enchantment.Brutality                                 | Combat Axe         | RARE      | 180 |
+| somanyenchantments:burningthorns                | enchantment.BurningThorns                             | ARMOR              | VERY_RARE | 131 |
+| somanyenchantments:butchering                   | enchantment.Butchering                                | WEAPON             | RARE      | 209 |
+| somanyenchantments:clearsky                     | enchantment.Clearsky                                  | WEAPON             | RARE      | 104 |
+| somanyenchantments:combatregeneration           | enchantment.CombatRegeneration                        | Combat Weapon      | RARE      | 137 |
+| somanyenchantments:criticalstrike               | enchantment.CriticalStrike                            | Combat             | RARE      | 113 |
+| somanyenchantments:culling                      | enchantment.Culling                                   | Combat Axe         | VERY_RARE | 142 |
+| somanyenchantments:cursededge                   | enchantment.CursedEdge                                | WEAPON             | RARE      | 210 |
+| somanyenchantments:curseofdecay                 | enchantment.CurseofDecay                              | All                | VERY_RARE | 179 |
+| somanyenchantments:curseofholding               | enchantment.CurseofHolding                            | All                | VERY_RARE | 190 |
+| somanyenchantments:curseofinaccuracy            | enchantment.CurseOfInaccuracy                         | Combat Weapon      | VERY_RARE | 186 |
+| somanyenchantments:curseofpossession            | enchantment.CurseofPossession                         | ALL                | VERY_RARE | 158 |
+| somanyenchantments:curseofvulnerability         | enchantment.CurseofVulnerability                      | ARMOR              | VERY_RARE | 191 |
+| somanyenchantments:darkshadows                  | enchantment.DarkShadows                               | Combat Sword       | RARE      | 185 |
+| somanyenchantments:defusion                     | enchantment.Defusion                                  | WEAPON             | RARE      | 211 |
+| somanyenchantments:desolator                    | enchantment.Desolator                                 | Combat Axe         | RARE      | 119 |
+| somanyenchantments:difficultyscaled             | enchantment.difficultyscaled                          | WEAPON             | RARE      | 173 |
+| somanyenchantments:disarmament                  | enchantment.Disarmament                               | Combat Axe         | RARE      | 150 |
+| somanyenchantments:disorientation               | enchantment.Disorientation                            | WEAPON             | RARE      | 120 |
+| somanyenchantments:empowereddefence             | enchantment.EmpoweredDefence                          | Combat Shield      | RARE      | 111 |
+| somanyenchantments:english                      | enchantment.English                                   | Combat Sword       | RARE      | 147 |
+| somanyenchantments:envenomed                    | enchantment.Envenomed                                 | WEAPON             | RARE      | 124 |
+| somanyenchantments:evasion                      | enchantment.Evasion                                   | ARMOR_LEGS         | RARE      | 197 |
+| somanyenchantments:fieryedge                    | enchantment.FieryEdge                                 | WEAPON             | VERY_RARE | 216 |
+| somanyenchantments:fieryshield                  | enchantment.fieryshield                               | Combat Shield      | RARE      | 183 |
+| somanyenchantments:flinging                     | enchantment.flinging                                  | WEAPON             | UNCOMMON  | 169 |
+| somanyenchantments:freezing                     | enchantment.freezing                                  | Combat Sword       | RARE      | 163 |
+| somanyenchantments:frenzy                       | enchantment.Frenzy                                    | Combat Sword       | RARE      | 196 |
+| somanyenchantments:heavyweight                  | enchantment.HeavyWeight                               | WEAPON             | VERY_RARE | 206 |
+| somanyenchantments:history                      | enchantment.History                                   | Combat Sword       | RARE      | 146 |
+| somanyenchantments:hors_de_combat               | enchantment.Hors_de_combat                            | WEAPON             | RARE      | 151 |
+| somanyenchantments:inefficent                   | enchantment.Inefficent                                | DIGGER             | RARE      | 205 |
+| somanyenchantments:inhumane                     | enchantment.Inhumane                                  | WEAPON             | RARE      | 182 |
+| somanyenchantments:innerberserk                 | enchantment.InnerBerserk                              | ARMOR_CHEST        | VERY_RARE | 188 |
+| somanyenchantments:instability                  | enchantment.Instability                               | All Tools          | VERY_RARE | 200 |
+| somanyenchantments:lesserbaneofarthropods       | enchantment.LesserBaneOfArthropods                    | Combat             | COMMON    | 154 |
+| somanyenchantments:lessersharpness              | enchantment.LesserSharpness                           | Combat             | COMMON    | 152 |
+| somanyenchantments:lessersmite                  | enchantment.LesserSmite                               | Combat             | COMMON    | 156 |
+| somanyenchantments:levitator                    | enchantment.Levitator                                 | WEAPON             | RARE      | 115 |
+| somanyenchantments:lfa                          | enchantment.lfa                                       | Combat Sword       | COMMON    | 160 |
+| somanyenchantments:lfl                          | enchantment.lfl                                       | BOW                | COMMON    | 165 |
+| somanyenchantments:lifesteal                    | enchantment.Lifesteal                                 | WEAPON             | RARE      | 141 |
+| somanyenchantments:lightweight                  | enchantment.LightWeight                               | ARMOR_FEET         | RARE      | 192 |
+| somanyenchantments:luckmagnification            | enchantment.LuckMagnification                         | Combat             | RARE      | 193 |
+| somanyenchantments:magicprotection              | enchantment.MagicProtection                           | ARMOR              | UNCOMMON  | 116 |
+| somanyenchantments:magmawalker                  | enchantment.MagmaWalker                               | ARMOR_FEET         | VERY_RARE | 181 |
+| somanyenchantments:mathematics                  | enchantment.Mathematics                               | Combat Sword       | RARE      | 144 |
+| somanyenchantments:meltdown                     | enchantment.meltdown                                  | ARMOR_CHEST        | VERY_RARE | 174 |
+| somanyenchantments:moonlight                    | enchantment.Moonlight                                 | Combat Sword       | RARE      | 105 |
+| somanyenchantments:mortalitas                   | enchantment.Mortalitas                                | Combat             | VERY_RARE | 143 |
+| somanyenchantments:naturalblocking              | enchantment.NaturalBlocking                           | Combat Shield      | RARE      | 184 |
+| somanyenchantments:pandora                      | enchantment.Pandora                                   | All                | VERY_RARE | 204 |
+| somanyenchantments:parry                        | enchantment.Parry                                     | WEAPON             | RARE      | 139 |
+| somanyenchantments:pe                           | enchantment.PE                                        | Combat Sword       | RARE      | 148 |
+| somanyenchantments:penetratingedge              | enchantment.PenetratingEdge                           | Combat Axe         | RARE      | 136 |
+| somanyenchantments:physicalprotection           | enchantment.PhysicalProtection                        | ARMOR              | RARE      | 117 |
+| somanyenchantments:powerless                    | enchantment.Powerless                                 | BOW                | RARE      | 125 |
+| somanyenchantments:pulling                      | enchantment.Pulling                                   | BOW                | VERY_RARE | 199 |
+| somanyenchantments:purgingblade                 | enchantment.PurgingBlade                              | WEAPON             | UNCOMMON  | 121 |
+| somanyenchantments:purification                 | enchantment.Purification                              | WEAPON             | UNCOMMON  | 217 |
+| somanyenchantments:pushing                      | enchantment.Pushing                                   | BOW                | VERY_RARE | 198 |
+| somanyenchantments:raining                      | enchantment.Raining                                   | WEAPON             | VERY_RARE | 106 |
+| somanyenchantments:reviledblade                 | enchantment.ReviledBlade                              | WEAPON             | VERY_RARE | 218 |
+| somanyenchantments:rune_armorpiercing           | enchantment.Rune_ArrowPiercing                        | BOW                | VERY_RARE | 187 |
+| somanyenchantments:rune_piercingcapabilities    | enchantment.Rune_PiercingCapabilities                 | WEAPON             | VERY_RARE | 219 |
+| somanyenchantments:rune_resurrection            | enchantment.Rune_Resurrection                         | Golden Apple       | VERY_RARE | 171 |
+| somanyenchantments:science                      | enchantment.Science                                   | Combat Sword       | RARE      | 145 |
+| somanyenchantments:scythedamage                 | enchantment.ScytheDamage                              | Tool Hoe           | RARE      | 177 |
+| somanyenchantments:sfa                          | enchantment.sfa                                       | Combat Sword       | VERY_RARE | 162 |
+| somanyenchantments:sfl                          | enchantment.sfl                                       | BOW                | VERY_RARE | 167 |
+| somanyenchantments:sharperedge                  | enchantment.sharperedge                               | Combat Tool        | RARE      | 170 |
+| somanyenchantments:smelter                      | enchantment.Smelter                                   | DIGGER             | VERY_RARE | 110 |
+| somanyenchantments:spellbreaker                 | enchantment.SpellBreaker                              | Combat             | RARE      | 220 |
+| somanyenchantments:splitshot                    | enchantment.splitshot                                 | BOW                | VERY_RARE | 168 |
+| somanyenchantments:strafe                       | enchantment.Strafe                                    | BOW                | UNCOMMON  | 112 |
+| somanyenchantments:strengthenedvitality         | enchantment.strengthenedvitality                      | ARMOR_CHEST        | VERY_RARE | 172 |
+| somanyenchantments:sunshine                     | enchantment.Sunshine                                  | Combat Sword       | VERY_RARE | 107 |
+| somanyenchantments:supremebaneofarthropods      | enchantment.SupremeBaneOfArthropods                   | Combat             | VERY_RARE | 155 |
+| somanyenchantments:supremesharpness             | enchantment.SupremeSharpness                          | Combat             | VERY_RARE | 153 |
+| somanyenchantments:supremesmite                 | enchantment.SupremeSmite                              | Combat             | VERY_RARE | 157 |
+| somanyenchantments:swifterslashes               | enchantment.SwifterSlashes                            | WEAPON             | VERY_RARE | 221 |
+| somanyenchantments:swiper                       | enchantment.Swiper                                    | WEAPON             | VERY_RARE | 159 |
+| somanyenchantments:swordmastery                 | enchantment.SwordMastery                              | WEAPON             | VERY_RARE | 202 |
+| somanyenchantments:thunderstorm                 | enchantment.Thunderstorm                              | WEAPON             | VERY_RARE | 108 |
+| somanyenchantments:tillingpower                 | enchantment.TillingPower                              | Tool Hoe           | RARE      | 189 |
+| somanyenchantments:truestrike                   | enchantment.TrueStrike                                | Combat Sword       | RARE      | 203 |
+| somanyenchantments:underwaterstrider            | enchantment.UnderwaterStrider                         | ARMOR_FEET         | RARE      | 195 |
+| somanyenchantments:unpredictable                | enchantment.Unpredictable                             | WEAPON             | VERY_RARE | 140 |
+| somanyenchantments:unsheathing                  | enchantment.Unsheathing                               | Combat Sword       | VERY_RARE | 201 |
+| somanyenchantments:upgrade                      | enchantment.upgrade                                   | None               | RARE      | 176 |
+| somanyenchantments:viper                        | enchantment.Viper                                     | WEAPON             | RARE      | 122 |
+| somanyenchantments:wateraspect                  | enchantment.WaterAspect                               | WEAPON             | RARE      | 222 |
+| somanyenchantments:welltilled                   | enchantment.WellTilled                                | Tool Hoe           | UNCOMMON  | 175 |
+| somanyenchantments:winter                       | enchantment.Winter                                    | WEAPON             | VERY_RARE | 109 |
+| spartanshields:ssenchspikes                     | enchantment.spartanshields:spikes                     | ss_shield          | UNCOMMON  | 227 |
+| spartanweaponry:throwing_damage                 | enchantment.spartanweaponry:throwing_damage           | sw_throwing_weapon | COMMON    | 224 |
+| spartanweaponry:throwing_fire                   | enchantment.spartanweaponry:throwing_fire             | sw_throwing_weapon | RARE      | 225 |
+| spartanweaponry:throwing_luck                   | enchantment.spartanweaponry:throwing_luck             | sw_throwing_weapon | RARE      | 226 |
+| spartanweaponry:throwing_range                  | enchantment.spartanweaponry:throwing_range            | sw_throwing_weapon | UNCOMMON  | 223 |
+| switchbow:activescope                           | enchantment.activeScope                               | BOW                | RARE      | 229 |
+| switchbow:cooldownreduce                        | enchantment.cooldownReduce                            | BOW                | RARE      | 230 |
+| switchbow:pullspeed                             | enchantment.pullSpeed                                 | BOW                | RARE      | 228 |
+| vtweaks:imperishable                            | enchantment.vtweaks:imperishable                      | BREAKABLE          | UNCOMMON  | 269 |
++-------------------------------------------------+-------------------------------------------------------+--------------------+-----------+-----+
+| Registry name                                   | Name                                                  | Type               | Rarity    |  ID |
++-------------------------------------------------+-------------------------------------------------------+--------------------+-----------+-----+

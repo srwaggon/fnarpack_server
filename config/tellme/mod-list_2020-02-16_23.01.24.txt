@@ -1,0 +1,176 @@
++-----------------------------+--------------------------------+
+| ModID                       | Mod name                       |
++-----------------------------+--------------------------------+
+| FML                         | Forge Mod Loader               |
+| adhooks                     | Advanced Hook Launchers        |
+| advanced-fishing            | Advanced Fishing               |
+| akashictome                 | Akashic Tome                   |
+| alcatrazcore                | AlcatrazCore                   |
+| animania                    | Animania                       |
+| antiqueatlas                | Antique Atlas                  |
+| antiqueatlasoverlay         | Antique Atlas Overlay          |
+| anvilpatch                  | Anvil Patch - Lawful           |
+| applecore                   | AppleCore                      |
+| aquaculture                 | Aquaculture                    |
+| armorunder                  | Armor Underwear                |
+| autoreglib                  | AutoRegLib                     |
+| bacodifficulty              | bacodifficulty                 |
+| battletowers                | Battle Towers                  |
+| baubles                     | Baubles                        |
+| baubleshud                  | Baubles-Hud                    |
+| bettercombatmod             | Better Combat Rebirth          |
+| betterfoliage               | Better Foliage                 |
+| bibliocraft                 | BiblioCraft                    |
+| bloodmoon                   | Bloodmoon                      |
+| bnbgaminglib                | BNBGamingLib                   |
+| bountifulbaubles            | Bountiful Baubles              |
+| carrots                     | Carrots Lib                    |
+| carryon                     | Carry On                       |
+| charm                       | Charm                          |
+| chisel                      | Chisel                         |
+| chococraft                  | Chococraft 3                   |
+| chunkanimator               | Chunk Animator                 |
+| clumps                      | Clumps                         |
+| codechickenlib              | CodeChicken Lib                |
+| comforts                    | Comforts                       |
+| compatskills                | CompatSkills                   |
+| computercraft               | ComputerCraft                  |
+| controlling                 | Controlling                    |
+| cookingforblockheads        | Cooking for Blockheads         |
+| coralreef                   | Coralreef                      |
+| corpsecomplex               | Corpse Complex                 |
+| cosmeticarmorreworked       | CosmeticArmorReworked          |
+| craftablechainmail          | Craftable Chainmail            |
+| craftablehorsearmour        | Craftable Horse Armour [CHA&S] |
+| craftstudioapi              | CraftStudio API                |
+| crafttweaker                | CraftTweaker2                  |
+| crafttweakerjei             | CraftTweaker JEI Support       |
+| creativecore                | CreativeCore                   |
+| creativecoredummy           | CreativeCoreDummy              |
+| creeperconfetti             | Creeper Confetti               |
+| ctgui                       | CT-GUI                         |
+| ctm                         | CTM                            |
+| cyclicmagic                 | Cyclic                         |
+| defiledlands                | Defiled Lands                  |
+| dimdoors                    | Dimensional Doors              |
+| disenchanter                | Disenchanter                   |
+| dldungeonsjbg               | Doomlike Dungeons              |
+| dshuds                      | §3Dynamic Surroundings: HUDs   |
+| dsurround                   | §3Dynamic Surroundings         |
+| dttraverse                  | Dynamic Trees for Traverse     |
+| dungeontactics              | DungeonTactics                 |
+| dynamictrees                | Dynamic Trees                  |
+| dynamictreesphc             | Dynamic Trees PHC              |
+| dynamictreestc              | Dynamic Trees TC               |
+| earthenbounty               | Just a Few More Ores           |
+| ebwizardry                  | Electroblob's Wizardry         |
+| enchdesc                    | Enchantment Descriptions       |
+| enhancedvisuals             | Enhanced Visuals               |
+| familiarfauna               | Familiar Fauna                 |
+| fbp                         | Fancy Block Particles          |
+| firstaid                    | First Aid                      |
+| foamfix                     | FoamFix                        |
+| foamfixcore                 | FoamFixCore                    |
+| foodexpansion               | Food Expansion                 |
+| forge                       | Minecraft Forge                |
+| forgeendertech              | Forge Endertech                |
+| forgelin                    | Shadowfacts' Forgelin          |
+| forgottenitems              | Forgotten Items                |
+| friendlyendermite           | FriendlyEndermite              |
+| globalgamerules             | Global GameRules               |
+| grapplemod                  | Grappling hook mod             |
+| gravestone                  | Gravestone                     |
+| gravestone-extended         | Gravestone mod - Extended      |
+| harvestcraft                | Pam's HarvestCraft             |
+| heroicarmory                | Heroic Armory                  |
+| hungeroverhaul              | Hunger Overhaul                |
+| iceandfire                  | Ice and Fire                   |
+| infernalmobs                | Infernal Mobs                  |
+| inventorytweaks             | Inventory Tweaks               |
+| itemphysic                  | ItemPhysic                     |
+| itlt                        | It's the little things         |
+| ivtoolkit                   | IvToolkit                      |
+| jei                         | Just Enough Items              |
+| levelup2                    | Level Up! Reloaded             |
+| llibrary                    | LLibrary                       |
+| loadingscreens              | Loading Screens                |
+| login_shield                | Login Shield                   |
+| lostcities                  | The Lost Cities                |
+| lostsouls                   | Lost Souls                     |
+| lunatriuscore               | LunatriusCore                  |
+| mainmenuscale               | Main Menu Scale                |
+| mantle                      | Mantle                         |
+| mcp                         | Minecraft Coder Pack           |
+| minecraft                   | Minecraft                      |
+| mobends                     | Mo' Bends                      |
+| modtweaker                  | Mod Tweaker                    |
+| mtlib                       | MTLib                          |
+| mujmajnkraftsbettersurvival | Better Survival                |
+| multimine                   | Multi Mine                     |
+| naturescompass              | Nature's Compass               |
+| neat                        | Neat                           |
+| netherportalfix             | NetherPortalFix                |
+| norecipebook                | No Recipe Book                 |
+| notreepunching              | No Tree Punching               |
+| nutrition                   | Nutrition                      |
+| openglider                  | Open Glider                    |
+| orelib                      | §3OreLib Support Library       |
+| patchouli                   | Patchouli                      |
+| phosphor-lighting           | Phosphor Lighting Engine       |
+| potioncore                  | Potion Core                    |
+| potionfingers               | Potion Fingers                 |
+| prefab                      | Prefab                         |
+| qualitytools                | Quality Tools                  |
+| quark                       | Quark                          |
+| quarkoddities               | Quark Oddities                 |
+| randomthings                | Random Things                  |
+| rats                        | Rats                           |
+| realistictorches            | Realistic Torches              |
+| reborncore                  | Reborn Core                    |
+| reccomplex                  | Recurrent Complex              |
+| recipehandler               | NoMoreRecipeConflict           |
+| reskillable                 | Reskillable                    |
+| resourceloader              | Resource Loader                |
+| roguelike                   | Roguelike Dungeons             |
+| roughtweaks                 | Rough Tweaks                   |
+| ruins                       | Ruins Mod                      |
+| scalinghealth               | Scaling Health                 |
+| sereneseasons               | Serene Seasons                 |
+| silentlib                   | Silent Lib                     |
+| sit                         | Sit                            |
+| snowrealmagic               | Snow! Real Magic!              |
+| solcarrot                   | Spice of Life: Carrot Edition  |
+| somanyenchantments          | Rin's So Many Enchantments?    |
+| soundfilters                | Sound Filters                  |
+| spartanfire                 | Spartan Fire                   |
+| spartanshields              | Spartan Shields                |
+| spartanweaponry             | Spartan Weaponry               |
+| spawnercontrol              | SpawnerControl                 |
+| stackie                     | Stackie                        |
+| stg                         | SwingThroughGrass              |
+| switchbow                   | Switch-Bow                     |
+| tanspit                     | Campfire Spit                  |
+| tconstruct                  | Tinkers' Construct             |
+| tellme                      | Tell Me                        |
+| thaumcraft                  | Thaumcraft                     |
+| tickprofiler                | TickProfiler                   |
+| tnt_utilities               | TNTUtils                       |
+| tnt_utilities_core          | TNTUtils Core                  |
+| toolbelt                    | Tool Belt                      |
+| toughasnails                | Tough As Nails                 |
+| traverse                    | Traverse                       |
+| trumpetskeleton             | Trumpet Skeleton               |
+| tschipplib                  | TschippLib                     |
+| tumbleweed                  | Tumbleweed                     |
+| twilightforest              | The Twilight Forest            |
+| variedcommodities           | Varied Commodities             |
+| vtweaks                     | V-Tweaks                       |
+| waystones                   | Waystones                      |
+| wearablebackpacks           | Wearable Backpacks             |
+| wolfarmor                   | Wolf Armor and Storage         |
+| xat                         | Trinkets and Baubles           |
+| xpbook                      | XP Tome                        |
+| xpfromharvest               | XP From Harvest                |
++-----------------------------+--------------------------------+
+| ModID                       | Mod name                       |
++-----------------------------+--------------------------------+

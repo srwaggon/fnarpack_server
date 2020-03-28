@@ -192,12 +192,19 @@ recipes.addShaped("lolarecipe25",<xat:wither_ring>,
  [[<xat:glowing_ingot>,<minecraft:iron_ingot>,<xat:glowing_ingot>],
   [<minecraft:iron_ingot>,<minecraft:skull:1>|<iceandfire:dragon_skull:1>,<minecraft:iron_ingot>],
   [<xat:glowing_ingot>,<minecraft:iron_ingot>,<xat:glowing_ingot>]]);
-  
-recipes.addShaped("lolarecipe26",<campfire:campfire>,
+
+
+recipes.remove(<toughasnails:campfire>);
+recipes.addShaped("shiv_campfire0",<toughasnails:campfire>,
  [[null,<realistictorches:matchbox>.anyDamage().transformDamage(),null],
-  [null,<ore:plankWood>,null],
-  [<ore:plankWood>,<ore:plankWood>,<ore:plankWood>]]);
-  
+  [null,<ore:logWood>,null],
+  [<ore:logWood>,<ore:logWood>,<ore:logWood>]]);
+
+recipes.addShaped("shiv_campfire1",<toughasnails:campfire>,
+ [[null,<minecraft:flint_and_steel>.anyDamage().transformDamage(),null],
+  [null,<ore:logWood>,null],
+  [<ore:logWood>,<ore:logWood>,<ore:logWood>]]);
+
 recipes.addShaped("lolarecipe27",<bountifulbaubles:crowngold>,
  [[null,<defiledlands:scarlite>,null],
   [<minecraft:gold_ingot>,<minecraft:gold_ingot>,<minecraft:gold_ingot>],

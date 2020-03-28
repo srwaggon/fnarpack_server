@@ -4,51 +4,17 @@
     {
       "level": [1, 2, 3, 4],
       "loot": [
-        {"data": {"type": "armour", "level": 0}, "weight": 32},
-        {"data": {"type": "armour", "level": 1}, "weight": 24},
-        {"data": {"type": "armour", "level": 2}, "weight": 16},
-        {"data": {"type": "armour", "level": 3}, "weight": 8},
-        {"data": {"type": "armour", "level": 4}, "weight": 4},
-
-        {"data": {"type": "weapon", "level": 0}, "weight": 32},
-        {"data": {"type": "weapon", "level": 1}, "weight": 24},
-        {"data": {"type": "weapon", "level": 2}, "weight": 16},
-        {"data": {"type": "weapon", "level": 3}, "weight": 8},
-        {"data": {"type": "weapon", "level": 4}, "weight": 4},
-
-        {"data": {"type": "tool", "level": 0}, "weight": 32},
-        {"data": {"type": "tool", "level": 1}, "weight": 24},
-        {"data": {"type": "tool", "level": 2}, "weight": 16},
-        {"data": {"type": "tool", "level": 3}, "weight": 8},
-        {"data": {"type": "tool", "level": 4}, "weight": 4},
-
-        {"data": {"type": "enchanted_book", "level": 0}, "weight": 32},
-        {"data": {"type": "enchanted_book", "level": 1}, "weight": 24},
-        {"data": {"type": "enchanted_book", "level": 2}, "weight": 16},
-        {"data": {"type": "enchanted_book", "level": 3}, "weight": 8},
-        {"data": {"type": "enchanted_book", "level": 4}, "weight": 4},
+        {"data": {"type": "enchanted_book", "ench": 5}, "weight": 32},
+        {"data": {"type": "enchanted_book", "ench": 10}, "weight": 24},
+        {"data": {"type": "enchanted_book", "ench": 15}, "weight": 16},
+        {"data": {"type": "enchanted_book", "ench": 20}, "weight": 8},
+        {"data": {"type": "enchanted_book", "ench": 30}, "weight": 4},
 
         {"data": {"type": "specialty", "level": 0}, "weight": 32},
         {"data": {"type": "specialty", "level": 1}, "weight": 24},
         {"data": {"type": "specialty", "level": 2}, "weight": 16},
         {"data": {"type": "specialty", "level": 3}, "weight": 8},
         {"data": {"type": "specialty", "level": 4}, "weight": 4},
-
-        {"data": {"name": "minecraft:coal", "min": 3, "max": 7}, "weight": 64},
-        {"data": {"name": "minecraft:gold_nugget", "min": 1, "max": 3}, "weight": 64},
-        {"data": {"name": "dungeontactics:silver_nugget", "min": 1, "max": 3}, "weight": 64},
-        {"data": {"name": "minecraft:iron_nugget", "min": 1, "max": 3}, "weight": 32},
-        {"data": {"name": "minecraft:dye", "meta": 4, "min": 1, "max": 3}, "weight": 16},
-        {"data": {"name": "dungeontactics:steel_nugget"}, "weight": 16},
-        {"data": {"name": "dungeontactics:diamond_nugget"}, "weight": 8},
-        {"data": {"name": "dungeontactics:mithril_nugget"}, "weight": 4},
-        {"data": {"name": "embers:ingot_bronze"}, "weight": 32},
-        {"data": {"name": "minecraft:gold_ingot"}, "weight": 32},
-        {"data": {"name": "dungeontactics:silver_ingot"}, "weight": 32},
-        {"data": {"name": "minecraft:iron_ingot"}, "weight": 16},
-        {"data": {"name": "dungeontactics:steel_ingot"}, "weight": 8},
-        {"data": {"name": "minecraft:diamond"}, "weight": 4},
-        {"data": {"name": "dungeontactics:mithril_ingot"}, "weight": 1},
 
         {"data": {"name": "minecraft:painting", "nbt": "{display:{Name:\"American Gothic\",Lore:[\"Allegedly.\"]}}"}, "weight": 1},
         {"data": {"name": "minecraft:painting", "nbt": "{display:{Name:\"The Last Supper\",Lore:[\"Huh.\"]}}"}, "weight": 1},
@@ -64,11 +30,17 @@
         {"data": {"name": "minecraft:book", "nbt": "{display:{Name:\"Streaming for beginners\",Lore:[\"You probably weren't meant to find this.\"]}}"}, "weight": 1},
 
         {"data": {"name": "akashictome:tome"}, "weight": 8},
+
         {"data": {"name": "antiqueatlas:empty_antique_atlas"}, "weight": 8},
+
         {"data": {"name": "cookingforblockheads:cow_jar"}, "weight": 8},
+
         {"data": {"name": "grapplemod:grapplinghook"}, "weight": 8},
+
         {"data": {"name": "solcarrot:food_book"}, "weight": 8},
+
         {"data": {"name": "trumpetskeleton:trumpet"}, "weight": 8},
+
         {"data": {"name": "wearablebackpacks:backpack"}, "weight": 8},
 
         {"data": {"name": "cyclicmagic:charm_fire"}, "weight": 8},
@@ -136,12 +108,13 @@
 
         {"data" : {"name" : "toolbelt:pouch"}, "weight" : 16},
         {"data" : {"name" : "toolbelt:belt"}, "weight" : 4},
+
         {"data" : {"name" : "xpbook:xp_book"}, "weight" : 8},
 
         {"data" : {"name" : "computercraft:disk", "meta": "0"}, "weight" : 1}
       ],
       "each": false,
-      "quantity": 3
+      "quantity": 2
     }
   ]
 }

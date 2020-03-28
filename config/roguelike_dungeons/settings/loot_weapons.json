@@ -5,7 +5,7 @@
       "level": 0,
       "type": "WEAPONS",
       "loot": [
-        {"data": {"type": "weapon", "level": 0}, "weight": 10},
+        {"data": {"type": "weapon", "level": 0}, "weight": 20},
         {"data": {"name": "dungeontactics:wooden_hammer", "level": 0}, "weight": 1},
         {"data": {"name": "dungeontactics:wooden_battleaxe", "level": 0}, "weight": 1},
         {"data": {"name": "dungeontactics:wooden_glaive", "level": 0}, "weight": 1},
@@ -33,7 +33,8 @@
       "level": 1,
       "type": "WEAPONS",
       "loot": [
-        {"data": {"type": "weapon", "level": 1}, "weight": 10},
+        {"data": {"type": "weapon", "level": 1}, "weight": 100},
+
         {"data": {"name": "mujmajnkraftsbettersurvival:itembronzehammer", "level": 1}, "weight": 1},
         {"data": {"name": "mujmajnkraftsbettersurvival:itembronzespear", "level": 1}, "weight": 1},
         {"data": {"name": "mujmajnkraftsbettersurvival:itembronzebattleaxe", "level": 1}, "weight": 1},
@@ -50,6 +51,7 @@
         {"data": {"name": "mujmajnkraftsbettersurvival:itemsilverdagger", "level": 1}, "weight": 1},
         {"data": {"name": "mujmajnkraftsbettersurvival:itemsilvernunchaku", "level": 1}, "weight": 1},
         {"data": {"name": "mujmajnkraftsbettersurvival:itemcrossbow", "level": 1}, "weight": 1},
+
         {"data": {"name": "dungeontactics:golden_hammer", "level": 1}, "weight": 1},
         {"data": {"name": "dungeontactics:golden_battleaxe", "level": 1}, "weight": 1},
         {"data": {"name": "dungeontactics:golden_glaive", "level": 1}, "weight": 1},
@@ -63,6 +65,7 @@
         {"data": {"name": "dungeontactics:silver_knife", "level": 1}, "weight": 1},
         {"data": {"name": "dungeontactics:silver_cutlass", "level": 1}, "weight": 1},
         {"data": {"name": "dungeontactics:silver_cestus", "level": 1}, "weight": 1},
+
         {"data": {"name": "spartanweaponry:longbow_wood", "level": 1}, "weight": 1},
         {"data": {"name": "spartanweaponry:longbow_leather", "level": 1}, "weight": 1},
         {"data": {"name": "spartanweaponry:crossbow_wood", "level": 1}, "weight": 1},
@@ -159,14 +162,17 @@
       "level": 2,
       "type": "WEAPONS",
       "loot": [
-        {"data": {"type": "weapon", "level": 2}, "weight": 10},
+        {"data": {"type": "weapon", "level": 2}, "weight": 50},
+
         {"data": {"name": "mujmajnkraftsbettersurvival:itemironhammer", "level": 2}, "weight": 1},
         {"data": {"name": "mujmajnkraftsbettersurvival:itemironspear", "level": 2}, "weight": 1},
         {"data": {"name": "mujmajnkraftsbettersurvival:itemironbattleaxe", "level": 2}, "weight": 1},
         {"data": {"name": "mujmajnkraftsbettersurvival:itemirondagger", "level": 2}, "weight": 1},
         {"data": {"name": "mujmajnkraftsbettersurvival:itemironnunchaku", "level": 2}, "weight": 1},
+
         {"data": {"name": "switchbow:switchbow", "level": 2}, "weight": 1},
         {"data": {"name": "switchbow:switchcrossbow", "level": 2}, "weight": 1},
+
         {"data": {"name": "dungeontactics:iron_hammer", "level": 2}, "weight": 1},
         {"data": {"name": "dungeontactics:iron_battleaxe", "level": 2}, "weight": 1},
         {"data": {"name": "dungeontactics:iron_glaive", "level": 2}, "weight": 1},
@@ -175,6 +181,7 @@
         {"data": {"name": "dungeontactics:iron_cestus", "level": 2}, "weight": 1},
         {"data": {"name": "dungeontactics:claws", "level": 2}, "weight": 1},
         {"data": {"name": "dungeontactics:taser", "level": 2}, "weight": 1},
+
         {"data": {"name": "ebwizardry:novice_fire_wand", "level": 2}, "weight": 1},
         {"data": {"name": "ebwizardry:novice_ice_wand", "level": 2}, "weight": 1},
         {"data": {"name": "ebwizardry:novice_lightning_wand", "level": 2}, "weight": 1},
@@ -182,6 +189,7 @@
         {"data": {"name": "ebwizardry:novice_earth_wand", "level": 2}, "weight": 1},
         {"data": {"name": "ebwizardry:novice_sorcery_wand", "level": 2}, "weight": 1},
         {"data": {"name": "ebwizardry:novice_healing_wand", "level": 2}, "weight": 1},
+
         {"data": {"name": "spartanweaponry:dagger_iron", "level": 2}, "weight": 1},
         {"data": {"name": "spartanweaponry:longsword_iron", "level": 2}, "weight": 1},
         {"data": {"name": "spartanweaponry:katana_iron", "level": 2}, "weight": 1},
@@ -214,7 +222,8 @@
       "level": 3,
       "type": "WEAPONS",
       "loot": [
-        {"data": {"type": "weapon", "level": 3}, "weight": 10},
+        {"data": {"type": "weapon", "level": 3}, "weight": 50},
+
         {"data": {"name": "mujmajnkraftsbettersurvival:itemjunglechitinhammer", "level": 3}, "weight": 1},
         {"data": {"name": "mujmajnkraftsbettersurvival:itemjunglechitinspear", "level": 3}, "weight": 1},
         {"data": {"name": "mujmajnkraftsbettersurvival:itemjunglechitinbattleaxe", "level": 3}, "weight": 1},
@@ -224,6 +233,7 @@
         {"data": {"name": "mujmajnkraftsbettersurvival:itemdesertchitinspear", "level": 3}, "weight": 1},
         {"data": {"name": "mujmajnkraftsbettersurvival:itemdesertchitinbattleaxe", "level": 3}, "weight": 1},
         {"data": {"name": "mujmajnkraftsbettersurvival:itemdesertchitindagger", "level": 3}, "weight": 1},
+
         {"data": {"name": "dungeontactics:steel_hammer", "level": 3}, "weight": 1},
         {"data": {"name": "dungeontactics:steel_battleaxe", "level": 3}, "weight": 1},
         {"data": {"name": "dungeontactics:steel_glaive", "level": 3}, "weight": 1},
@@ -231,6 +241,7 @@
         {"data": {"name": "dungeontactics:steel_knife", "level": 3}, "weight": 1},
         {"data": {"name": "dungeontactics:steel_cutlass", "level": 3}, "weight": 1},
         {"data": {"name": "dungeontactics:steel_cestus", "level": 3}, "weight": 1},
+
         {"data": {"name": "ebwizardry:apprentice_fire_wand", "level": 3}, "weight": 1},
         {"data": {"name": "ebwizardry:apprentice_ice_wand", "level": 3}, "weight": 1},
         {"data": {"name": "ebwizardry:apprentice_lightning_wand", "level": 3}, "weight": 1},
@@ -238,6 +249,7 @@
         {"data": {"name": "ebwizardry:apprentice_earth_wand", "level": 3}, "weight": 1},
         {"data": {"name": "ebwizardry:apprentice_sorcery_wand", "level": 3}, "weight": 1},
         {"data": {"name": "ebwizardry:apprentice_healing_wand", "level": 3}, "weight": 1},
+
         {"data": {"name": "spartanweaponry:dagger_steel", "level": 3}, "weight": 1},
         {"data": {"name": "spartanweaponry:longsword_steel", "level": 3}, "weight": 1},
         {"data": {"name": "spartanweaponry:katana_steel", "level": 3}, "weight": 1},
@@ -269,18 +281,22 @@
       "type": "WEAPONS",
       "loot": [
         {"data": {"type": "weapon", "level": 4}, "weight": 100},
+
         {"data": {"name": "mujmajnkraftsbettersurvival:itemdiamondhammer", "level": 4}, "weight": 15},
         {"data": {"name": "mujmajnkraftsbettersurvival:itemdiamondspear", "level": 4}, "weight": 15},
         {"data": {"name": "mujmajnkraftsbettersurvival:itemdiamondbattleaxe", "level": 4}, "weight": 15},
         {"data": {"name": "mujmajnkraftsbettersurvival:itemdiamonddagger", "level": 4}, "weight": 15},
         {"data": {"name": "mujmajnkraftsbettersurvival:itemdiamondnunchaku", "level": 4}, "weight": 15},
+
         {"data": {"name": "dungeontactics:diamond_hammer", "level": 4}, "weight": 15},
         {"data": {"name": "dungeontactics:diamond_battleaxe", "level": 4}, "weight": 15},
         {"data": {"name": "dungeontactics:diamond_glaive", "level": 4}, "weight": 15},
         {"data": {"name": "dungeontactics:diamond_knife", "level": 4}, "weight": 15},
         {"data": {"name": "dungeontactics:diamond_cutlass", "level": 4}, "weight": 15},
         {"data": {"name": "dungeontactics:diamond_cestus", "level": 4}, "weight": 15},
+
         {"data": {"name": "cyclicmagic:emerald_sword", "level": 4}, "weight": 5},
+
         {"data": {"name": "dungeontactics:mithril_hammer", "level": 4}, "weight": 1},
         {"data": {"name": "dungeontactics:mithril_battleaxe", "level": 4}, "weight": 1},
         {"data": {"name": "dungeontactics:mithril_glaive", "level": 4}, "weight": 1},
@@ -288,6 +304,7 @@
         {"data": {"name": "dungeontactics:mithril_knife", "level": 4}, "weight": 1},
         {"data": {"name": "dungeontactics:mithril_cutlass", "level": 4}, "weight": 1},
         {"data": {"name": "dungeontactics:mithril_cestus", "level": 4}, "weight": 1},
+
         {"data": {"name": "spartanweaponry:dagger_diamond", "level": 4}, "weight": 15},
         {"data": {"name": "spartanweaponry:longsword_diamond", "level": 4}, "weight": 15},
         {"data": {"name": "spartanweaponry:katana_diamond", "level": 4}, "weight": 15},
@@ -318,18 +335,36 @@
       "level": [0, 1, 2, 3, 4],
       "type": "WEAPONS",
       "loot": [
-        {"data": {"type": "potion", "name": "strength"}, "weight": 1}
+        {"data": {"name": "minecraft:arrow", "min": 1, "max": 4}, "weight": 1},
+        {"data": {"type": "potion", "name": "strength"}, "weight": 1},
+        {"data": {"type": "weapon", "level": 0}, "weight": 1}
       ],
       "each": true,
       "quantity": 1
     },
     {
-      "level": [0, 1, 2, 3, 4],
+      "level": [1, 2, 3, 4],
       "type": "WEAPONS",
       "loot": [
-        {"data": {"type": "weapon", "level": 0}, "weight": 1}
+        {"data": {"type": "weapon", "level": 0}, "weight": 32},
+        {"data": {"type": "weapon", "level": 1}, "weight": 24},
+        {"data": {"type": "weapon", "level": 2}, "weight": 16},
+        {"data": {"type": "weapon", "level": 3}, "weight": 8},
+        {"data": {"type": "weapon", "level": 4}, "weight": 4},
+
+        {"data": {"type": "specialty", "equipment": "sword", "level": 0}, "weight": 8},
+        {"data": {"type": "specialty", "equipment": "sword", "level": 1}, "weight": 6},
+        {"data": {"type": "specialty", "equipment": "sword", "level": 2}, "weight": 4},
+        {"data": {"type": "specialty", "equipment": "sword", "level": 3}, "weight": 2},
+        {"data": {"type": "specialty", "equipment": "sword", "level": 4}, "weight": 1},
+
+        {"data": {"type": "specialty", "equipment": "bow", "level": 0}, "weight": 8},
+        {"data": {"type": "specialty", "equipment": "bow", "level": 1}, "weight": 6},
+        {"data": {"type": "specialty", "equipment": "bow", "level": 2}, "weight": 4},
+        {"data": {"type": "specialty", "equipment": "bow", "level": 3}, "weight": 2},
+        {"data": {"type": "specialty", "equipment": "bow", "level": 4}, "weight": 1}
       ],
-      "each": true,
+      "each": false,
       "quantity": 1
     }
   ]

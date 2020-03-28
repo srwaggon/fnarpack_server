@@ -81,13 +81,12 @@
       "level": [0, 1, 2, 3, 4],
       "type": "TOOLS",
       "loot": [
-        {"data": {"name": "minecraft:arrow", "min": 1, "max": 4}, "weight": 20},
         {"data": {"name": "minecraft:bucket"}, "weight": 1},
         {"data": {"name": "minecraft:clock"}, "weight": 1},
         {"data": {"name": "minecraft:compass"}, "weight": 1},
         {"data": {"name": "minecraft:fishing_rod"}, "weight": 1},
         {"data": {"name": "minecraft:flint_and_steel"}, "weight": 10},
-        {"data": {"name": "minecraft:glass_bottle"}, "weight": 20},
+        {"data": {"name": "minecraft:glass_bottle"}, "weight": 10},
         {"data": {"name": "minecraft:lead"}, "weight": 1},
         {"data": {"name": "minecraft:paper", "min": 1, "max": 3}, "weight": 10},
         {"data": {"name": "minecraft:stone_hoe"}, "weight": 1},
@@ -113,7 +112,7 @@
 
         {"data": {"name" : "randomthings:escaperope"}, "weight" : 1},
 
-        {"data": {"name": "realistictorches:torch_unlit", "min": 5, "max": 20}, "weight": 40},
+        {"data": {"name": "realistictorches:torch_unlit", "min": 4, "max": 16}, "weight": 60},
         {"data": {"name": "realistictorches:matchbox"}, "weight": 5},
 
         {"data": {"name": "roughtweaks:salve"}, "weight": 20},
@@ -127,11 +126,40 @@
         {"data": {"name": "toughasnails:thermometer"}, "weight": 1},
 
         {"data": {"name": "quark:candle"}, "weight": 1}
-
       ],
       "each": true,
       "quantity": 1
-    }
+    },
+    {
+      "level": [1, 2, 3, 4],
+      "type": "TOOLS",
+      "loot": [
+        {"data": {"type": "tool", "level": 0}, "weight": 32},
+        {"data": {"type": "tool", "level": 1}, "weight": 24},
+        {"data": {"type": "tool", "level": 2}, "weight": 16},
+        {"data": {"type": "tool", "level": 3}, "weight": 8},
+        {"data": {"type": "tool", "level": 4}, "weight": 4},
 
+        {"data": {"type": "specialty", "equipment": "axe", "level": 0}, "weight": 8},
+        {"data": {"type": "specialty", "equipment": "axe", "level": 1}, "weight": 6},
+        {"data": {"type": "specialty", "equipment": "axe", "level": 2}, "weight": 4},
+        {"data": {"type": "specialty", "equipment": "axe", "level": 3}, "weight": 2},
+        {"data": {"type": "specialty", "equipment": "axe", "level": 4}, "weight": 1},
+
+        {"data": {"type": "specialty", "equipment": "pick", "level": 0}, "weight": 8},
+        {"data": {"type": "specialty", "equipment": "pick", "level": 1}, "weight": 6},
+        {"data": {"type": "specialty", "equipment": "pick", "level": 2}, "weight": 4},
+        {"data": {"type": "specialty", "equipment": "pick", "level": 3}, "weight": 2},
+        {"data": {"type": "specialty", "equipment": "pick", "level": 4}, "weight": 1},
+
+        {"data": {"type": "specialty", "equipment": "shovel", "level": 0}, "weight": 8},
+        {"data": {"type": "specialty", "equipment": "shovel", "level": 1}, "weight": 6},
+        {"data": {"type": "specialty", "equipment": "shovel", "level": 2}, "weight": 4},
+        {"data": {"type": "specialty", "equipment": "shovel", "level": 3}, "weight": 2},
+        {"data": {"type": "specialty", "equipment": "shovel", "level": 4}, "weight": 1}
+      ],
+      "each": false,
+      "quantity": 1
+    }
   ]
 }

@@ -44,7 +44,9 @@
         {"data": {"name": "minecraft:prismarine_shard"}, "weight": 1},
         {"data": {"name": "minecraft:rabbit_foot"}, "weight": 1},
         {"data": {"name": "minecraft:skull", "meta": 0}, "weight": 1},
-        {"data": {"name": "minecraft:waterlily"}, "weight": 1}
+        {"data": {"name": "minecraft:waterlily"}, "weight": 1},
+
+        {"data": {"name": "tconstruct:materials", "meta": 0}, "weight": 1}
       ],
       "each": true,
       "quantity": 4

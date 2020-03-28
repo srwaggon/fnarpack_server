@@ -132,19 +132,48 @@
       "level": [0, 1, 2, 3, 4],
       "type": "ARMOUR",
       "loot": [
-        {"data": {"type": "potion", "name": "healing"}, "weight": 1}
+        {"data": {"type": "potion", "name": "healing"}, "weight": 1},
+        {"data": {"type": "armour", "level": 0}, "weight": 1},
+        {"data": {"name": "minecraft:shield", "level": 0}, "weight": 1}
       ],
       "each": true,
       "quantity": 1
     },
     {
-      "level": [0, 1, 2, 3, 4],
+      "level": [1, 2, 3, 4],
       "type": "ARMOUR",
       "loot": [
-        {"data": {"type": "armour", "level": 0}, "weight": 5},
-        {"data": {"name": "minecraft:shield", "level": 0}, "weight": 1}
+        {"data": {"type": "armour", "level": 0}, "weight": 32},
+        {"data": {"type": "armour", "level": 1}, "weight": 24},
+        {"data": {"type": "armour", "level": 2}, "weight": 16},
+        {"data": {"type": "armour", "level": 3}, "weight": 8},
+        {"data": {"type": "armour", "level": 4}, "weight": 4},
+
+        {"data": {"type": "specialty", "equipment": "helmet", "level": 0}, "weight": 8},
+        {"data": {"type": "specialty", "equipment": "helmet", "level": 1}, "weight": 6},
+        {"data": {"type": "specialty", "equipment": "helmet", "level": 2}, "weight": 4},
+        {"data": {"type": "specialty", "equipment": "helmet", "level": 3}, "weight": 2},
+        {"data": {"type": "specialty", "equipment": "helmet", "level": 4}, "weight": 1},
+
+        {"data": {"type": "specialty", "equipment": "chest", "level": 0}, "weight": 8},
+        {"data": {"type": "specialty", "equipment": "chest", "level": 1}, "weight": 6},
+        {"data": {"type": "specialty", "equipment": "chest", "level": 2}, "weight": 4},
+        {"data": {"type": "specialty", "equipment": "chest", "level": 3}, "weight": 2},
+        {"data": {"type": "specialty", "equipment": "chest", "level": 4}, "weight": 1},
+
+        {"data": {"type": "specialty", "equipment": "legs", "level": 0}, "weight": 8},
+        {"data": {"type": "specialty", "equipment": "legs", "level": 1}, "weight": 6},
+        {"data": {"type": "specialty", "equipment": "legs", "level": 2}, "weight": 4},
+        {"data": {"type": "specialty", "equipment": "legs", "level": 3}, "weight": 2},
+        {"data": {"type": "specialty", "equipment": "legs", "level": 4}, "weight": 1},
+
+        {"data": {"type": "specialty", "equipment": "feet", "level": 0}, "weight": 8},
+        {"data": {"type": "specialty", "equipment": "feet", "level": 1}, "weight": 6},
+        {"data": {"type": "specialty", "equipment": "feet", "level": 2}, "weight": 4},
+        {"data": {"type": "specialty", "equipment": "feet", "level": 3}, "weight": 2},
+        {"data": {"type": "specialty", "equipment": "feet", "level": 4}, "weight": 1}
       ],
-      "each": true,
+      "each": false,
       "quantity": 1
     }
   ]

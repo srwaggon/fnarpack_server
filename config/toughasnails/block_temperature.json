@@ -56,12 +56,5 @@
       "properties": {}
     },
     "temperature": 12.5
-  },
-  {
-    "state": {
-      "block": "toughasnails:campfire",
-      "properties": {}
-    },
-    "temperature": 6.0
   }
 ]

@@ -73,15 +73,16 @@
         {"data": {"name": "artisanworktables:artisans_trowel_diamond"}, "weight": 1},
         {"data": {"name": "artisanworktables:artisans_tsquare_diamond"}, "weight": 1},
 
+        {"data": {"name": "bountifulbaubles:flaregun"}, "weight": 4},
+        {"data": {"name": "bountifulbaubles:trinketluckyhorseshoe"}, "weight": 4},
+        {"data": {"name": "bountifulbaubles:magicmirror"}, "weight": 4},
+        {"data": {"name": "bountifulbaubles:wormholemirror"}, "weight": 4},
+        {"data": {"name": "bountifulbaubles:flare_red"}, "weight": 4},
+        {"data": {"name": "bountifulbaubles:phantomprism"}, "weight": 4},
+
         {"data": {"name": "cookingforblockheads:cow_jar"}, "weight": 8},
 
-        {"data": {"name": "grapplemod:grapplinghook"}, "weight": 8},
-
-        {"data": {"name": "solcarrot:food_book"}, "weight": 8},
-
-        {"data": {"name": "trumpetskeleton:trumpet"}, "weight": 8},
-
-        {"data": {"name": "wearablebackpacks:backpack"}, "weight": 8},
+        {"data": {"name": "computercraft:disk", "meta": "0"}, "weight": 1},
 
         {"data": {"name": "cyclicmagic:charm_fire"}, "weight": 8},
         {"data": {"name": "cyclicmagic:charm_void"}, "weight": 8},
@@ -93,8 +94,14 @@
         {"data": {"name": "cyclicmagic:tool_harvest_crops"}, "weight": 8},
 
         {"data": {"name": "cyclicmagic:ender_eye_orb"}, "weight": 4},
+        {"data": {"name": "cyclicmagic:ender_pearl_reuse"}, "weight": 4},
         {"data": {"name": "cyclicmagic:glove_climb"}, "weight": 4},
+        {"data": {"name": "cyclicmagic:mattock"}, "weight": 4},
+        {"data": {"name": "cyclicmagic:chest_sack_empty"}, "weight": 4},
+        {"data": {"name": "cyclicmagic:sack_ender"}, "weight": 4},
         {"data": {"name": "cyclicmagic:soulstone"}, "weight": 4},
+
+        {"data": {"name": "grapplemod:grapplinghook"}, "weight": 8},
 
         {"data": {"name": "dungeontactics:master_hammer_smash", "level": 4}, "weight": 4},
         {"data": {"name": "dungeontactics:master_hammer_leap", "level": 4}, "weight": 4},
@@ -105,16 +112,36 @@
         {"data": {"name": "dungeontactics:master_cestus_roar", "level": 4}, "weight": 4},
         {"data": {"name": "dungeontactics:master_cestus_pummel", "level": 4}, "weight": 4},
 
+        {"data": {"name": "ebwizardry:magic_crystal", "meta": 1}, "weight": 8},
+        {"data": {"name": "ebwizardry:magic_crystal", "meta": 2}, "weight": 8},
+        {"data": {"name": "ebwizardry:magic_crystal", "meta": 3}, "weight": 8},
+        {"data": {"name": "ebwizardry:magic_crystal", "meta": 4}, "weight": 8},
+        {"data": {"name": "ebwizardry:magic_crystal", "meta": 5}, "weight": 8},
+        {"data": {"name": "ebwizardry:magic_crystal", "meta": 6}, "weight": 8},
+        {"data": {"name": "ebwizardry:magic_crystal", "meta": 7}, "weight": 8},
+        {"data": {"name": "ebwizardry:astral_diamond"}, "weight": 8},
+
+        {"data": {"name": "openglider:hang_glider_part"}, "weight": 16},
+        {"data": {"name": "openglider:hang_glider_basic"}, "weight": 8},
+        {"data": {"name": "openglider:hang_glider_advanced"}, "weight": 2},
+
+        {"data": {"name": "qualitytools:emerald_ring"}, "weight": 32},
+        {"data": {"name": "qualitytools:emerald_amulet"}, "weight": 32},
+
+        {"data": {"name": "randomthings:escaperope"}, "weight": 32},
+
         {"data": {"name": "scalinghealth:heartdust"}, "weight": 32},
         {"data": {"name": "scalinghealth:crystalshard"}, "weight": 16},
         {"data": {"name": "scalinghealth:heartcontainer"}, "weight": 2},
 
-        {"data": {"name": "bountifulbaubles:flaregun"}, "weight": 4},
-        {"data": {"name": "bountifulbaubles:trinketluckyhorseshoe"}, "weight": 4},
-        {"data": {"name": "bountifulbaubles:magicmirror"}, "weight": 4},
-        {"data": {"name": "bountifulbaubles:wormholemirror"}, "weight": 4},
-        {"data": {"name": "bountifulbaubles:flare_red"}, "weight": 4},
-        {"data": {"name": "bountifulbaubles:phantomprism"}, "weight": 4},
+        {"data": {"name": "solcarrot:food_book"}, "weight": 8},
+
+        {"data": {"name": "toolbelt:pouch"}, "weight": 16},
+        {"data": {"name": "toolbelt:belt"}, "weight": 4},
+
+        {"data": {"name": "trumpetskeleton:trumpet"}, "weight": 8},
+
+        {"data": {"name": "wearablebackpacks:backpack"}, "weight": 8},
 
         {"data": {"name": "xat:glowing_powder"}, "weight": 16},
         {"data": {"name": "xat:glowing_ingot"}, "weight": 4},
@@ -135,23 +162,9 @@
         {"data": {"name": "xat:ender_tiara"}, "weight": 4},
         {"data": {"name": "xat:damage_shield"}, "weight": 4},
 
-        {"data" : {"name" : "ebwizardry:astral_diamond"}, "weight" : 8},
+        {"data": {"name": "xpbook:xp_book"}, "weight": 8},
 
-        {"data" : {"name" : "openglider:hang_glider_part"}, "weight" : 16},
-        {"data" : {"name" : "openglider:hang_glider_basic"}, "weight" : 8},
-        {"data" : {"name" : "openglider:hang_glider_advanced"}, "weight" : 2},
-
-        {"data" : {"name" : "qualitytools:emerald_ring"}, "weight" : 32},
-        {"data" : {"name" : "qualitytools:emerald_amulet"}, "weight" : 32},
-
-        {"data": {"name" : "randomthings:escaperope"}, "weight" : 32},
-
-        {"data" : {"name" : "toolbelt:pouch"}, "weight" : 16},
-        {"data" : {"name" : "toolbelt:belt"}, "weight" : 4},
-
-        {"data" : {"name" : "xpbook:xp_book"}, "weight" : 8},
-
-        {"data" : {"name" : "computercraft:disk", "meta": "0"}, "weight" : 1}
+        {"data": {"name": "xreliquary:apothecary_mortar"}, "weight": 1}
       ],
       "each": false,
       "quantity": 2

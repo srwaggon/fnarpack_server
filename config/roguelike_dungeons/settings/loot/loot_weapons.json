@@ -335,9 +335,10 @@
       "level": [0, 1, 2, 3, 4],
       "type": "WEAPONS",
       "loot": [
-        {"data": {"name": "minecraft:arrow", "min": 1, "max": 4}, "weight": 1},
+        {"data": {"name": "minecraft:arrow", "min": 3, "max": 5}, "weight": 1},
         {"data": {"type": "potion", "name": "strength"}, "weight": 1},
-        {"data": {"type": "weapon", "level": 0}, "weight": 1}
+        {"data": {"type": "weapon", "level": 0}, "weight": 1},
+        {"data": {"name": "ebwizardry:small_mana_flask", "min": 1, "max": 3}, "weight": 1}
       ],
       "each": true,
       "quantity": 1

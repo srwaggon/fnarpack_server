@@ -1,0 +1,1 @@
+recipes.remove(<scalinghealth:healingitem:*>);

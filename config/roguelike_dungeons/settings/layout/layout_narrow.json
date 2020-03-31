@@ -1,6 +1,0 @@
-{
-  "name": "layout:narrow",
-  "num_rooms": [2, 2, 2, 2, 15],
-  "scatter": [10, 10, 10, 10, 10],
-  "layouts": [{"level": [0, 1, 2, 3, 4], "type": "classic"}]
-}

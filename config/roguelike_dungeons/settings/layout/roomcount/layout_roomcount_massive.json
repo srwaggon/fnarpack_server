@@ -1,0 +1,4 @@
+{
+  "name": "layout:roomcount_massive",
+  "num_rooms": [100, 100, 100, 100, 100]
+}

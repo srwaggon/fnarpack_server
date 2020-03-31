@@ -1027,7 +1027,7 @@
         {"data": {"name": "harvestcraft:zucchiniitem"}, "weight": 1}
       ],
       "each": true,
-      "quantity": 3
+      "quantity": 5
     }
   ]
 }

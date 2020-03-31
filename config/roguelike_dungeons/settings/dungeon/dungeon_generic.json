@@ -1,8 +1,7 @@
 {
   "name": "dungeon:generic",
   "inherit": [
-    "layout:size_normal",
-    "layout:type_mixed",
+    "layout:size_small",
     "rooms:generic",
     "segments:generic",
     "loot:modded"

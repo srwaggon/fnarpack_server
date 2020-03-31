@@ -343,6 +343,17 @@
       "quantity": 1
     },
     {
+      "level": [0, 1, 2, 3, 4],
+      "type": "WEAPONS",
+      "loot": [
+        {"data": {"name": "minecraft:enchanted_book", "nbt": "{\"StoredEnchantments\": [{\"lvl\": 1, \"id\": \"sharpness\"}]}"}, "weight": 10},
+        {"data": {"name": "minecraft:enchanted_book", "nbt": "{\"StoredEnchantments\": [{\"lvl\": 2, \"id\": \"sharpness\"}]}"}, "weight": 5},
+        {"data": {"name": "minecraft:enchanted_book", "nbt": "{\"StoredEnchantments\": [{\"lvl\": 3, \"id\": \"sharpness\"}]}"}, "weight": 1}
+      ],
+      "each": false,
+      "quantity": 1
+    },
+    {
       "level": [1, 2, 3, 4],
       "type": "WEAPONS",
       "loot": [
@@ -362,7 +373,9 @@
         {"data": {"type": "specialty", "equipment": "bow", "level": 1}, "weight": 6},
         {"data": {"type": "specialty", "equipment": "bow", "level": 2}, "weight": 4},
         {"data": {"type": "specialty", "equipment": "bow", "level": 3}, "weight": 2},
-        {"data": {"type": "specialty", "equipment": "bow", "level": 4}, "weight": 1}
+        {"data": {"type": "specialty", "equipment": "bow", "level": 4}, "weight": 1},
+
+        {"data": {"name": "minecraft:enchanted_book", "nbt": "{\"StoredEnchantments\": [{\"lvl\": 3, \"id\": \"sharpness\"}]}"}, "weight": 1}
       ],
       "each": false,
       "quantity": 1

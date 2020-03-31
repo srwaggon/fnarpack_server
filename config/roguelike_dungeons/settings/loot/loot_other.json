@@ -1,5 +1,5 @@
 {
-  "name": "loot:all",
+  "name": "loot:other",
   "loot_rules": [
     {
       "level": [0, 1, 2, 3, 4],
@@ -50,7 +50,7 @@
         {"data": {"name": "minecraft:stonebrick", "meta": 0, "min": 16, "max": 32}, "weight": 1},
         {"data": {"name": "minecraft:stonebrick", "meta": 1, "min": 8, "max": 16}, "weight": 1},
         {"data": {"name": "minecraft:stonebrick", "meta": 2, "min": 8, "max": 16}, "weight": 1},
-        {"data": {"name": "minecraft:logs", "meta": 0, "min": 4, "max": 8}, "weight": 5},
+        {"data": {"name": "minecraft:log", "meta": 0, "min": 4, "max": 8}, "weight": 5},
         {"data": {"name": "minecraft:planks", "meta": 0, "min": 8, "max": 16}, "weight": 5},
         {"data": {"name": "minecraft:planks", "meta": 1, "min": 8, "max": 16}, "weight": 1},
         {"data": {"name": "minecraft:planks", "meta": 2, "min": 8, "max": 16}, "weight": 1},

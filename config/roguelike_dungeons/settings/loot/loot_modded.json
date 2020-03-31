@@ -8,13 +8,12 @@
     "demo:loot4",
 
     "loot:all",
-
     "loot:armour",
     "loot:brewing",
     "loot:enchanting",
     "loot:food",
-    "loot:junk",
     "loot:ore",
+    "loot:other",
     "loot:potions",
     "loot:starter",
     "loot:tools",

@@ -1,0 +1,13 @@
+{
+  "name": "spawners:evil_humanoids",
+  "spawners": [
+    {"level": [0, 1, 2, 3, 4], "potentials": [{"name": "minecraft:evocation_illager"}]},
+    {"level": [0, 1, 2, 3, 4], "potentials": [{"name": "minecraft:witch"}]},
+    {"level": [0, 1, 2, 3, 4], "potentials": [
+      {"name": "minecraft:evocation_illager"},
+      {"name": "minecraft:illusion_illager"},
+      {"name": "minecraft:witch"}
+    ]
+    }
+  ]
+}

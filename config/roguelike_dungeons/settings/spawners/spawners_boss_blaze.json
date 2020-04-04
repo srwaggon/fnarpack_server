@@ -1,6 +1,0 @@
-{
-  "name": "spawners:boss_blaze",
-  "spawners": [
-    {"potentials": [{"name": "minecraft:blaze"}], "level": 4, "weight": 3}
-  ]
-}

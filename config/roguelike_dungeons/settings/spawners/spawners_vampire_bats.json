@@ -1,6 +1,0 @@
-{
-  "name": "spawners:vampire_bats",
-  "spawners": [
-    {"type": "SKELETON", "potentials": [{"name": "gravestone-extended:gsvampirebat"}], "level": [0, 1, 2, 3, 4]}
-  ]
-}

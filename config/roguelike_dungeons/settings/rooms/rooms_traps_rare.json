@@ -9,8 +9,8 @@
         3,
         4
       ],
-      "type": "random",
-      "name": "PIT",
+      "frequency": "random",
+      "type": "PIT",
       "weight": 1
     },
     {
@@ -20,8 +20,8 @@
         3,
         4
       ],
-      "type": "random",
-      "name": "CREEPER",
+      "frequency": "random",
+      "type": "CREEPER",
       "weight": 1
     },
     {
@@ -31,8 +31,8 @@
         3,
         4
       ],
-      "type": "random",
-      "name": "SPIDER",
+      "frequency": "random",
+      "type": "SPIDER",
       "weight": 1
     }
   ]

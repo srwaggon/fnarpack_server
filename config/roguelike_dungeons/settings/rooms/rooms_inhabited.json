@@ -10,8 +10,8 @@
         3,
         4
       ],
-      "type": "random",
-      "name": "BEDROOM",
+      "frequency": "random",
+      "type": "BEDROOM",
       "weight": 10
     },
     {
@@ -22,8 +22,8 @@
         3,
         4
       ],
-      "type": "random",
-      "name": "CAKE",
+      "frequency": "random",
+      "type": "CAKE",
       "weight": 10
     },
     {
@@ -34,8 +34,8 @@
         3,
         4
       ],
-      "type": "random",
-      "name": "CORNER",
+      "frequency": "random",
+      "type": "CORNER",
       "weight": 20
     },
     {
@@ -46,8 +46,8 @@
         3,
         4
       ],
-      "type": "random",
-      "name": "ENCHANT",
+      "frequency": "random",
+      "type": "ENCHANT",
       "weight": 5
     },
     {
@@ -58,8 +58,8 @@
         3,
         4
       ],
-      "type": "random",
-      "name": "DARKHALL",
+      "frequency": "random",
+      "type": "DARKHALL",
       "weight": 20
     },
     {
@@ -70,8 +70,8 @@
         3,
         4
       ],
-      "type": "random",
-      "name": "FIRE",
+      "frequency": "random",
+      "type": "FIRE",
       "weight": 20
     },
     {
@@ -82,8 +82,8 @@
         3,
         4
       ],
-      "type": "random",
-      "name": "LAB",
+      "frequency": "random",
+      "type": "LAB",
       "weight": 10
     },
     {
@@ -94,8 +94,8 @@
         3,
         4
       ],
-      "type": "random",
-      "name": "LIBRARY",
+      "frequency": "random",
+      "type": "LIBRARY",
       "weight": 10
     },
     {
@@ -106,8 +106,8 @@
         3,
         4
       ],
-      "type": "random",
-      "name": "MESS",
+      "frequency": "random",
+      "type": "MESS",
       "weight": 20
     },
     {
@@ -118,8 +118,8 @@
         3,
         4
       ],
-      "type": "random",
-      "name": "MUSIC",
+      "frequency": "random",
+      "type": "MUSIC",
       "weight": 10
     },
     {
@@ -130,8 +130,8 @@
         3,
         4
       ],
-      "type": "random",
-      "name": "SMITH",
+      "frequency": "random",
+      "type": "SMITH",
       "weight": 10
     },
     {
@@ -142,8 +142,8 @@
         3,
         4
       ],
-      "type": "random",
-      "name": "STORAGE",
+      "frequency": "random",
+      "type": "STORAGE",
       "weight": 10
     }
   ]

@@ -10,8 +10,8 @@
         3,
         4
       ],
-      "type": "random",
-      "name": "BRICK",
+      "frequency": "random",
+      "type": "BRICK",
       "weight": 5
     },
     {
@@ -22,8 +22,8 @@
         3,
         4
       ],
-      "type": "random",
-      "name": "CREEPER",
+      "frequency": "random",
+      "type": "CREEPER",
       "weight": 5
     },
     {
@@ -34,8 +34,8 @@
         3,
         4
       ],
-      "type": "random",
-      "name": "CRYPT",
+      "frequency": "random",
+      "type": "CRYPT",
       "weight": 5
     },
     {
@@ -46,8 +46,8 @@
         3,
         4
       ],
-      "type": "random",
-      "name": "ENCHANT",
+      "frequency": "random",
+      "type": "ENCHANT",
       "weight": 5
     },
     {
@@ -58,8 +58,8 @@
         3,
         4
       ],
-      "type": "random",
-      "name": "ENDER",
+      "frequency": "random",
+      "type": "ENDER",
       "weight": 5
     },
     {
@@ -70,8 +70,8 @@
         3,
         4
       ],
-      "type": "random",
-      "name": "FIRE",
+      "frequency": "random",
+      "type": "FIRE",
       "weight": 5
     },
     {
@@ -82,8 +82,8 @@
         3,
         4
       ],
-      "type": "random",
-      "name": "MUSIC",
+      "frequency": "random",
+      "type": "MUSIC",
       "weight": 5
     },
     {
@@ -94,8 +94,8 @@
         3,
         4
       ],
-      "type": "random",
-      "name": "NETHER",
+      "frequency": "random",
+      "type": "NETHER",
       "weight": 5
     },
     {
@@ -106,8 +106,8 @@
         3,
         4
       ],
-      "type": "random",
-      "name": "NETHERFORT",
+      "frequency": "random",
+      "type": "FORTRESS",
       "weight": 5
     },
     {
@@ -118,8 +118,8 @@
         3,
         4
       ],
-      "type": "random",
-      "name": "PIT",
+      "frequency": "random",
+      "type": "PIT",
       "weight": 5
     },
     {
@@ -130,8 +130,8 @@
         3,
         4
       ],
-      "type": "random",
-      "name": "PRISON",
+      "frequency": "random",
+      "type": "PRISON",
       "weight": 5
     },
     {
@@ -142,8 +142,8 @@
         3,
         4
       ],
-      "type": "random",
-      "name": "SLIME",
+      "frequency": "random",
+      "type": "SLIME",
       "weight": 5
     },
     {
@@ -154,8 +154,8 @@
         3,
         4
       ],
-      "type": "random",
-      "name": "SMITH",
+      "frequency": "random",
+      "type": "SMITH",
       "weight": 5
     },
     {
@@ -166,8 +166,8 @@
         3,
         4
       ],
-      "type": "random",
-      "name": "SPIDER",
+      "frequency": "random",
+      "type": "SPIDER",
       "weight": 5
     },
     {
@@ -178,8 +178,8 @@
         3,
         4
       ],
-      "type": "random",
-      "name": "CAKE",
+      "frequency": "random",
+      "type": "CAKE",
       "weight": 5
     },
     {
@@ -190,8 +190,8 @@
         3,
         4
       ],
-      "type": "random",
-      "name": "LAB",
+      "frequency": "random",
+      "type": "LAB",
       "weight": 5
     },
     {
@@ -202,8 +202,8 @@
         3,
         4
       ],
-      "type": "random",
-      "name": "CORNER",
+      "frequency": "random",
+      "type": "CORNER",
       "weight": 5
     },
     {
@@ -214,8 +214,8 @@
         3,
         4
       ],
-      "type": "random",
-      "name": "MESS",
+      "frequency": "random",
+      "type": "MESS",
       "weight": 5
     },
     {
@@ -226,8 +226,8 @@
         3,
         4
       ],
-      "type": "random",
-      "name": "BTEAM",
+      "frequency": "random",
+      "type": "BTEAM",
       "weight": 5
     },
     {
@@ -238,8 +238,8 @@
         3,
         4
       ],
-      "type": "random",
-      "name": "OSSUARY",
+      "frequency": "random",
+      "type": "OSSUARY",
       "weight": 5
     },
     {
@@ -250,8 +250,8 @@
         3,
         4
       ],
-      "type": "random",
-      "name": "OBSIDIAN",
+      "frequency": "random",
+      "type": "OBSIDIAN",
       "weight": 5
     },
     {
@@ -262,8 +262,8 @@
         3,
         4
       ],
-      "type": "random",
-      "name": "STORAGE",
+      "frequency": "random",
+      "type": "STORAGE",
       "weight": 5
     },
     {
@@ -274,8 +274,8 @@
         3,
         4
       ],
-      "type": "random",
-      "name": "FIREWORK",
+      "frequency": "random",
+      "type": "FIREWORK",
       "weight": 5
     },
     {
@@ -286,8 +286,8 @@
         3,
         4
       ],
-      "type": "random",
-      "name": "BEDROOM",
+      "frequency": "random",
+      "type": "BEDROOM",
       "weight": 5
     },
     {
@@ -298,8 +298,8 @@
         3,
         4
       ],
-      "type": "random",
-      "name": "REWARD",
+      "frequency": "random",
+      "type": "REWARD",
       "weight": 5
     },
     {
@@ -310,8 +310,8 @@
         3,
         4
       ],
-      "type": "random",
-      "name": "LIBRARY",
+      "frequency": "random",
+      "type": "LIBRARY",
       "weight": 5
     },
     {
@@ -322,8 +322,8 @@
         3,
         4
       ],
-      "type": "random",
-      "name": "DARKHALL",
+      "frequency": "random",
+      "type": "DARKHALL",
       "weight": 5
     },
     {
@@ -334,8 +334,8 @@
         3,
         4
       ],
-      "type": "random",
-      "name": "PYRAMIDTOMB",
+      "frequency": "random",
+      "type": "PYRAMIDTOMB",
       "weight": 5
     },
     {
@@ -346,8 +346,8 @@
         3,
         4
       ],
-      "type": "random",
-      "name": "PYRAMIDSPAWNER",
+      "frequency": "random",
+      "type": "PYRAMIDSPAWNER",
       "weight": 5
     },
     {
@@ -358,8 +358,8 @@
         3,
         4
       ],
-      "type": "random",
-      "name": "PYRAMIDCORNER",
+      "frequency": "random",
+      "type": "PYRAMIDCORNER",
       "weight": 5
     },
     {
@@ -370,8 +370,8 @@
         3,
         4
       ],
-      "type": "random",
-      "name": "BLAZE",
+      "frequency": "random",
+      "type": "BLAZE",
       "weight": 5
     }
   ]

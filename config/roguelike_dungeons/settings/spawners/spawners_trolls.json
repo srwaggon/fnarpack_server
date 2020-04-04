@@ -1,6 +1,18 @@
 {
   "name": "spawners:trolls",
   "spawners": [
-    {"type": "SPIDER", "equip": true, "potentials": [{"name": "iceandfire:if_troll"}], "level": [2, 3, 4]}
+    {
+      "equip": true,
+      "potentials": [
+        {
+          "name": "iceandfire:if_troll"
+        }
+      ],
+      "level": [
+        2,
+        3,
+        4
+      ]
+    }
   ]
 }

@@ -1,7 +1,14 @@
 {
-	"name" : "spawners:boss_gorgon",
-
-	"spawners" : [
-		{"type" : "SKELETON", "equip": true, "potentials" : [{"name" : "iceandfire:gorgon"}], "level": 4, "weight": 3}
-	]
+  "name": "spawners:boss_gorgon",
+  "spawners": [
+    {
+      "potentials": [
+        {
+          "name": "iceandfire:gorgon"
+        }
+      ],
+      "level": 4,
+      "weight": 3
+    }
+  ]
 }

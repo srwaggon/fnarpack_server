@@ -33,7 +33,9 @@
         {"data": {"name": "minecraft:painting", "nbt": "{display:{Name:\"XXX\",Lore:[\"You probably weren't meant to find this.\"]}}"}, "weight": 1},
         {"data": {"name": "minecraft:painting", "nbt": "{display:{Name:\"Piglet\",Lore:[\"It looks like a child painted this. How is this art?\"]}}"}, "weight": 1},
         {"data": {"name": "minecraft:book", "nbt": "{display:{Name:\"XXX\",Lore:[\"You probably weren't meant to find this.\"]}}"}, "weight": 1},
-        {"data": {"name": "minecraft:book", "nbt": "{display:{Name:\"Streaming for beginners\",Lore:[\"You probably weren't meant to find this.\"]}}"}, "weight": 1},
+        {"data": {"name": "minecraft:book", "nbt": "{display:{Name:\"Streaming for beginners\",Lore:[\"A practical guide to getting famous on Twitch\"]}}"}, "weight": 1},
+        {"data": {"name": "minecraft:nether_star"}, "weight": 2},
+        {"data": {"name": "minecraft:elytra"}, "weight": 8},
 
         {"data": {"name": "akashictome:tome"}, "weight": 8},
 

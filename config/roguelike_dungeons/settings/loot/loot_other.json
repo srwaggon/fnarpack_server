@@ -19,6 +19,7 @@
         {"data": {"name": "minecraft:pumpkin_seeds"}, "weight": 1},
         {"data": {"name": "minecraft:melon_seeds"}, "weight": 1},
         {"data": {"name": "minecraft:lead"}, "weight": 1},
+        {"data": {"name": "minecraft:saddle"}, "weight": 1},
         {"data": {"name": "minecraft:wheat"}, "weight": 1},
         {"data": {"name": "minecraft:beetroot_seeds"}, "weight": 1},
         {"data": {"name": "minecraft:sapling"}, "weight": 1},

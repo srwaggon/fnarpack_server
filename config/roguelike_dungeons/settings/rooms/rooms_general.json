@@ -9,8 +9,8 @@
         2,
         3
       ],
-      "type": "random",
-      "name": "FIRE",
+      "frequency": "random",
+      "type": "FIRE",
       "weight": 5
     },
     {
@@ -20,8 +20,8 @@
         2,
         3
       ],
-      "type": "random",
-      "name": "DARKHALL",
+      "frequency": "random",
+      "type": "DARKHALL",
       "weight": 5
     },
     {
@@ -31,8 +31,8 @@
         2,
         3
       ],
-      "type": "random",
-      "name": "CORNER",
+      "frequency": "random",
+      "type": "CORNER",
       "weight": 5
     },
     {
@@ -42,8 +42,8 @@
         2,
         3
       ],
-      "type": "random",
-      "name": "SLIME",
+      "frequency": "random",
+      "type": "SLIME",
       "weight": 5
     }
   ]

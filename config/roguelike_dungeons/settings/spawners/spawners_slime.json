@@ -1,9 +1,19 @@
 {
-	"name" : "spawners:slime",
-
-	"spawners" : [
-		{"type" : "SLIME", "potentials" : [
-			{"name" : "minecraft:slime"}
-		], "level": [0,1,2,3,4]}
-	]
+  "name": "spawners:slime",
+  "spawners": [
+    {
+      "potentials": [
+        {
+          "name": "minecraft:slime"
+        }
+      ],
+      "level": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  ]
 }

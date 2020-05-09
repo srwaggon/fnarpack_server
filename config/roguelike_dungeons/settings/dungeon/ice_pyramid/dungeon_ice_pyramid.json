@@ -1,5 +1,5 @@
 {
-  "name" : "dungeon:undead_ice_pyramid",
+  "name" : "dungeon:ice_pyramid",
   "exclusive": true,
   "criteria" : {"biomeTypes" : ["SNOWY"]},
   "inherit" : [

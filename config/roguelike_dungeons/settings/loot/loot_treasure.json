@@ -9,6 +9,7 @@
         {"data": {"type": "enchanted_book", "ench": 15}, "weight": 16},
         {"data": {"type": "enchanted_book", "ench": 20}, "weight": 8},
         {"data": {"type": "enchanted_book", "ench": 30}, "weight": 4},
+        {"data": {"type": "enchanted_book", "ench": 35}, "weight": 1},
 
         {"data": {"type": "specialty", "level": 0}, "weight": 32},
         {"data": {"type": "specialty", "level": 1}, "weight": 24},

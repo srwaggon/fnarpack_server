@@ -2,7 +2,6 @@
   "name" : "dungeon:mountain_builtin",
   "exclusive": true,
   "inherit" : [
-    "builtin:mountain",
-    "loot:modded"
+    "builtin:mountain"
   ]
 }

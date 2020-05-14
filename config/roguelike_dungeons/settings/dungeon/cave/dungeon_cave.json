@@ -2,7 +2,7 @@
   "name": "dungeon:cave",
   "exclusive": true,
   "inherit": [
-    "dungeon:generic",
+    "dungeon:common",
     "tower:hole",
     "theme:cave",
 

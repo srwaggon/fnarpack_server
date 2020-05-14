@@ -3,9 +3,7 @@
   "exclusive": true,
   "criteria" : {"biomeTypes" : ["SNOWY"]},
   "inherit" : [
-    "dungeon:generic",
-    "criteria:snowy",
-    "layout:size_large",
+    "dungeon:common",
     "rooms:undead",
     "segments:undead",
     "theme:ice_floors",

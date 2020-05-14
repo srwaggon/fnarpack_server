@@ -1,5 +1,6 @@
 {
   "name" : "dungeon:forest_temple_tiny",
+  "exclusive": true,
   "inherit" : [
     "dungeon:forest_temple",
     "layout:size_tiny"

@@ -231,10 +231,10 @@ recipes.addShapeless("lolarecipe32",<bountifulbaubles:spectralsilt>,[<bountifulb
 
 recipes.addShapeless("lolarecipe31x",<bountifulbaubles:spectralsilt>,[<bountifulbaubles:disintegrationtablet>,<bountifulbaubles:phantomprism>]);
 
-recipes.addShaped("lolarecipe33",<advanced-fishing:blazing_fishing_pole>,
- [[null,null,<minecraft:blaze_rod>],
-  [null,<minecraft:blaze_rod>,<ore:string>],
-  [<minecraft:blaze_rod>,<minecraft:magma_cream>,<ore:string>]]);
+//recipes.addShaped("lolarecipe33",<advanced-fishing:blazing_fishing_pole>,
+// [[null,null,<minecraft:blaze_rod>],
+//  [null,<minecraft:blaze_rod>,<ore:string>],
+//  [<minecraft:blaze_rod>,<minecraft:magma_cream>,<ore:string>]]);
   
 recipes.addShapeless("lolarecipe35",<armorunder:auto_chestplate_liner>,[<armorunder:warm_chestplate_liner>,<armorunder:cool_chestplate_liner>]);
 

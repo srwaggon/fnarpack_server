@@ -1,8 +1,0 @@
-{
-  "name" : "dungeon:ice_pyramid_tiny",
-  "exclusive": true,
-  "inherit" : [
-    "dungeon:ice_pyramid",
-    "layout:size_tiny"
-  ]
-}

@@ -1,7 +1,0 @@
-{
-  "name" : "dungeon:mesa_builtin",
-  "exclusive": true,
-  "inherit" : [
-    "builtin:mesa"
-  ]
-}

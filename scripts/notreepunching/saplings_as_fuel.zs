@@ -1,0 +1,13 @@
+furnace.setFuel(<dynamictrees:oakseed>, 100);
+furnace.setFuel(<dynamictrees:spruceseed>, 100);
+furnace.setFuel(<dynamictrees:birchseed>, 100);
+furnace.setFuel(<dynamictrees:jungleseed>, 100);
+furnace.setFuel(<dynamictrees:acaciaseed>, 100);
+furnace.setFuel(<dynamictrees:darkoakseed>, 100);
+furnace.setFuel(<dynamictrees:cactusseed>, 100);
+furnace.setFuel(<dynamictrees:appleseed>, 100);
+furnace.setFuel(<dttraverse:autumn_yellowseed>, 100);
+furnace.setFuel(<dttraverse:autumn_orangeseed>, 100);
+furnace.setFuel(<dttraverse:autumn_redseed>, 100);
+furnace.setFuel(<dttraverse:autumn_brownseed>, 100);
+furnace.setFuel(<dttraverse:firseed>, 100);

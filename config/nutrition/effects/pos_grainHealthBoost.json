@@ -1,0 +1,12 @@
+{
+  "name": "resistance",
+  "potion": "minecraft:health_boost",
+  "amplifier": 0,
+  "minimum": 90,
+  "maximum": 100,
+  "detect": "all",
+  "nutrients": [
+    "grain"
+  ],
+  "enabled": true
+}

@@ -1,0 +1,15 @@
+{
+  "name": "dungeon:cave",
+  "exclusive": true,
+  "inherit": [
+    "dungeon:common",
+    "tower:hole",
+    "theme:cave",
+
+    "filter:muddy",
+    "filter:viney",
+
+    "layout:size_small"
+  ],
+  "criteria" : {"biomeTypes" : ["FOREST", "MESA", "PLAINS", "SANDY", "SNOWY"]}
+}

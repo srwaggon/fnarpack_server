@@ -1,9 +1,9 @@
 {
-	"name": "mining_fatigue",
-	"potion": "minecraft:mining_fatigue",
-	"amplifier": 0,
-	"minimum": 0,
-	"maximum": 20,
-	"detect": "cumulative",
-	"enabled": true
+  "name": "mining_fatigue",
+  "potion": "minecraft:mining_fatigue",
+  "amplifier": 0,
+  "minimum": 0,
+  "maximum": 15,
+  "detect": "cumulative",
+  "enabled": true
 }

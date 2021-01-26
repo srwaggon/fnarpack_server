@@ -1,7 +1,0 @@
-{
-  "name": "demo:loot0",
-  "loot_rules": [
-    {"level": 0, "loot": [{"data": {"type": "enchanted_book", "ench": 5}, "weight": 1}], "each": false, "quantity": 3},
-    {"level": 0, "loot": [{"data": {"type": "specialty", "level": 0}, "weight": 1}], "each": false, "quantity": 1}
-  ]
-}

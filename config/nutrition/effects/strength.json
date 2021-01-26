@@ -1,9 +1,0 @@
-{
-	"name": "strength",
-	"potion": "minecraft:strength",
-	"amplifier": 0,
-	"minimum": 95,
-	"maximum": 100,
-	"detect": "all",
-	"enabled": true
-}

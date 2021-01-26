@@ -3,7 +3,7 @@
   "icon": "minecraft:carrot",
   "color": "72dd5a",
   "enabled": true,
-  "decay": 3.0,
+  "decay": 2.0,
   "food": {
     "oredict": [
       "cropFlax",

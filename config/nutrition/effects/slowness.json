@@ -1,9 +1,9 @@
 {
-	"name": "slowness",
-	"potion": "minecraft:slowness",
-	"amplifier": 0,
-	"minimum": 0,
-	"maximum": 10,
-	"detect": "cumulative",
-	"enabled": true
+  "name": "slowness",
+  "potion": "minecraft:slowness",
+  "amplifier": 0,
+  "minimum": 0,
+  "maximum": 25,
+  "detect": "cumulative",
+  "enabled": true
 }

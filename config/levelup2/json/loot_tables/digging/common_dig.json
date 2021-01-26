@@ -13,7 +13,8 @@
         {"type": "item", "name": "minecraft:stone_sword", "weight": 1, "functions": [{"function": "set_damage", "damage": {"min": 0, "max": 0.90}}]},
         {"type": "item", "name": "minecraft:stone_shovel", "weight": 1, "functions": [{"function": "set_damage", "damage": {"min": 0, "max": 0.90}}]},
         {"type": "item", "name": "minecraft:stone_pickaxe", "weight": 1, "functions": [{"function": "set_damage", "damage": {"min": 0, "max": 0.90}}]},
-        {"type": "item", "name": "minecraft:stone_axe", "weight": 1, "functions": [{"function": "set_damage", "damage": {"min": 0, "max": 0.90}}]}]
+        {"type": "item", "name": "minecraft:stone_axe", "weight": 1, "functions": [{"function": "set_damage", "damage": {"min": 0, "max": 0.90}}]}
+      ]
     }
   ]
 }

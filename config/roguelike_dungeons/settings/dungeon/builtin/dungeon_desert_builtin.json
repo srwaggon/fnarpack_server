@@ -1,7 +1,0 @@
-{
-  "name" : "dungeon:desert_builtin",
-  "exclusive": true,
-  "inherit" : [
-    "builtin:desert"
-  ]
-}

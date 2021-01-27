@@ -20,10 +20,10 @@ chance_to_spawn_nether=10
 disableRuinSpawnCoordsLogging=true
 #
 # minimum distance a template must have from instances of itself
-templateInstancesMinDistance=256
+templateInstancesMinDistance=1024
 #
 # minimum distance a template must have from any other template
-anyRuinsMinDistance=64
+anyRuinsMinDistance=512
 #
 # min/max distances overworld templates can have from world spawn (0 = no limit)
 anySpawnMinDistance=0

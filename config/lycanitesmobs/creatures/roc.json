@@ -2,7 +2,7 @@
   "name": "roc",
   "creatureType": "avian",
   "groups": [
-    "monster"
+    "opportunist"
   ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityRoc",
   "modelClass": "com.lycanitesmobs.client.model.creature.ModelRoc",
@@ -20,7 +20,7 @@
     ],
     "dimensionListType": "blacklist",
     "ignoreBiome": false,
-    "biomes": [
+    "biomeTags": [
       "plains",
       "savanna",
       "forest",
@@ -56,14 +56,19 @@
   "eggForeColor": "#00DD44",
   "subspecies": [
     {
-      "index": 1,
-      "name": "golden",
-      "type": "uncommon"
-    },
-    {
-      "index": 2,
-      "name": "scarlet",
-      "type": "uncommon"
+      "index": 0,
+      "variants": [
+        {
+          "index": 1,
+          "name": "golden",
+          "type": "uncommon"
+        },
+        {
+          "index": 2,
+          "name": "scarlet",
+          "type": "uncommon"
+        }
+      ]
     }
   ],
   "element": "order",
@@ -99,5 +104,10 @@
       "name": "creeperDropping",
       "value": true
     }
+  ],
+  "mountOffset": [
+    0,
+    0.9,
+    0
   ]
 }

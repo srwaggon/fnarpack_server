@@ -21,7 +21,7 @@
     ],
     "dimensionListType": "blacklist",
     "ignoreBiome": false,
-    "biomes": [
+    "biomeTags": [
       "cold",
       "snowy",
       "coniferous",
@@ -57,14 +57,19 @@
   "eggForeColor": "#000099",
   "subspecies": [
     {
-      "index": 1,
-      "name": "russet",
-      "type": "uncommon"
-    },
-    {
-      "index": 2,
-      "name": "violet",
-      "type": "uncommon"
+      "index": 0,
+      "variants": [
+        {
+          "index": 1,
+          "name": "russet",
+          "type": "uncommon"
+        },
+        {
+          "index": 2,
+          "name": "violet",
+          "type": "uncommon"
+        }
+      ]
     }
   ],
   "element": "frost",
@@ -93,8 +98,8 @@
       "chance": 0.25
     },
     {
-      "item": "lycanitesmobs:yetimeatraw",
-      "burningItem": "lycanitesmobs:yetimeatcooked",
+      "item": "lycanitesmobs:raw_yeti_meat",
+      "burningItem": "lycanitesmobs:cooked_yeti_meat",
       "minAmount": 2,
       "maxAmount": 5,
       "chance": 1

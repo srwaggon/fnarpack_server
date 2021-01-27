@@ -21,7 +21,7 @@
     ],
     "dimensionListType": "blacklist",
     "ignoreBiome": false,
-    "biomes": [
+    "biomeTags": [
       "plains",
       "savanna",
       "-snowy"
@@ -43,7 +43,7 @@
   "health": 20,
   "defense": 0,
   "armor": 0,
-  "speed": 32,
+  "speed": 42,
   "damage": 4,
   "attackSpeed": 1,
   "rangedSpeed": 1,
@@ -56,17 +56,25 @@
   "eggForeColor": "#0033FF",
   "subspecies": [
     {
-      "index": 1,
-      "name": "ashen",
-      "type": "uncommon"
-    },
-    {
-      "index": 2,
-      "name": "azure",
-      "type": "uncommon"
+      "index": 0,
+      "variants": [
+        {
+          "index": 1,
+          "name": "ashen",
+          "type": "uncommon"
+        },
+        {
+          "index": 2,
+          "name": "azure",
+          "type": "uncommon"
+        }
+      ]
     }
   ],
-  "element": "order",
+  "elements": [
+    "air",
+    "order"
+  ],
   "diets": [
     "carnivore",
     "piscivore",
@@ -94,5 +102,10 @@
     }
   ],
   "sizeScale": 1,
-  "hitboxScale": 1
+  "hitboxScale": 1,
+  "mountOffset": [
+    0,
+    0.8,
+    0
+  ]
 }

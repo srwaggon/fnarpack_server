@@ -18,11 +18,12 @@
     ],
     "dimensionListType": "blacklist",
     "ignoreBiome": false,
-    "biomes": [
+    "biomeTags": [
       "sandy",
       "wasteland",
       "mesa",
-      "-cold"
+      "-cold",
+      "-snowy"
     ],
     "spawnWeight": 1,
     "dungeonWeight": 0,
@@ -54,14 +55,19 @@
   "eggForeColor": "#FFFF00",
   "subspecies": [
     {
-      "index": 1,
-      "name": "verdant",
-      "type": "uncommon"
-    },
-    {
-      "index": 2,
-      "name": "violet",
-      "type": "uncommon"
+      "index": 0,
+      "variants": [
+        {
+          "index": 1,
+          "name": "verdant",
+          "type": "uncommon"
+        },
+        {
+          "index": 2,
+          "name": "violet",
+          "type": "uncommon"
+        }
+      ]
     }
   ],
   "element": "quake",
@@ -76,8 +82,8 @@
   "dungeonLevel": 1,
   "drops": [
     {
-      "item": "lycanitesmobs:joustmeatraw",
-      "burningItem": "lycanitesmobs:joustmeatcooked",
+      "item": "lycanitesmobs:raw_joust_meat",
+      "burningItem": "lycanitesmobs:cooked_joust_meat",
       "minAmount": 1,
       "maxAmount": 3,
       "chance": 1

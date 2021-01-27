@@ -21,11 +21,12 @@
     ],
     "dimensionListType": "blacklist",
     "ignoreBiome": false,
-    "biomes": [
+    "biomeTags": [
       "sandy",
       "wasteland",
       "mesa",
-      "-cold"
+      "-cold",
+      "-snowy"
     ],
     "spawnWeight": 6,
     "dungeonWeight": 200,
@@ -57,14 +58,19 @@
   "eggForeColor": "#999999",
   "subspecies": [
     {
-      "index": 1,
-      "name": "golden",
-      "type": "uncommon"
-    },
-    {
-      "index": 2,
-      "name": "ashen",
-      "type": "uncommon"
+      "index": 0,
+      "variants": [
+        {
+          "index": 1,
+          "name": "golden",
+          "type": "uncommon"
+        },
+        {
+          "index": 2,
+          "name": "ashen",
+          "type": "uncommon"
+        }
+      ]
     }
   ],
   "element": "gravity",
@@ -86,7 +92,7 @@
       "chance": 0.5
     },
     {
-      "item": "lycanitesmobs:throwingscythe",
+      "item": "lycanitesmobs:throwingscythecharge",
       "minAmount": 2,
       "maxAmount": 7,
       "chance": 1

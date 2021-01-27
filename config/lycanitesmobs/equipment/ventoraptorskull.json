@@ -6,6 +6,10 @@
   "dropChance": 0.2,
   "levelMin": 1,
   "levelMax": 3,
+  "elements": [
+    "air",
+    "order"
+  ],
   "features": [
     {
       "featureType": "slot",
@@ -35,7 +39,7 @@
     },
     {
       "featureType": "effect",
-      "levelMax": 2,
+      "levelMax": 1,
       "effectType": "minecraft:weakness",
       "effectTarget": "target",
       "effectDuration": 40,
@@ -44,7 +48,7 @@
     {
       "featureType": "effect",
       "levelMin": 2,
-      "levelMax": 3,
+      "levelMax": 2,
       "effectType": "minecraft:weakness",
       "effectTarget": "target",
       "effectDuration": 60,

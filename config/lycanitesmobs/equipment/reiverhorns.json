@@ -6,11 +6,14 @@
   "dropChance": 0.1,
   "levelMin": 1,
   "levelMax": 3,
+  "elements": [
+    "frost"
+  ],
   "features": [
     {
       "featureType": "damage",
       "levelMax": 2,
-      "damageAmount": 5,
+      "damageAmount": 8,
       "damageKnockback": 2,
       "damageCooldown": 1,
       "damageRange": 2,
@@ -19,7 +22,7 @@
     {
       "featureType": "damage",
       "levelMin": 3,
-      "damageAmount": 6,
+      "damageAmount": 10,
       "damageKnockback": 3,
       "damageCooldown": 0.75,
       "damageRange": 3,
@@ -36,7 +39,10 @@
       "featureType": "projectile",
       "levelMin": 3,
       "projectileName": "frostbolt",
-      "projectileTrigger": "hold"
+      "projectileTrigger": "secondary",
+      "projectilePattern": "simple",
+      "cooldown": 10,
+      "count": 1
     }
   ]
 }

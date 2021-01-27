@@ -6,6 +6,10 @@
   "dropChance": 0.2,
   "levelMin": 1,
   "levelMax": 3,
+  "elements": [
+    "lightning",
+    "fae"
+  ],
   "features": [
     {
       "featureType": "slot",
@@ -31,7 +35,8 @@
     },
     {
       "featureType": "effect",
-      "levelMax": 2,
+      "levelMin": 1,
+      "levelMax": 1,
       "effectType": "lycanitesmobs:paralysis",
       "effectTarget": "target",
       "effectDuration": 10,
@@ -40,7 +45,7 @@
     {
       "featureType": "effect",
       "levelMin": 2,
-      "levelMax": 3,
+      "levelMax": 2,
       "effectType": "lycanitesmobs:paralysis",
       "effectTarget": "target",
       "effectDuration": 20,
@@ -51,8 +56,16 @@
       "levelMin": 3,
       "effectType": "lycanitesmobs:paralysis",
       "effectTarget": "target",
-      "effectDuration": 40,
+      "effectDuration": 30,
       "effectStrength": 3
+    },
+    {
+      "featureType": "effect",
+      "levelMin": 3,
+      "effectType": "lycanitesmobs:bleed",
+      "effectTarget": "target",
+      "effectDuration": 10,
+      "effectStrength": 1
     }
   ]
 }

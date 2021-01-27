@@ -6,6 +6,7 @@
   "wary": [],
   "flee": [
     "predator",
+    "opportunist",
     "boss"
   ],
   "ignore": [],

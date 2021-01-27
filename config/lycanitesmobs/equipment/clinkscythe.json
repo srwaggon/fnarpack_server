@@ -6,6 +6,10 @@
   "dropChance": 0.1,
   "levelMin": 1,
   "levelMax": 3,
+  "elements": [
+    "earth",
+    "gravity"
+  ],
   "features": [
     {
       "featureType": "harvest",
@@ -54,7 +58,7 @@
       "harvestRange": [
         8,
         1,
-        1
+        4
       ],
       "harvestRangeLevelMultiplier": 1
     },
@@ -67,7 +71,7 @@
       "harvestRange": [
         16,
         1,
-        1
+        8
       ],
       "harvestRangeLevelMultiplier": 1
     },
@@ -95,6 +99,15 @@
       "effectTarget": "target",
       "effectDuration": 80,
       "effectStrength": 1
+    },
+    {
+      "featureType": "projectile",
+      "levelMin": 2,
+      "projectileName": "throwingscythe",
+      "projectileTrigger": "secondary",
+      "projectilePattern": "simple",
+      "cooldown": 10,
+      "count": 1
     }
   ]
 }

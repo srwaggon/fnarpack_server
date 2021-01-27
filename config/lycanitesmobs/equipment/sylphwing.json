@@ -6,6 +6,9 @@
   "dropChance": 0.1,
   "levelMin": 1,
   "levelMax": 3,
+  "elements": [
+    "aether"
+  ],
   "features": [
     {
       "featureType": "slot",
@@ -17,8 +20,7 @@
     },
     {
       "featureType": "effect",
-      "levelMin": 1,
-      "levelMax": 2,
+      "levelMax": 1,
       "effectType": "lycanitesmobs:smited",
       "effectTarget": "target",
       "effectDuration": 60,
@@ -27,7 +29,7 @@
     {
       "featureType": "effect",
       "levelMin": 2,
-      "levelMax": 3,
+      "levelMax": 2,
       "effectType": "lycanitesmobs:smited",
       "effectTarget": "target",
       "effectDuration": 80,
@@ -45,10 +47,11 @@
       "featureType": "projectile",
       "levelMin": 3,
       "projectileName": "aetherwave",
-      "projectileTrigger": "melee",
+      "projectileTrigger": "hit",
       "projectilePattern": "ring",
-      "projectileCount": 8,
-      "projectileChance": 0.25
+      "count": 8,
+      "hitChance": 0.5,
+      "ringRange": 360
     }
   ]
 }

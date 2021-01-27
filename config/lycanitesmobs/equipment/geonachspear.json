@@ -6,6 +6,9 @@
   "dropChance": 0.1,
   "levelMin": 1,
   "levelMax": 3,
+  "elements": [
+    "earth"
+  ],
   "features": [
     {
       "featureType": "harvest",
@@ -50,20 +53,20 @@
     {
       "featureType": "damage",
       "levelMax": 2,
-      "damageAmount": 4,
+      "damageAmount": 8,
       "damageKnockback": 2,
       "damageCooldown": 1,
       "damageRange": 1,
-      "damageSweep": 360
+      "damageSweep": 45
     },
     {
       "featureType": "damage",
       "levelMin": 3,
-      "damageAmount": 5,
+      "damageAmount": 10,
       "damageKnockback": 2,
       "damageCooldown": 0.5,
       "damageRange": 1,
-      "damageSweep": 360
+      "damageSweep": 45
     },
     {
       "featureType": "effect",

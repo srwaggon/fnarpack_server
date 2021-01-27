@@ -4,8 +4,11 @@
   "slotType": "head",
   "dropMobId": "lycanitesmobs:wraith",
   "dropChance": 0.2,
-  "levelMin": 2,
+  "levelMin": 1,
   "levelMax": 3,
+  "elements": [
+    "nether"
+  ],
   "features": [
     {
       "featureType": "slot",
@@ -13,6 +16,16 @@
     },
     {
       "featureType": "damage",
+      "levelMax": 1,
+      "damageAmount": 1,
+      "damageKnockback": 0,
+      "damageCooldown": 1,
+      "damageRange": 1,
+      "damageSweep": 0
+    },
+    {
+      "featureType": "damage",
+      "levelMin": 2,
       "levelMax": 2,
       "damageAmount": 1,
       "damageKnockback": 0,
@@ -31,7 +44,7 @@
     },
     {
       "featureType": "effect",
-      "levelMax": 2,
+      "levelMax": 1,
       "effectType": "minecraft:wither",
       "effectTarget": "target",
       "effectDuration": 40,
@@ -40,7 +53,7 @@
     {
       "featureType": "effect",
       "levelMin": 2,
-      "levelMax": 3,
+      "levelMax": 2,
       "effectType": "minecraft:wither",
       "effectTarget": "target",
       "effectDuration": 60,

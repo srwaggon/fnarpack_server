@@ -6,17 +6,31 @@
   "dropChance": 0.1,
   "levelMin": 1,
   "levelMax": 3,
+  "elements": [
+    "fire"
+  ],
   "features": [
     {
       "featureType": "harvest",
+      "levelMax": 1,
       "harvestType": "sword",
       "harvestShape": "block",
       "harvestRange": [
         1,
         1,
         1
-      ],
-      "harvestRangeLevelMultiplier": 0
+      ]
+    },
+    {
+      "featureType": "harvest",
+      "levelMin": 2,
+      "harvestType": "sword",
+      "harvestShape": "block",
+      "harvestRange": [
+        3,
+        3,
+        3
+      ]
     },
     {
       "featureType": "damage",
@@ -25,7 +39,7 @@
       "damageKnockback": 0,
       "damageCooldown": 1,
       "damageRange": 1,
-      "damageSweep": 45
+      "damageSweep": 90
     },
     {
       "featureType": "damage",
@@ -35,7 +49,7 @@
       "damageKnockback": 0,
       "damageCooldown": 1,
       "damageRange": 1,
-      "damageSweep": 45
+      "damageSweep": 180
     },
     {
       "featureType": "damage",
@@ -44,12 +58,12 @@
       "damageKnockback": 0,
       "damageCooldown": 0.75,
       "damageRange": 1,
-      "damageSweep": 45
+      "damageSweep": 180
     },
     {
       "featureType": "effect",
       "levelMax": 2,
-      "effectType": "fire",
+      "effectType": "burning",
       "effectTarget": "target",
       "effectDuration": 20,
       "effectStrength": 1
@@ -57,7 +71,7 @@
     {
       "featureType": "effect",
       "levelMin": 3,
-      "effectType": "fire",
+      "effectType": "burning",
       "effectTarget": "target",
       "effectDuration": 40,
       "effectStrength": 1

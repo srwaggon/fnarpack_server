@@ -17,7 +17,7 @@
     "dimensionIds": [],
     "dimensionListType": "blacklist",
     "ignoreBiome": false,
-    "biomes": [
+    "biomeTags": [
       "all"
     ],
     "spawnWeight": 1,
@@ -51,14 +51,19 @@
   "eggForeColor": "#00DD00",
   "subspecies": [
     {
-      "index": 1,
-      "name": "violet",
-      "type": "uncommon"
-    },
-    {
-      "index": 2,
-      "name": "verdant",
-      "type": "uncommon"
+      "index": 0,
+      "variants": [
+        {
+          "index": 1,
+          "name": "violet",
+          "type": "uncommon"
+        },
+        {
+          "index": 2,
+          "name": "verdant",
+          "type": "uncommon"
+        }
+      ]
     }
   ],
   "element": "lava",
@@ -104,9 +109,9 @@
       "chance": 1
     },
     {
-      "item": "lycanitesmobs:scorchfirecharge",
-      "minAmount": 1,
-      "maxAmount": 3,
+      "item": "lycanitesmobs:scorchfireballcharge",
+      "minAmount": 10,
+      "maxAmount": 20,
       "chance": 1
     }
   ],

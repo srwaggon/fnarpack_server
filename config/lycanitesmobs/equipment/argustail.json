@@ -6,6 +6,9 @@
   "dropChance": 0.1,
   "levelMin": 1,
   "levelMax": 3,
+  "elements": [
+    "chaos"
+  ],
   "features": [
     {
       "featureType": "slot",
@@ -13,8 +16,7 @@
     },
     {
       "featureType": "effect",
-      "levelMin": 1,
-      "levelMax": 2,
+      "levelMax": 1,
       "effectType": "lycanitesmobs:instability",
       "effectTarget": "target",
       "effectDuration": 40,
@@ -23,7 +25,7 @@
     {
       "featureType": "effect",
       "levelMin": 2,
-      "levelMax": 3,
+      "levelMax": 2,
       "effectType": "lycanitesmobs:instability",
       "effectTarget": "target",
       "effectDuration": 60,
@@ -46,6 +48,15 @@
       "summonCountMin": 1,
       "summonCountMax": 1,
       "sizeScale": 0.4
+    },
+    {
+      "featureType": "projectile",
+      "levelMin": 3,
+      "projectileName": "chaosorb",
+      "projectileTrigger": "primary",
+      "projectilePattern": "simple",
+      "cooldown": 10,
+      "count": 1
     }
   ]
 }

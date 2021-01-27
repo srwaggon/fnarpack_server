@@ -2,7 +2,7 @@
   "name": "remobra",
   "creatureType": "dragon",
   "groups": [
-    "monster"
+    "opportunist"
   ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityRemobra",
   "modelClass": "com.lycanitesmobs.client.model.creature.ModelRemobra",
@@ -20,7 +20,7 @@
     ],
     "dimensionListType": "blacklist",
     "ignoreBiome": false,
-    "biomes": [
+    "biomeTags": [
       "swamp",
       "spooky"
     ],
@@ -54,14 +54,19 @@
   "eggForeColor": "#DD00FF",
   "subspecies": [
     {
-      "index": 1,
-      "name": "golden",
-      "type": "uncommon"
-    },
-    {
-      "index": 2,
-      "name": "verdant",
-      "type": "uncommon"
+      "index": 0,
+      "variants": [
+        {
+          "index": 1,
+          "name": "golden",
+          "type": "uncommon"
+        },
+        {
+          "index": 2,
+          "name": "verdant",
+          "type": "uncommon"
+        }
+      ]
     }
   ],
   "element": "poison",
@@ -74,6 +79,7 @@
   "summonable": true,
   "tameable": false,
   "mountable": false,
+  "perchable": true,
   "summonCost": 2,
   "dungeonLevel": 0,
   "drops": [
@@ -86,8 +92,8 @@
     {
       "item": "lycanitesmobs:venomshotcharge",
       "minAmount": 1,
-      "maxAmount": 2,
-      "chance": 0.5
+      "maxAmount": 3,
+      "chance": 1
     },
     {
       "item": "lycanitesmobs:poisongland",

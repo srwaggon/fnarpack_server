@@ -21,7 +21,7 @@
     ],
     "dimensionListType": "blacklist",
     "ignoreBiome": false,
-    "biomes": [
+    "biomeTags": [
       "swamp",
       "spooky",
       "mushroom"
@@ -56,14 +56,19 @@
   "eggForeColor": "#446600",
   "subspecies": [
     {
-      "index": 1,
-      "name": "dark",
-      "type": "uncommon"
-    },
-    {
-      "index": 2,
-      "name": "violet",
-      "type": "uncommon"
+      "index": 0,
+      "variants": [
+        {
+          "index": 1,
+          "name": "dark",
+          "type": "uncommon"
+        },
+        {
+          "index": 2,
+          "name": "violet",
+          "type": "uncommon"
+        }
+      ]
     }
   ],
   "element": "poison",
@@ -82,11 +87,11 @@
       "item": "minecraft:slime_ball",
       "minAmount": 1,
       "maxAmount": 3,
-      "chance": 0.5
+      "chance": 1
     },
     {
-      "item": "lycanitesmobs:aspidmeatraw",
-      "burningItem": "lycanitesmobs:aspidmeatcooked",
+      "item": "lycanitesmobs:raw_aspid_meat",
+      "burningItem": "lycanitesmobs:cooked_aspid_meat",
       "minAmount": 1,
       "maxAmount": 3,
       "chance": 1

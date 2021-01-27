@@ -56,5 +56,33 @@
       "properties": {}
     },
     "temperature": 12.5
+  },
+  {
+    "state": {
+      "block": "lycanitesmobs:ooze",
+      "properties": {}
+    },
+    "temperature": -15.0
+  },
+  {
+    "state": {
+      "block": "lycanitesmobs:rabbitooze",
+      "properties": {}
+    },
+    "temperature": -15.0
+  },
+  {
+    "state": {
+      "block": "lycanitesmobs:frostfire",
+      "properties": {}
+    },
+    "temperature": -5.0
+  },
+  {
+    "state": {
+      "block": "lycanitesmobs:icefire",
+      "properties": {}
+    },
+    "temperature": -8.0
   }
 ]

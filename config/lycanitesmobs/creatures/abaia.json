@@ -20,7 +20,7 @@
     ],
     "dimensionListType": "blacklist",
     "ignoreBiome": false,
-    "biomes": [
+    "biomeTags": [
       "all"
     ],
     "spawnWeight": 6,
@@ -53,20 +53,25 @@
   "eggForeColor": "#dfb752",
   "subspecies": [
     {
-      "index": 1,
-      "name": "violet",
-      "type": "uncommon"
-    },
-    {
-      "index": 2,
-      "name": "ashen",
-      "type": "uncommon"
-    },
-    {
-      "index": 3,
-      "name": "mottled",
-      "scale": 3,
-      "type": "rare"
+      "index": 0,
+      "variants": [
+        {
+          "index": 1,
+          "name": "violet",
+          "type": "uncommon"
+        },
+        {
+          "index": 2,
+          "name": "ashen",
+          "type": "uncommon"
+        },
+        {
+          "index": 3,
+          "name": "mottled",
+          "scale": 3,
+          "type": "rare"
+        }
+      ]
     }
   ],
   "element": "lightning",
@@ -95,11 +100,11 @@
       "chance": 1
     },
     {
-      "item": "lycanitesmobs:soulstonefreshwater",
+      "item": "lycanitesmobs:soulstone_aquatic",
       "minAmount": 1,
       "maxAmount": 1,
       "chance": 1,
-      "subspecies": 3
+      "variant": 3
     }
   ],
   "sizeScale": 1,

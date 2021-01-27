@@ -17,7 +17,7 @@
     "dimensionIds": [],
     "dimensionListType": "blacklist",
     "ignoreBiome": false,
-    "biomes": [
+    "biomeTags": [
       "end"
     ],
     "spawnWeight": 4,
@@ -42,7 +42,7 @@
   "attackSpeed": 1,
   "rangedSpeed": 1,
   "effectDuration": 5,
-  "effectAmplifier": 0,
+  "effectAmplifier": 1,
   "pierce": 1,
   "sight": 24,
   "knockbackResistance": 1,
@@ -50,14 +50,19 @@
   "eggForeColor": "#e305dc",
   "subspecies": [
     {
-      "index": 1,
-      "name": "scarlet",
-      "type": "uncommon"
-    },
-    {
-      "index": 2,
-      "name": "dark",
-      "type": "uncommon"
+      "index": 0,
+      "variants": [
+        {
+          "index": 1,
+          "name": "scarlet",
+          "type": "uncommon"
+        },
+        {
+          "index": 2,
+          "name": "dark",
+          "type": "uncommon"
+        }
+      ]
     }
   ],
   "element": "chaos",
@@ -82,9 +87,9 @@
     },
     {
       "item": "lycanitesmobs:chaosorbcharge",
-      "minAmount": 1,
-      "maxAmount": 1,
-      "chance": 0.25
+      "minAmount": 3,
+      "maxAmount": 5,
+      "chance": 1
     }
   ],
   "sizeScale": 1,

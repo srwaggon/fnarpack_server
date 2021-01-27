@@ -2,7 +2,7 @@
   "name": "manticore",
   "creatureType": "beast",
   "groups": [
-    "predator"
+    "opportunist"
   ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityManticore",
   "modelClass": "com.lycanitesmobs.client.model.creature.ModelManticore",
@@ -20,11 +20,12 @@
     ],
     "dimensionListType": "blacklist",
     "ignoreBiome": false,
-    "biomes": [
+    "biomeTags": [
       "sandy",
       "wasteland",
       "mesa",
-      "-cold"
+      "-cold",
+      "-snowy"
     ],
     "spawnWeight": 6,
     "dungeonWeight": 200,
@@ -56,14 +57,19 @@
   "eggForeColor": "#990000",
   "subspecies": [
     {
-      "index": 1,
-      "name": "golden",
-      "type": "uncommon"
-    },
-    {
-      "index": 2,
-      "name": "scarlet",
-      "type": "uncommon"
+      "index": 0,
+      "variants": [
+        {
+          "index": 1,
+          "name": "golden",
+          "type": "uncommon"
+        },
+        {
+          "index": 2,
+          "name": "scarlet",
+          "type": "uncommon"
+        }
+      ]
     }
   ],
   "elements": [
@@ -79,6 +85,7 @@
   "summonable": true,
   "tameable": false,
   "mountable": false,
+  "perchable": true,
   "summonCost": 2,
   "dungeonLevel": 1,
   "drops": [

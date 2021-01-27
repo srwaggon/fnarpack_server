@@ -3,7 +3,7 @@
   "loadDefault": true,
   "width": 1.0,
   "height": 1.0,
-  "scale": 2.5,
+  "scale": 1,
   "damage": 3,
   "pierce": 1,
   "knockbackChance": 0.5,
@@ -11,7 +11,7 @@
   "effectAmplifier": 1,
   "velocity": 0.8,
   "weight": 1,
-  "lifetime": 200,
+  "lifetime": 100,
   "elements": [
     "poison"
   ],
@@ -29,5 +29,6 @@
   "impactSound": false,
   "ripper": false,
   "pierceBlocks": false,
-  "glow": false
+  "glow": false,
+  "rollSpeed": 2
 }

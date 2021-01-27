@@ -18,12 +18,14 @@
     ],
     "disableSubspecies": false,
     "dimensionIds": [
-      -1
+      -1,
+      1
     ],
     "dimensionListType": "whitelist",
     "ignoreBiome": true,
-    "biomes": [
-      "nether"
+    "biomeTags": [
+      "nether",
+      "end"
     ],
     "spawnWeight": 8,
     "dungeonWeight": 200,
@@ -55,14 +57,49 @@
   "eggForeColor": "#000000",
   "subspecies": [
     {
-      "index": 1,
-      "name": "verdant",
-      "type": "uncommon"
+      "index": 0,
+      "variants": [
+        {
+          "index": 1,
+          "color": "verdant",
+          "type": "uncommon"
+        },
+        {
+          "index": 2,
+          "color": "lux",
+          "type": "uncommon"
+        }
+      ]
     },
     {
-      "index": 2,
-      "name": "lux",
-      "type": "uncommon"
+      "index": 1,
+      "priority": 1,
+      "name": "void",
+      "modelClass": "com.lycanitesmobs.client.model.creature.ModelTriteVoid",
+      "elements": [
+        "void"
+      ],
+      "conditions": [
+        {
+          "type": "world",
+          "dimensionIds": [
+            1
+          ],
+          "dimensionListType": "whitelist"
+        }
+      ],
+      "variants": [
+        {
+          "index": 1,
+          "color": "ashen",
+          "type": "uncommon"
+        },
+        {
+          "index": 2,
+          "color": "azure",
+          "type": "uncommon"
+        }
+      ]
     }
   ],
   "element": "nether",
@@ -74,6 +111,7 @@
   "summonable": true,
   "tameable": false,
   "mountable": false,
+  "perchable": true,
   "summonCost": 2,
   "dungeonLevel": 1,
   "drops": [

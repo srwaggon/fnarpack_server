@@ -15,7 +15,7 @@
     "dimensionIds": [],
     "dimensionListType": "blacklist",
     "ignoreBiome": false,
-    "biomes": [],
+    "biomeTags": [],
     "spawnWeight": 8,
     "dungeonWeight": 200,
     "spawnAreaLimit": 5,
@@ -46,20 +46,25 @@
   "eggForeColor": "#BBBBCC",
   "subspecies": [
     {
-      "index": 1,
-      "name": "keppel",
-      "type": "uncommon"
-    },
-    {
-      "index": 2,
-      "name": "golden",
-      "type": "uncommon"
-    },
-    {
-      "index": 3,
-      "name": "celestial",
-      "scale": 2,
-      "type": "rare"
+      "index": 0,
+      "variants": [
+        {
+          "index": 1,
+          "name": "keppel",
+          "type": "uncommon"
+        },
+        {
+          "index": 2,
+          "name": "golden",
+          "type": "uncommon"
+        },
+        {
+          "index": 3,
+          "name": "celestial",
+          "scale": 2,
+          "type": "rare"
+        }
+      ]
     }
   ],
   "element": "earth",
@@ -105,21 +110,21 @@
       "minAmount": 1,
       "maxAmount": 3,
       "chance": 1,
-      "subspecies": 3
+      "variant": 3
     },
     {
       "item": "lycanitesmobs:cleansingcrystal",
       "minAmount": 1,
       "maxAmount": 3,
       "chance": 1,
-      "subspecies": 3
+      "variant": 3
     },
     {
-      "item": "lycanitesmobs:soulstonemountain",
+      "item": "lycanitesmobs:soulstone_worm",
       "minAmount": 1,
       "maxAmount": 1,
       "chance": 1,
-      "subspecies": 3
+      "variant": 3
     }
   ],
   "sizeScale": 1,

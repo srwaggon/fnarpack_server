@@ -15,7 +15,7 @@
     "dimensionIds": [],
     "dimensionListType": "blacklist",
     "ignoreBiome": false,
-    "biomes": [],
+    "biomeTags": [],
     "spawnWeight": 8,
     "dungeonWeight": 200,
     "spawnAreaLimit": 5,
@@ -46,14 +46,19 @@
   "eggForeColor": "#FFFF00",
   "subspecies": [
     {
-      "index": 1,
-      "name": "azure",
-      "type": "uncommon"
-    },
-    {
-      "index": 2,
-      "name": "verdant",
-      "type": "uncommon"
+      "index": 0,
+      "variants": [
+        {
+          "index": 1,
+          "name": "azure",
+          "type": "uncommon"
+        },
+        {
+          "index": 2,
+          "name": "verdant",
+          "type": "uncommon"
+        }
+      ]
     }
   ],
   "element": "fire",
@@ -79,8 +84,8 @@
     {
       "item": "lycanitesmobs:embercharge",
       "minAmount": 1,
-      "maxAmount": 1,
-      "chance": 0.25
+      "maxAmount": 3,
+      "chance": 1
     }
   ],
   "sizeScale": 1,

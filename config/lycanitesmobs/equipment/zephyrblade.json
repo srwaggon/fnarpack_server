@@ -3,9 +3,12 @@
   "loadDefault": true,
   "slotType": "blade",
   "dropMobId": "lycanitesmobs:zephyr",
-  "dropChance": 0.1,
+  "dropChance": 0.2,
   "levelMin": 1,
   "levelMax": 3,
+  "elements": [
+    "lightning"
+  ],
   "features": [
     {
       "featureType": "harvest",
@@ -15,8 +18,31 @@
         1,
         1,
         1
+      ]
+    },
+    {
+      "featureType": "harvest",
+      "harvestType": "hoe",
+      "harvestSpeed": 6,
+      "harvestShape": "block",
+      "harvestRange": [
+        1,
+        1,
+        1
       ],
-      "harvestRangeLevelMultiplier": 0
+      "harvestRangeLevelMultiplier": 1
+    },
+    {
+      "featureType": "harvest",
+      "harvestType": "shears",
+      "harvestSpeed": 6,
+      "harvestShape": "block",
+      "harvestRange": [
+        1,
+        1,
+        1
+      ],
+      "harvestRangeLevelMultiplier": 1
     },
     {
       "featureType": "damage",
@@ -25,7 +51,7 @@
       "damageKnockback": 0,
       "damageCooldown": 0.5,
       "damageRange": 1,
-      "damageSweep": 45
+      "damageSweep": 90
     },
     {
       "featureType": "damage",
@@ -35,7 +61,7 @@
       "damageKnockback": 0,
       "damageCooldown": 0.5,
       "damageRange": 1,
-      "damageSweep": 45
+      "damageSweep": 180
     },
     {
       "featureType": "damage",
@@ -44,7 +70,7 @@
       "damageKnockback": 0,
       "damageCooldown": 0.25,
       "damageRange": 1,
-      "damageSweep": 45
+      "damageSweep": 180
     },
     {
       "featureType": "effect",

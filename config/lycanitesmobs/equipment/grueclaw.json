@@ -6,17 +6,19 @@
   "dropChance": 0.1,
   "levelMin": 1,
   "levelMax": 3,
+  "elements": [
+    "shadow"
+  ],
   "features": [
     {
       "featureType": "harvest",
       "harvestType": "shovel",
-      "harvestShape": "cross",
+      "harvestShape": "block",
       "harvestRange": [
         3,
         3,
         3
-      ],
-      "harvestRangeLevelMultiplier": 0
+      ]
     },
     {
       "featureType": "damage",
@@ -25,7 +27,7 @@
       "damageKnockback": 0,
       "damageCooldown": 1,
       "damageRange": 1,
-      "damageSweep": 45
+      "damageSweep": 90
     },
     {
       "featureType": "damage",
@@ -35,7 +37,7 @@
       "damageKnockback": 0,
       "damageCooldown": 1,
       "damageRange": 1,
-      "damageSweep": 45
+      "damageSweep": 90
     },
     {
       "featureType": "damage",
@@ -44,7 +46,7 @@
       "damageKnockback": 0,
       "damageCooldown": 0.75,
       "damageRange": 1,
-      "damageSweep": 45
+      "damageSweep": 180
     },
     {
       "featureType": "effect",

@@ -15,7 +15,7 @@
     "dimensionIds": [],
     "dimensionListType": "blacklist",
     "ignoreBiome": false,
-    "biomes": [],
+    "biomeTags": [],
     "spawnWeight": 8,
     "dungeonWeight": 200,
     "spawnAreaLimit": 5,
@@ -46,14 +46,19 @@
   "eggForeColor": "#008844",
   "subspecies": [
     {
-      "index": 1,
-      "name": "golden",
-      "type": "uncommon"
-    },
-    {
-      "index": 2,
-      "name": "scarlet",
-      "type": "uncommon"
+      "index": 0,
+      "variants": [
+        {
+          "index": 1,
+          "name": "golden",
+          "type": "uncommon"
+        },
+        {
+          "index": 2,
+          "name": "scarlet",
+          "type": "uncommon"
+        }
+      ]
     }
   ],
   "element": "arbour",
@@ -99,13 +104,13 @@
       "item": "lycanitesmobs:immunizer",
       "minAmount": 1,
       "maxAmount": 1,
-      "chance": 0.05
+      "chance": 0.25
     },
     {
       "item": "lycanitesmobs:lifedraincharge",
       "minAmount": 1,
-      "maxAmount": 1,
-      "chance": 0.25
+      "maxAmount": 3,
+      "chance": 1
     }
   ],
   "sizeScale": 1,

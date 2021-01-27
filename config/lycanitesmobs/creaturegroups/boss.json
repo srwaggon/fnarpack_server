@@ -14,6 +14,8 @@
     "entityIds": [
         "iceandfire:firedragon",
 		"iceandfire:icedragon",
-		"minecraft:ender_dragon"
+		"iceandfire:seaserpent",
+		"minecraft:ender_dragon",
+		"minecraft:wither"
     ]
 }

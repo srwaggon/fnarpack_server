@@ -21,11 +21,12 @@
     ],
     "dimensionListType": "blacklist",
     "ignoreBiome": false,
-    "biomes": [
+    "biomeTags": [
       "sandy",
       "wasteland",
       "mesa",
-      "-cold"
+      "-cold",
+      "-snowy"
     ],
     "spawnWeight": 8,
     "dungeonWeight": 200,
@@ -57,14 +58,19 @@
   "eggForeColor": "#2c1c0f",
   "subspecies": [
     {
-      "index": 1,
-      "name": "golden",
-      "type": "uncommon"
-    },
-    {
-      "index": 2,
-      "name": "scarlet",
-      "type": "uncommon"
+      "index": 0,
+      "variants": [
+        {
+          "index": 1,
+          "name": "golden",
+          "type": "uncommon"
+        },
+        {
+          "index": 2,
+          "name": "scarlet",
+          "type": "uncommon"
+        }
+      ]
     }
   ],
   "elements": [

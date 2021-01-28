@@ -2,7 +2,7 @@
   "name": "explosion",
   "type": "spawner",
   "enabled": true,
-  "loadDefault": true,
+  "loadDefault": false,
   "mobCountMin": 1,
   "ignoreDimensions": true,
   "ignoreBiomes": true,
@@ -12,7 +12,7 @@
   "triggers": [
     {
       "type": "explosion",
-      "chance": 0.05,
+      "chance": 0.03,
       "entityTypesListType": "blacklist",
       "entityIds": [
         "lycanitesmobs:tremor"
@@ -22,7 +22,7 @@
     },
     {
       "type": "explosion",
-      "chance": 0.2,
+      "chance": 0.03,
       "playerOnly": true,
       "cooldown": 1200
     }

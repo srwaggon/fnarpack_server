@@ -2,7 +2,7 @@
   "name": "waterfloor",
   "type": "spawner",
   "enabled": true,
-  "loadDefault": true,
+  "loadDefault": false,
   "mobCountMin": 16,
   "ignoreBiomes": false,
   "ignoreLightLevel": false,
@@ -10,7 +10,7 @@
   "triggers": [
     {
       "type": "world",
-      "chance": 0.75,
+      "chance": 0.5,
       "tickRate": 800
     }
   ],

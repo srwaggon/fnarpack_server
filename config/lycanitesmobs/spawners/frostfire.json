@@ -2,7 +2,7 @@
   "name": "frostfire",
   "type": "spawner",
   "enabled": true,
-  "loadDefault": true,
+  "loadDefault": false,
   "mobCountMin": 8,
   "ignoreDimensions": true,
   "ignoreBiomes": true,
@@ -11,8 +11,8 @@
   "triggers": [
     {
       "type": "world",
-      "chance": 0.5,
-      "tickRate": 400
+      "chance": 0.25,
+      "tickRate": 600
     }
   ],
   "locations": [

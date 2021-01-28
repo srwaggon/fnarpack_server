@@ -2,7 +2,7 @@
   "name": "fire",
   "type": "spawner",
   "enabled": true,
-  "loadDefault": true,
+  "loadDefault": false,
   "mobCountMin": 8,
   "ignoreDimensions": true,
   "ignoreBiomes": true,
@@ -19,8 +19,8 @@
   "triggers": [
     {
       "type": "world",
-      "chance": 0.5,
-      "tickRate": 400
+      "chance": 0.25,
+      "tickRate": 600
     }
   ],
   "locations": [
@@ -40,7 +40,7 @@
       "blocks": [
         "minecraft:fire"
       ],
-      "blockCost": 8,
+      "blockCost": 12,
       "listType": "whitelist"
     }
   ],

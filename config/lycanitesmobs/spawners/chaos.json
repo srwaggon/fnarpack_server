@@ -1,9 +1,9 @@
 {
   "name": "chaos",
   "type": "spawner",
-  "enabled": true,
+  "enabled": false,
   "triggersRequired": 3,
-  "loadDefault": false,
+  "loadDefault": true,
   "mobCountMin": 1,
   "ignoreDimensions": true,
   "ignoreBiomes": true,

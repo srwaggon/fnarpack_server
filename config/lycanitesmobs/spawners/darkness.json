@@ -1,7 +1,7 @@
 {
   "name": "darkness",
   "type": "spawner",
-  "enabled": true,
+  "enabled": false,
   "conditionsRequired": 0,
   "triggersRequired": 3,
   "multipleLocations": "combine",
@@ -17,8 +17,8 @@
     {
       "type": "player",
       "count": 1,
-      "chance": 0.2,
-      "tickRate": 600,
+      "chance": 0.75,
+      "tickRate": 100,
       "conditions": [
         {
           "type": "player",

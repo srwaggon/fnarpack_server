@@ -2,8 +2,8 @@
   "name": "nether",
   "type": "spawner",
   "enabled": true,
-  "loadDefault": false,
-  "mobCountMin": 8,
+  "loadDefault": true,
+  "mobCountMin": 6,
   "ignoreBiomes": true,
   "ignoreLightLevel": true,
   "conditions": [
@@ -18,8 +18,8 @@
   "triggers": [
     {
       "type": "world",
-      "chance": 0.20,
-      "tickRate": 1200
+      "chance": 1,
+      "tickRate": 800
     }
   ],
   "locations": [

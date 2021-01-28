@@ -2,8 +2,8 @@
   "name": "nethersky",
   "type": "spawner",
   "enabled": true,
-  "loadDefault": false,
-  "mobCountMin": 4,
+  "loadDefault": true,
+  "mobCountMin": 2,
   "ignoreBiomes": true,
   "ignoreLightLevel": true,
   "conditions": [
@@ -18,8 +18,8 @@
   "triggers": [
     {
       "type": "world",
-      "chance": 0.5,
-      "tickRate": 1600
+      "chance": 0.25,
+      "tickRate": 800
     }
   ],
   "locations": [

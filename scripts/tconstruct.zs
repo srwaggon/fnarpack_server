@@ -4,4 +4,4 @@ mods.tconstruct.Melting.addRecipe(<liquid:stone> * 18,<notreepunching:rock/andes
 mods.tconstruct.Melting.addRecipe(<liquid:stone> * 18,<notreepunching:rock/granite>);
 mods.tconstruct.Melting.addRecipe(<liquid:stone> * 18,<notreepunching:rock/diorite>);
 
-mods.tconstruct.Melting.addRecipe(<liquid:glass> * 18,<notreepunching:rock/sandstone>);
+// mods.tconstruct.Melting.addRecipe(<liquid:glass> * 18,<notreepunching:rock/sandstone>);

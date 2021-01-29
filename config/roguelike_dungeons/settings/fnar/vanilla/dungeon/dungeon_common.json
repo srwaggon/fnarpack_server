@@ -2,6 +2,7 @@
   "name": "dungeon:common",
   "exclusive": false,
   "inherit": [
-    "dungeon:generic"
+    "dungeon:generic",
+    "main:fnarpack"
   ]
 }

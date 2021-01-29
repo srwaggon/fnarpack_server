@@ -1,0 +1,1 @@
+xcopy /E /I %USERPROFILE%\workspace\minecraft-roguelike\roguelike-core\src\main\resources\settings settings

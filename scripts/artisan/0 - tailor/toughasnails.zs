@@ -1,7 +1,10 @@
 import mods.artisanworktables.builder.RecipeBuilder;
 
 recipes.remove(<toughasnails:wool_helmet>);
-RecipeBuilder.get("tailor")
+
+var tailorTable = RecipeBuilder.get("tailor");
+
+tailorTable
   .setShaped([
     [<ore:materialCloth>, <ore:materialCloth>, <ore:materialCloth>],
     [<ore:materialCloth>, null, <ore:materialCloth>]])
@@ -10,17 +13,17 @@ RecipeBuilder.get("tailor")
   .create();
 
 recipes.remove(<toughasnails:wool_chestplate>);
-RecipeBuilder.get("tailor")
+tailorTable
   .setShaped([
     [<ore:materialCloth>, null, <ore:materialCloth>],
-    [<ore:materialCloth>, <harvestcraft:wovencottonitem>, <ore:materialCloth>],
-    [<ore:materialCloth>, <harvestcraft:wovencottonitem>, <ore:materialCloth>]])
+    [<ore:materialCloth>, <ore:materialCloth>, <ore:materialCloth>],
+    [<ore:materialCloth>, <ore:materialCloth>, <ore:materialCloth>]])
   .addTool(<ore:artisansNeedle>, 8)
   .addOutput(<toughasnails:wool_chestplate>)
   .create();
 
 recipes.remove(<toughasnails:wool_leggings>);
-RecipeBuilder.get("tailor")
+tailorTable
   .setShaped([
     [<ore:materialCloth>, <ore:materialCloth>, <ore:materialCloth>],
     [<ore:materialCloth>, null, <ore:materialCloth>],
@@ -30,7 +33,7 @@ RecipeBuilder.get("tailor")
   .create();
 
 recipes.remove(<toughasnails:wool_boots>);
-RecipeBuilder.get("tailor")
+tailorTable
   .setShaped([
     [<ore:materialCloth>, null, <ore:materialCloth>],
     [<ore:materialCloth>, null, <ore:materialCloth>]])

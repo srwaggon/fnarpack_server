@@ -1,6 +1,7 @@
 import mods.artisanworktables.builder.RecipeBuilder;
 
 recipes.remove(<minecraft:enchanting_table>);
+
 RecipeBuilder.get("mage")
   .setShaped([
     [null, <minecraft:book>, null],

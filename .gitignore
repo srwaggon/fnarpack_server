@@ -43,3 +43,4 @@ config/multimine.cfg
 /usercache.json
 /usernamecache.json
 /whitelist.json
+/.idea/

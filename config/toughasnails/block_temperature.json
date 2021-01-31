@@ -1,17 +1,31 @@
 [
   {
     "state": {
+      "block": "minecraft:snow_layer",
+      "properties": {}
+    },
+    "temperature": -2.0
+  },
+  {
+    "state": {
+      "block": "minecraft:snow",
+      "properties": {}
+    },
+    "temperature": -4.0
+  },
+  {
+    "state": {
       "block": "minecraft:ice",
       "properties": {}
     },
-    "temperature": -1.0
+    "temperature": -8.0
   },
   {
     "state": {
       "block": "minecraft:packed_ice",
       "properties": {}
     },
-    "temperature": -1.0
+    "temperature": -15.0
   },
   {
     "state": {

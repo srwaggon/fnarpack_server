@@ -108,11 +108,6 @@ recipes.addShaped("lolarecipe7",<minecraft:golden_apple:1>,
 
 recipes.addShapeless("lolarecipe8",<minecraft:string>*4,[<minecraft:wool:*>]);
 
-recipes.addShaped("lolarecipe9",<minecraft:packed_ice>,
- [[<toughasnails:ice_cube>,<toughasnails:ice_cube>,<toughasnails:ice_cube>],
-  [<toughasnails:ice_cube>,<toughasnails:ice_cube>,<toughasnails:ice_cube>],
-  [<toughasnails:ice_cube>,<toughasnails:ice_cube>,<toughasnails:ice_cube>]]);
-
 recipes.addShapeless("lolarecipe10",<firstaid:plaster>,[<ore:string>,<minecraft:paper>]);
 
 recipes.addShaped("lolarecipe11",<firstaid:bandage>*2,
@@ -192,18 +187,6 @@ recipes.addShaped("lolarecipe25",<xat:wither_ring>,
  [[<xat:glowing_ingot>,<minecraft:iron_ingot>,<xat:glowing_ingot>],
   [<minecraft:iron_ingot>,<minecraft:skull:1>|<iceandfire:dragon_skull:1>,<minecraft:iron_ingot>],
   [<xat:glowing_ingot>,<minecraft:iron_ingot>,<xat:glowing_ingot>]]);
-
-
-recipes.remove(<toughasnails:campfire>);
-recipes.addShaped("shiv_campfire0",<toughasnails:campfire>,
- [[null,<realistictorches:matchbox>.anyDamage().transformDamage(),null],
-  [null,<ore:logWood>,null],
-  [<ore:logWood>,<ore:logWood>,<ore:logWood>]]);
-
-recipes.addShaped("shiv_campfire1",<toughasnails:campfire>,
- [[null,<minecraft:flint_and_steel>.anyDamage().transformDamage(),null],
-  [null,<ore:logWood>,null],
-  [<ore:logWood>,<ore:logWood>,<ore:logWood>]]);
 
 recipes.addShaped("lolarecipe27",<bountifulbaubles:crowngold>,
  [[null,<defiledlands:scarlite>,null],

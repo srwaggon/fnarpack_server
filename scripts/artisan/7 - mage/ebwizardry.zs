@@ -19,3 +19,13 @@ RecipeBuilder.get("mage")
   .addTool(<ore:artisansGrimoire>, 1)
   .addOutput(<ebwizardry:magic_wand>)
   .create();
+
+recipes.remove(<ebwizardry:magic_silk>);
+RecipeBuilder.get("mage")
+  .setShaped([
+    [null, <ore:materialCloth>, null],
+    [<ore:materialCloth>, <ebwizardry:magic_crystal>, <ore:materialCloth>],
+    [null, <ore:materialCloth>, null]])
+  .addTool(<ore:artisansNeedle>, 5)
+  .addOutput(<ebwizardry:magic_silk>)
+  .create();

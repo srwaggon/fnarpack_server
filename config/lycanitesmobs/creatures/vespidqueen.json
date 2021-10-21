@@ -1,6 +1,6 @@
 {
   "name": "vespidqueen",
-  "creatureType": "arthropod",
+  "creatureType": "insect",
   "groups": [
     "predator"
   ],
@@ -50,6 +50,7 @@
   "pierce": 1,
   "sight": 24,
   "knockbackResistance": 0.25,
+  "bagSize": 5,
   "eggBackColor": "#223300",
   "eggForeColor": "#FFCC00",
   "subspecies": [

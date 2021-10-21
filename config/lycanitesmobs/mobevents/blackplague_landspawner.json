@@ -45,6 +45,10 @@
     {
       "mobId": "lycanitesmobs:ghoul",
       "weight": 4
+    },
+    {
+      "mobId": "lycanitesmobs:necrovore",
+      "weight": 8
     }
   ]
 }

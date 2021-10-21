@@ -49,6 +49,8 @@
   "pierce": 1,
   "sight": 32,
   "knockbackResistance": 0.25,
+  "bagSize": 5,
+  "tamingReputation": 1000,
   "eggBackColor": "#442211",
   "eggForeColor": "#44AA33",
   "subspecies": [
@@ -69,7 +71,7 @@
     }
   ],
   "elements": [
-    "gravity",
+    "arcane",
     "void"
   ],
   "diets": [

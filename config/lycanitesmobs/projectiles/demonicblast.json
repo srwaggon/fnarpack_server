@@ -36,5 +36,7 @@
   "ripper": false,
   "pierceBlocks": false,
   "glow": true,
-  "rollSpeed": 2
+  "rollSpeed": 8,
+  "waterParticleType": "bubble",
+  "animationFrames": 8
 }

@@ -44,3 +44,4 @@ config/multimine.cfg
 /usernamecache.json
 /whitelist.json
 /.idea/
+/debug/

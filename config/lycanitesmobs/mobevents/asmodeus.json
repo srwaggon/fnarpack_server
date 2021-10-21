@@ -8,8 +8,19 @@
   "conditions": [
     {
       "type": "world",
-      "dimensionIds": [],
-      "dimensionListType": "blacklist"
+      "dimensionIds": [
+        1
+      ],
+      "dimensionListType": "whitelist"
+    },
+    {
+      "type": "player",
+      "position": [
+        0,
+        70,
+        0
+      ],
+      "positionDistanceMin": 500
     }
   ],
   "levelBoostMax": 0,

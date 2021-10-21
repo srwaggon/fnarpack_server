@@ -1,15 +1,5 @@
 import mods.artisanworktables.builder.RecipeBuilder;
 
-recipes.remove(<ebwizardry:magic_silk>);
-RecipeBuilder.get("tailor")
-  .setShaped([
-    [null, <ore:materialCloth>, null],
-    [<ore:materialCloth>, <ebwizardry:magic_crystal>, <ore:materialCloth>],
-    [null, <ore:materialCloth>, null]])
-  .addTool(<ore:artisansNeedle>, 5)
-  .addOutput(<ebwizardry:magic_silk>)
-  .create();
-
 recipes.remove(<ebwizardry:wizard_hat>);
 RecipeBuilder.get("tailor")
   .setShaped([

@@ -47,6 +47,8 @@
   "sight": 24,
   "knockbackResistance": 0.5,
   "packSize": 1,
+  "bagSize": 5,
+  "tamingReputation": 3000,
   "eggBackColor": "#BB0000",
   "eggForeColor": "#00DD00",
   "subspecies": [
@@ -109,7 +111,7 @@
       "chance": 1
     },
     {
-      "item": "lycanitesmobs:scorchfireballcharge",
+      "item": "lycanitesmobs:primeembercharge",
       "minAmount": 10,
       "maxAmount": 20,
       "chance": 1

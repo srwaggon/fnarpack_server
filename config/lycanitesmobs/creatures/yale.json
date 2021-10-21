@@ -1,6 +1,6 @@
 {
   "name": "yale",
-  "creatureType": "beast",
+  "creatureType": "aberration",
   "groups": [
     "animal"
   ],
@@ -50,6 +50,7 @@
   "pierce": 1,
   "sight": 24,
   "knockbackResistance": 0.25,
+  "bagSize": 5,
   "eggBackColor": "#FFEEAA",
   "eggForeColor": "#FFDD77",
   "subspecies": [

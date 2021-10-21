@@ -1,0 +1,24 @@
+{
+  "name": "fnarpack:loot_food",
+  "lootRules": [
+    {
+      "level": [0, 1, 2, 3, 4],
+      "each": true,
+      "type": "FOOD",
+      "quantity": 3,
+      "loot": [
+        {"data": {"name": "toughasnails:purified_water_bottle", "meta": 0}, "weight": 20},
+        {"data": {"name": "toughasnails:fruit_juice", "meta": 0}},
+        {"data": {"name": "toughasnails:fruit_juice", "meta": 1}},
+        {"data": {"name": "toughasnails:fruit_juice", "meta": 2}},
+        {"data": {"name": "toughasnails:fruit_juice", "meta": 3}},
+        {"data": {"name": "toughasnails:fruit_juice", "meta": 4}},
+        {"data": {"name": "toughasnails:fruit_juice", "meta": 5}},
+        {"data": {"name": "toughasnails:fruit_juice", "meta": 6}},
+        {"data": {"name": "toughasnails:fruit_juice", "meta": 7}},
+        {"data": {"name": "toughasnails:fruit_juice", "meta": 8}},
+        {"data": {"name": "toughasnails:fruit_juice", "meta": 9}}
+      ]
+    }
+  ]
+}

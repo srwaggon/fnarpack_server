@@ -25,7 +25,7 @@
     "biomeTags": [
       "nether"
     ],
-    "spawnWeight": 4,
+    "spawnWeight": 2,
     "dungeonWeight": 200,
     "spawnAreaLimit": 5,
     "spawnGroupMin": 1,
@@ -39,10 +39,10 @@
   "width": 1.0,
   "height": 3.5,
   "experience": 10,
-  "health": 40,
-  "defense": 2,
+  "health": 100,
+  "defense": 3,
   "armor": 0,
-  "speed": 24,
+  "speed": 28,
   "damage": 2,
   "attackSpeed": 1,
   "rangedSpeed": 0.75,
@@ -51,6 +51,7 @@
   "pierce": 1,
   "sight": 24,
   "knockbackResistance": 0.25,
+  "bagSize": 5,
   "eggBackColor": "#FF2222",
   "eggForeColor": "#FF9900",
   "subspecies": [

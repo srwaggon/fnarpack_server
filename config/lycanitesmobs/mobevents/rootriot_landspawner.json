@@ -45,6 +45,10 @@
     {
       "mobId": "lycanitesmobs:triffid",
       "weight": 8
+    },
+    {
+      "mobId": "lycanitesmobs:tpumpkyn",
+      "weight": 4
     }
   ]
 }

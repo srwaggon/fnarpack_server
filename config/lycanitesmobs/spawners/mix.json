@@ -10,6 +10,7 @@
   "ignoreLightLevel": true,
   "ignoreGroupLimit": true,
   "ignoreForgeCanSpawnEvent": true,
+  "dropsRequirePlayerDamage": true,
   "conditions": [],
   "triggers": [
     {

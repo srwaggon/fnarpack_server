@@ -1,6 +1,6 @@
 {
   "name": "joustalpha",
-  "creatureType": "arthropod",
+  "creatureType": "insect",
   "groups": [
     "alpha"
   ],
@@ -51,6 +51,7 @@
   "pierce": 1,
   "sight": 24,
   "knockbackResistance": 0.25,
+  "bagSize": 5,
   "eggBackColor": "#FF0000",
   "eggForeColor": "#FFFF00",
   "subspecies": [

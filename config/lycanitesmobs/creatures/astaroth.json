@@ -53,6 +53,7 @@
   "pierce": 1,
   "sight": 40,
   "knockbackResistance": 1,
+  "bagSize": 5,
   "eggBackColor": "#999944",
   "eggForeColor": "#0000FF",
   "subspecies": [
@@ -115,7 +116,7 @@
   "summonable": true,
   "tameable": false,
   "mountable": false,
-  "summonCost": 5,
+  "summonCost": 3,
   "dungeonLevel": 3,
   "drops": [
     {

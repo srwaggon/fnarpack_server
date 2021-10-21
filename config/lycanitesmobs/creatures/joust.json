@@ -1,6 +1,6 @@
 {
   "name": "joust",
-  "creatureType": "arthropod",
+  "creatureType": "insect",
   "groups": [
     "animal",
     "hardy"
@@ -55,6 +55,7 @@
   "pierce": 1,
   "sight": 24,
   "knockbackResistance": 0.25,
+  "bagSize": 5,
   "eggBackColor": "#FF9900",
   "eggForeColor": "#FFFF00",
   "subspecies": [

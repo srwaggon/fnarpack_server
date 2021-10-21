@@ -1,6 +1,6 @@
 {
   "name": "ika",
-  "creatureType": "aquatic",
+  "creatureType": "worm",
   "groups": [
     "animal"
   ],
@@ -50,6 +50,7 @@
   "pierce": 1,
   "sight": 24,
   "knockbackResistance": 0.5,
+  "bagSize": 5,
   "eggBackColor": "#99FFBB",
   "eggForeColor": "#229944",
   "subspecies": [

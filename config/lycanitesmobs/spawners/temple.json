@@ -25,7 +25,7 @@
       ],
       "rangeMax": [
         32,
-        32,
+        255,
         32
       ],
       "sorting": "random",
@@ -42,7 +42,7 @@
       ],
       "rangeMax": [
         16,
-        16,
+        255,
         16
       ],
       "sorting": "random",

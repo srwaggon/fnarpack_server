@@ -1,6 +1,6 @@
 {
   "name": "wildkin",
-  "creatureType": "brute",
+  "creatureType": "anthronian",
   "groups": [
     "raider"
   ],
@@ -52,6 +52,8 @@
   "pierce": 1,
   "sight": 24,
   "knockbackResistance": 1,
+  "bagSize": 10,
+  "tamingReputation": 500,
   "eggBackColor": "#433929",
   "eggForeColor": "#766f5a",
   "subspecies": [

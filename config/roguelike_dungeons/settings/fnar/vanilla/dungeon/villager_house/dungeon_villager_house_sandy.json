@@ -1,9 +1,9 @@
 {
-  "name": "dungeon:villager_house_sandy",
+  "name": "fnar:dungeon_villager_house_sandy",
   "exclusive": true,
-  "criteria" : {"biomeTypes" : ["SANDY"]},
+  "criteria": {"biomeTypes": ["SANDY"]},
   "inherit": [
-    "dungeon:common",
+    "fnar:dungeon_base",
     "rooms:traps_few",
     "rooms:undead",
     "segments:traps_few",
@@ -11,8 +11,7 @@
     "spawners:undead"
   ],
   "filters": [
-    {"level": [1, 2, 3], "name": "vine"},
-    {"level": [1, 3], "name": "cobweb"},
+    {"level": [3], "name": "vine"},
     {"level": [4], "name": "mud"}
   ],
   "rooms": [

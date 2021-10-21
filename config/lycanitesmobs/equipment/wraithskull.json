@@ -3,7 +3,7 @@
   "loadDefault": true,
   "slotType": "head",
   "dropMobId": "lycanitesmobs:wraith",
-  "dropChance": 0.2,
+  "dropChance": 0.25,
   "levelMin": 1,
   "levelMax": 3,
   "elements": [

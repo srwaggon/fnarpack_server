@@ -19,7 +19,8 @@
     "ignoreBiome": false,
     "biomeTags": [
       "spooky",
-      "end"
+      "end",
+      "sky_deadly"
     ],
     "spawnWeight": 4,
     "dungeonWeight": 200,
@@ -47,6 +48,8 @@
   "pierce": 1,
   "sight": 24,
   "knockbackResistance": 0,
+  "bagSize": 5,
+  "tamingReputation": 1000,
   "eggBackColor": "#553300",
   "eggForeColor": "#FF22DD",
   "subspecies": [
@@ -71,7 +74,7 @@
       ]
     }
   ],
-  "element": "void",
+  "element": "shadow",
   "diets": [
     "carnivore",
     "insectivore",

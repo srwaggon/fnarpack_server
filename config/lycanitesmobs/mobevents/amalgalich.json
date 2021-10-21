@@ -10,6 +10,10 @@
       "type": "world",
       "dimensionIds": [],
       "dimensionListType": "blacklist"
+    },
+    {
+      "type": "player",
+      "spawnDistanceMin": 5000
     }
   ],
   "levelBoostMax": 0,

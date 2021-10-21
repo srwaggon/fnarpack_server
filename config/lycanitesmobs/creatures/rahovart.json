@@ -46,6 +46,7 @@
   "pierce": 2,
   "sight": 64,
   "knockbackResistance": 1,
+  "bagSize": 5,
   "eggBackColor": "#000000",
   "eggForeColor": "#FF0000",
   "boss": true,

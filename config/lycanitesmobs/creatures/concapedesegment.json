@@ -1,6 +1,6 @@
 {
   "name": "concapedesegment",
-  "creatureType": "arthropod",
+  "creatureType": "insect",
   "groups": [
     "animal"
   ],
@@ -38,7 +38,7 @@
   "health": 5,
   "defense": 0,
   "armor": 0,
-  "speed": 28,
+  "speed": 30,
   "damage": 1,
   "attackSpeed": 1,
   "rangedSpeed": 1,
@@ -47,6 +47,7 @@
   "pierce": 1,
   "sight": 24,
   "knockbackResistance": 0,
+  "bagSize": 5,
   "eggBackColor": "#000022",
   "eggForeColor": "#990000",
   "subspecies": [

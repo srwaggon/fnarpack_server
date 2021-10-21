@@ -1,7 +1,7 @@
 {
   "name": "sleep",
   "type": "spawner",
-  "enabled": true,
+  "enabled": false,
   "loadDefault": false,
   "mobCountMin": 1,
   "ignoreDimensions": true,
@@ -14,7 +14,7 @@
   "triggers": [
     {
       "type": "sleep",
-      "chance": 0.05,
+      "chance": 0.01,
       "cooldown": 2400
     }
   ],

@@ -3,7 +3,7 @@
   "loadDefault": true,
   "slotType": "base",
   "dropMobId": "lycanitesmobs:wendigo",
-  "dropChance": 0.3,
+  "dropChance": 0.2,
   "levelMin": 1,
   "levelMax": 3,
   "elements": [
@@ -62,6 +62,36 @@
       "damageCooldown": 1,
       "damageRange": 1,
       "damageSweep": 90
+    },
+    {
+      "featureType": "projectile",
+      "levelMax": 1,
+      "projectileName": "tundra",
+      "projectileTrigger": "secondary",
+      "projectilePattern": "simple",
+      "cooldown": 20,
+      "count": 1
+    },
+    {
+      "featureType": "projectile",
+      "levelMin": 2,
+      "levelMax": 2,
+      "projectileName": "tundra",
+      "projectileTrigger": "secondary",
+      "projectilePattern": "simple",
+      "cooldown": 16,
+      "count": 1,
+      "bonusDamage": 1
+    },
+    {
+      "featureType": "projectile",
+      "levelMin": 3,
+      "projectileName": "tundra",
+      "projectileTrigger": "secondary",
+      "projectilePattern": "simple",
+      "cooldown": 8,
+      "count": 1,
+      "bonusDamage": 2
     }
   ]
 }

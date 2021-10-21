@@ -2,7 +2,8 @@
   "name": "conba",
   "creatureType": "beast",
   "groups": [
-    "monster"
+    "monster",
+    "animal"
   ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityConba",
   "modelClass": "com.lycanitesmobs.client.model.creature.ModelConba",
@@ -50,6 +51,7 @@
   "pierce": 1,
   "sight": 24,
   "knockbackResistance": 0,
+  "bagSize": 5,
   "eggBackColor": "#665500",
   "eggForeColor": "#CC99BB",
   "subspecies": [
@@ -69,7 +71,7 @@
       ]
     }
   ],
-  "element": "gravity",
+  "element": "arcane",
   "diets": [
     "frugivore"
   ],

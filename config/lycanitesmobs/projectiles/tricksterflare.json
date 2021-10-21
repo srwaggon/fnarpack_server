@@ -36,5 +36,9 @@
   "ripper": false,
   "pierceBlocks": false,
   "glow": true,
-  "rollSpeed": 4
+  "rollSpeed": 8,
+  "particleCount": 5,
+  "particleType": "witchMagic",
+  "waterParticleType": "bubble",
+  "animationFrames": 8
 }

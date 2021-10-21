@@ -1,6 +1,6 @@
 {
   "name": "aglebemu",
-  "creatureType": "aquatic",
+  "creatureType": "amphibian",
   "groups": [
     "monster"
   ],
@@ -52,6 +52,7 @@
   "pierce": 1,
   "sight": 24,
   "knockbackResistance": 0,
+  "bagSize": 5,
   "eggBackColor": "#047f0a",
   "eggForeColor": "#c3a85b",
   "subspecies": [

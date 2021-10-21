@@ -23,5 +23,9 @@
   "ripper": false,
   "pierceBlocks": false,
   "glow": true,
-  "rollSpeed": 4
+  "rollSpeed": 4,
+  "particleCount": 5,
+  "particleType": "happyVillager",
+  "waterParticleType": "bubble",
+  "animationFrames": 8
 }

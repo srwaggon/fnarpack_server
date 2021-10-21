@@ -42,6 +42,7 @@
   "pierce": 1,
   "sight": 24,
   "knockbackResistance": 1,
+  "bagSize": 5,
   "eggBackColor": "#a1b5bf",
   "eggForeColor": "#232d2e",
   "subspecies": [
@@ -99,7 +100,7 @@
   "flags": [
     {
       "name": "explosionStrength",
-      "value": 1
+      "value": 0
     }
   ]
 }

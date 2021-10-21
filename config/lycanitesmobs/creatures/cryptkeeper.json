@@ -54,6 +54,7 @@
   "pierce": 1,
   "sight": 24,
   "knockbackResistance": 0,
+  "bagSize": 5,
   "eggBackColor": "#CC9966",
   "eggForeColor": "#AA8800",
   "subspecies": [
@@ -73,7 +74,7 @@
       ]
     }
   ],
-  "element": "gravity",
+  "element": "arcane",
   "diets": [
     "carnivore",
     "detritivore"

@@ -1,6 +1,6 @@
 {
   "name": "lurker",
-  "creatureType": "arthropod",
+  "creatureType": "insect",
   "groups": [
     "predator"
   ],
@@ -53,6 +53,8 @@
   "pierce": 1,
   "sight": 24,
   "knockbackResistance": 0,
+  "bagSize": 5,
+  "tamingReputation": 250,
   "eggBackColor": "#009900",
   "eggForeColor": "#99FF00",
   "subspecies": [
@@ -74,7 +76,7 @@
   ],
   "elements": [
     "poison",
-    "shadow"
+    "chaos"
   ],
   "diets": [
     "carnivore",

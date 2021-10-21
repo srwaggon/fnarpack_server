@@ -3,7 +3,7 @@
   "icon": "minecraft:milk_bucket",
   "color": "a0d4f7",
   "enabled": true,
-  "decay": 2.0,
+  "decay": 1.5,
   "food": {
     "oredict": [
       "foodButter",

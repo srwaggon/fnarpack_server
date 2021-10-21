@@ -1,6 +1,6 @@
 {
   "name": "thresher",
-  "creatureType": "aquatic",
+  "creatureType": "reptile",
   "groups": [
     "predator"
   ],
@@ -52,6 +52,8 @@
   "pierce": 2,
   "sight": 32,
   "knockbackResistance": 1,
+  "bagSize": 10,
+  "tamingReputation": 2000,
   "packSize": 1,
   "eggBackColor": "#77747e",
   "eggForeColor": "#3f4567",

@@ -31,8 +31,8 @@
   "height": 1.6,
   "experience": 10,
   "health": 20,
-  "defense": 3,
-  "armor": 0,
+  "defense": 2,
+  "armor": 1,
   "speed": 24,
   "damage": 1,
   "attackSpeed": 8,
@@ -42,6 +42,7 @@
   "pierce": 1,
   "sight": 24,
   "knockbackResistance": 1,
+  "bagSize": 5,
   "eggBackColor": "#37c8e3",
   "eggForeColor": "#f1f0dc",
   "subspecies": [

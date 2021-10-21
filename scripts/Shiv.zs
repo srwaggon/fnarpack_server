@@ -6,6 +6,7 @@
 
 recipes.remove(<firstaid:plaster>);
 recipes.remove(<firstaid:bandage>);
+recipes.remove(<firstaid:bandage>);
 
 recipes.remove(<xat:weightless_stone>);
 recipes.remove(<xat:fairy_ring>);
@@ -77,8 +78,6 @@ recipes.removeByRecipeName("notreepunching:tools/fire_starter");
 
 recipes.remove(<wolfarmor:chainmail_wolf_armor>);
 
-recipes.remove(<firstaid:bandage>);
-
 recipes.remove(<waystones:waystone>);
 recipes.remove(<waystones:warp_stone>);
 brewing.addBrew(<minecraft:potion>.withTag({Potion: "minecraft:awkward"}), <waystones:warp_scroll>, <bountifulbaubles:potionrecall>);
@@ -107,11 +106,6 @@ recipes.addShaped("lolarecipe7",<minecraft:golden_apple:1>,
   [<minecraft:gold_block>,<minecraft:gold_block>,<minecraft:gold_block>]]);
 
 recipes.addShapeless("lolarecipe8",<minecraft:string>*4,[<minecraft:wool:*>]);
-
-recipes.addShapeless("lolarecipe10",<firstaid:plaster>,[<ore:string>,<minecraft:paper>]);
-
-recipes.addShaped("lolarecipe11",<firstaid:bandage>*2,
- [[<ore:string>,<minecraft:wool:*>,<ore:string>]]);
 
 recipes.addShaped("lolarecipe12",<mujmajnkraftsbettersurvival:itemwooddagger>,
  [[null,<minecraft:planks:*>],
@@ -197,11 +191,6 @@ recipes.addShaped("lolarecipe28",<wolfarmor:chainmail_wolf_armor>,
  [[<craftablechainmail:chainmail_plate>,null,null],
   [<craftablechainmail:chainmail_plate>,<craftablechainmail:chainmail_plate>,<craftablechainmail:chainmail_plate>],
   [<craftablechainmail:chainmail_plate>,null,<craftablechainmail:chainmail_plate>]]);
-  
-recipes.addShaped("lolarecipe29",<scalinghealth:crystalshard>,
- [[<scalinghealth:heartdust>,<scalinghealth:heartdust>,<scalinghealth:heartdust>],
-  [<scalinghealth:heartdust>,<scalinghealth:heartdust>,<scalinghealth:heartdust>],
-  [<scalinghealth:heartdust>,<scalinghealth:heartdust>,<scalinghealth:heartdust>]]);
 
 recipes.addShaped("lolarecipe30",<bountifulbaubles:amuletsinempty>,
  [[<bountifulbaubles:spectralsilt>,<ore:string>,<bountifulbaubles:spectralsilt>],

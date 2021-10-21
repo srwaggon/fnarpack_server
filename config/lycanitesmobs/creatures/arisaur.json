@@ -1,6 +1,6 @@
 {
   "name": "arisaur",
-  "creatureType": "beast",
+  "creatureType": "reptile",
   "groups": [
     "animal"
   ],
@@ -38,7 +38,7 @@
     "despawnNatural": false,
     "despawnForced": false
   },
-  "width": 4.9,
+  "width": 3.9,
   "height": 4.2,
   "experience": 5,
   "health": 40,
@@ -53,6 +53,7 @@
   "pierce": 1,
   "sight": 24,
   "knockbackResistance": 1,
+  "bagSize": 5,
   "eggBackColor": "#008800",
   "eggForeColor": "#00FF00",
   "subspecies": [

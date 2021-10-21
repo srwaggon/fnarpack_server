@@ -3,7 +3,7 @@
   "loadDefault": true,
   "slotType": "head",
   "dropMobId": "lycanitesmobs:darkling",
-  "dropChance": 0.05,
+  "dropChance": 0.1,
   "levelMin": 2,
   "levelMax": 3,
   "elements": [

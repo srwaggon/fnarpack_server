@@ -4,7 +4,7 @@
       "block": "minecraft:snow_layer",
       "properties": {}
     },
-    "temperature": -2.0
+    "temperature": -3.0
   },
   {
     "state": {
@@ -26,6 +26,13 @@
       "properties": {}
     },
     "temperature": -15.0
+  },
+  {
+    "state": {
+      "block": "minecraft:bed",
+      "properties": {}
+    },
+    "temperature": 2.0
   },
   {
     "state": {

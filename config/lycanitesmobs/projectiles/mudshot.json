@@ -24,5 +24,9 @@
   "ripper": false,
   "pierceBlocks": false,
   "glow": false,
-  "rollSpeed": 4
+  "rollSpeed": 8,
+  "particleCount": 1,
+  "particleType": "fallingdust",
+  "waterParticleType": "bubble",
+  "animationFrames": 8
 }

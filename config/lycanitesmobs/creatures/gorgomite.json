@@ -1,6 +1,6 @@
 {
   "name": "gorgomite",
-  "creatureType": "arthropod",
+  "creatureType": "insect",
   "groups": [
     "monster",
     "critter",
@@ -56,6 +56,7 @@
   "pierce": 1,
   "sight": 24,
   "knockbackResistance": 0,
+  "bagSize": 5,
   "eggBackColor": "#CC9900",
   "eggForeColor": "#884400",
   "subspecies": [

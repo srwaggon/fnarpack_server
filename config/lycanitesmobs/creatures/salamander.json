@@ -1,6 +1,6 @@
 {
   "name": "salamander",
-  "creatureType": "beast",
+  "creatureType": "amphibian",
   "groups": [
     "predator",
     "inferno"
@@ -47,6 +47,8 @@
   "pierce": 1,
   "sight": 24,
   "knockbackResistance": 0.25,
+  "bagSize": 10,
+  "tamingReputation": 500,
   "eggBackColor": "#AACC00",
   "eggForeColor": "#DDFF22",
   "subspecies": [

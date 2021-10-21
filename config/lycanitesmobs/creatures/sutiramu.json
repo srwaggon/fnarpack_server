@@ -1,6 +1,6 @@
 {
   "name": "sutiramu",
-  "creatureType": "arthropod",
+  "creatureType": "arachnid",
   "groups": [
     "predator"
   ],
@@ -54,6 +54,7 @@
   "pierce": 1,
   "sight": 24,
   "knockbackResistance": 0,
+  "bagSize": 5,
   "eggBackColor": "#83553b",
   "eggForeColor": "#2c1c0f",
   "subspecies": [
@@ -74,7 +75,7 @@
     }
   ],
   "elements": [
-    "gravity",
+    "arcane",
     "quake"
   ],
   "diets": [
